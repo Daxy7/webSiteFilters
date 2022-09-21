@@ -1,10 +1,10 @@
 ! Title: Dax's Custom Filters
 ! Description: Filters for domain annoyances, domain ads and placeholders, cookie notices.
 ! Expires: 2 days
-! Homepage: https://github.com/Daxy7/SiteFilters/
+! Homepage: https://github.com/Daxy7/webSiteFilters/
 !
-! GitHub issues: https://github.com/Daxy7/SiteFilters/issues
-! GitHub pull requests: https://github.com/Daxy7/SiteFilters/pulls
+! GitHub issues: https://github.com/Daxy7/webSiteFilters/issues
+! GitHub pull requests: https://github.com/Daxy7/webSiteFilters/pulls
 
 
 imglarger.com##.tingle-modal--visible.custom-class-2.custom-class-1.tingle-modal--noOverlayClose.tingle-modal
