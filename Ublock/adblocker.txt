@@ -138,6 +138,7 @@ twitch.tv##.consent-banner
 youtube.com##ytd-merch-shelf-renderer
 bing.com##.b_op_flyout
 bing.com##.b_floatrt.siz23.scs_exp.nowrap.b_secondaryText.b_suffix
+bing.com###df_load
 youtube.com###dismissible > .ytd-statement-banner-renderer
 youtube,fandom.com##.sitenotice--visible
 youtube.com##.ytd-popup-container:has-text(/Claim Offer|Not Now|YouTube TV|live TV|Live TV|movies|sports|Try it free/i)
