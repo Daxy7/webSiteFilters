@@ -1,2 +1,2 @@
 # SiteFilters
- Block ads and placeholders, cookie alerts, site annoyances.
+Blocks ads and placeholders, cookie alerts, site annoyances.
