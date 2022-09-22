@@ -92,7 +92,7 @@ youtube.com##.ytd-rich-section-renderer:has-text(/Breaking News|Top news/i)
 youtube.com###voice-search-button
 youtube.com###redirect-backto-safety-button
 tampermonkey.net##.advent_head
-youtube.com##a.ytp-menuitem
+*##a.ytp-menuitem
 com##.cookie-infobar
 yandex.com##.ImagesViewerApp-FooterContent
 express.co.uk##.ad-slot-article
