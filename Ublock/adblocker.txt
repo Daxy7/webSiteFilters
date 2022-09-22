@@ -32,6 +32,8 @@ healthline.com###iPopFrame_sw
 tineye.com##.collection.match-row.row
 partitionwizard.com##.promotions-banner-wrap
 web.archive.org##.caroufredsel_wrapper
+discord.com##.animationAndSparklesContainer-7Fwx3i
+discord.com##.animation-1GAstp
 old.reddit.com##.listingsignupbar.infobar
 facebook.com##.asf1osic.k4urcfbm.j9ispegn.poy2od1o.tw6a2znq.m7u2wfa4.d1544ag0.i3j981x3.rq0escxv.rlt63pii.i09qtzwb.hybvsw6c
 ||accounts.google.com/gsi/iframe/select
