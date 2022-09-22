@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/Daxy7/webSiteFilters/main/Ublock/adblocker.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+https://raw.githubusercontent.com/lassekongo83/UserStyles/master/youtube/yt-tweaks.txt
