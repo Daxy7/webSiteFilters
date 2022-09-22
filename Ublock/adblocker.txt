@@ -34,6 +34,8 @@ partitionwizard.com##.promotions-banner-wrap
 web.archive.org##.caroufredsel_wrapper
 discord.com##.animationAndSparklesContainer-7Fwx3i
 discord.com##.animation-1GAstp
+discord.com##.caretBottomCenter-4XccL3:has-text(Connect Xbox to Discord)
+discord.com##.notice-1x8lm-
 old.reddit.com##.listingsignupbar.infobar
 facebook.com##.asf1osic.k4urcfbm.j9ispegn.poy2od1o.tw6a2znq.m7u2wfa4.d1544ag0.i3j981x3.rq0escxv.rlt63pii.i09qtzwb.hybvsw6c
 ||accounts.google.com/gsi/iframe/select
@@ -144,7 +146,7 @@ bing.com###df_load
 bing.com##.teal:has-text(Microsoft Rewards)
 youtube.com###dismissible > .ytd-statement-banner-renderer
 youtube,fandom.com##.sitenotice--visible
-youtube.com##.ytd-popup-container:has-text(/Changes to YouTube’s Terms of Service|Check out your new Library|Get access to exclusive perks|Get YouTube without the ads|How is your experience|How is YouTube today|Our Terms of Service have been updated|Rate your ads|Try it free|Try the YouTube Kids app|What is your biggest complaint|Which problems are you experiencing|You're signed out of YouTube|YouTube TV/i)
+youtube.com##.ytd-popup-container:has-text(/Changes to YouTube’s Terms of Service|Check out your new Library|Get access to exclusive perks|Get YouTube without the ads|How is your experience|How is YouTube today|Our Terms of Service have been updated|Rate your ads|Try it free|Try the YouTube Kids app|What is your biggest complaint|Which problems are you experiencing|You're signed out of YouTube/i)
 youtube.com##.ytd-popup-container:has-text(/Choose what to play next|Join this channel and unlock/i)
 youtube.com##ytd-popup-container:has(#content.yt-tooltip-renderer yt-formatted-string.yt-tooltip-renderer:has-text(/member/))
 youtube.com##tp-yt-iron-dropdown:has-text(/When you send a message/i)
