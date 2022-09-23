@@ -41,6 +41,10 @@ discord.com##.notice-2HEN-u:has-text(Nitro)
 discord.com##.form-3gdLxP:has-text(complete)
 old.reddit.com##.listingsignupbar.infobar
 facebook.com##.tlfeazxf:has-text(See more of)
+vk.com##.PageBottomBanner--bg-blue:has-text(Read only the most interesting posts)
+vk.com###box_layer_wrap
+vk.com###box_layer_bg
+vk.com##body:style(overflow:auto!important)
 ||accounts.google.com/gsi/iframe/select
 
 followlike.net$3p
