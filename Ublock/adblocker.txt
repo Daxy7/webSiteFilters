@@ -151,6 +151,7 @@ bing.com##.b_op_flyout
 bing.com##.b_floatrt.siz23.scs_exp.nowrap.b_secondaryText.b_suffix
 bing.com###df_load
 bing.com##.teal:has-text(Microsoft Rewards)
+bing.com###bepfo.popup:has-text(Microsoft Rewards)
 bing.com##.popup:has-text(Make Bing yours.)
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
