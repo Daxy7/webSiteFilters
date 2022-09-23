@@ -39,7 +39,7 @@ discord.com##.notice-1x8lm-:has-text(account)
 discord.com##.notice-1x8lm-:has-text(complete)
 discord.com##.notice-2HEN-u:has-text(Nitro)
 discord.com##.form-3gdLxP:has-text(complete)
-old.reddit.com##.listingsignupbar.infobar
+reddit.com##.listingsignupbar.infobar
 facebook.com##.tlfeazxf:has-text(See more of)
 vk.com##.PageBottomBanner--bg-blue:has-text(Read only the most interesting posts)
 vk.com###box_layer_wrap
@@ -82,7 +82,7 @@ gstatic.com/youtube/img/promos/growth/*
 youtube.com###big-yoodle
 youtube.com###donation-shelf
 google.*##+js(set, rwt, noopFunc)
-old.reddit.com##.commentsignupbar.infobar
+reddit.com##.commentsignupbar.infobar
 laptopmag.com##.related-articles-block
 yandex.com##.popup2
 yandex.com##.i-bem.serp-item_card.serp-item
@@ -105,8 +105,8 @@ yandex.com##.ImagesViewerApp-FooterContent
 express.co.uk##.ad-slot-article
 youtube.com###product-picker
 youtube.com###comment-teaser
-old.reddit.com##.reddit-video-controller-root.show-only-when-pinned.pinned-controls
-old.reddit.com##.reddit-video-controller-root.buffering-controls > .horizontal.centered
+reddit.com##.reddit-video-controller-root.show-only-when-pinned.pinned-controls
+reddit.com##.reddit-video-controller-root.buffering-controls > .horizontal.centered
 youtube.com##.ytp-button.ytp-remote-button
 youtube.com###clarify-box
 youtube.com##.ryd-tooltip-bar-container
@@ -116,7 +116,7 @@ yandex.com##.MMImage-Origin
 dailymail.co.uk##.horizontal-1eH9F.container-3zJLP
 dailymail.co.uk##.shareComment
 dailymail.co.uk##.vertical-2XJd5.container-3zJLP
-old.reddit.com##.premium-banner-outer
+reddit.com##.premium-banner-outer
 theguardian.com##.dcr-jp0zo1
 mcdonalds.com###cookie-banner.cmp-embed
 youtube.com##.ytp-paid-content-overlay
