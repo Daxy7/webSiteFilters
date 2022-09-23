@@ -153,6 +153,7 @@ bing.com###df_load
 bing.com##.teal:has-text(Microsoft Rewards)
 bing.com###bepfo.popup:has-text(Microsoft Rewards)
 bing.com##.popup:has-text(Make Bing yours.)
+bing.com##.bnp_fly_hp:has-text(Support a cause when you search on Bing)
 bing.com###l_ecrd_blk_5_Poll
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
