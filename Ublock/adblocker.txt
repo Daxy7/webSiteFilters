@@ -76,6 +76,7 @@ pusher.com$3p
 
 chatbot.com$3p
 livechatinc.com$3p
+tidiochat.com$3p
 driftt.com$3p
 
 gstatic.com/youtube/img/promos/growth/*
@@ -157,6 +158,7 @@ bing.com###bepfo
 bing.com##.popup:has-text(Make Bing yours.)
 bing.com##.bnp_fly_hp:has-text(Support a cause when you search on Bing)
 bing.com###l_ecrd_blk_5_Poll
+bing.com##.feedback-binded
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 *##div.l:has-text(To make Medium work,)
