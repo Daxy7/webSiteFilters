@@ -106,6 +106,7 @@ youtube.com##ytd-shelf-renderer:has(span:has-text(/Previously watched/i))
 youtube.com##.ytd-rich-section-renderer:has-text(/Breaking News|Top news/i)
 youtube.com###voice-search-button
 youtube.com###redirect-backto-safety-button
+youtube.com##.opened
 tampermonkey.net##.advent_head
 *##a.ytp-menuitem
 com##.cookie-infobar
