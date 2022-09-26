@@ -81,6 +81,8 @@ tidiochat.com$3p
 intercom.io$3p
 driftt.com$3p
 
+instiengage.com$3p
+
 gstatic.com/youtube/img/promos/growth/*
 youtube.com###big-yoodle
 youtube.com###donation-shelf
