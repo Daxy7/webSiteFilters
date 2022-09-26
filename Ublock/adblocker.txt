@@ -59,6 +59,7 @@ anm.co.uk
 
 cookiebot.com$3p
 cookiepro.com$3p
+cookieinformation.com$3p
 script.wikia.nocookie.net$3p
 consensu.org$3p
 trustarc.com$3p
