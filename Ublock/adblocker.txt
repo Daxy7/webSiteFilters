@@ -45,8 +45,8 @@ vk.com##.PageBottomBanner--bg-blue:has-text(Read only the most interesting posts
 vk.com###box_layer_wrap
 vk.com###box_layer_bg
 vk.com##body:style(overflow:auto!important)
-washingtonpost.com##.purchase-paywall-overlay
 washingtonpost.com##body:style(overflow:auto!important)
+washingtonpost.com##.purchase-paywall-overlay
 ||accounts.google.com/gsi/iframe/select
 
 followlike.net$3p
