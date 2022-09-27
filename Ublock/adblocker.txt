@@ -109,7 +109,7 @@ youtube.com###redirect-backto-safety-button
 youtube.com##.opened
 tampermonkey.net##.advent_head
 *##a.ytp-menuitem
-*##.ytp-title-expanded.ytp-title-channel
+*##.ytp-title-expanded
 com##.cookie-infobar
 yandex.com##.ImagesViewerApp-FooterContent
 express.co.uk##.ad-slot-article
