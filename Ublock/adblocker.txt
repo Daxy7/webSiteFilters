@@ -104,6 +104,7 @@ youtube.com##ytd-shelf-renderer:has(span:has-text(/New for you/i))
 youtube.com##ytd-shelf-renderer:has(span:has-text(/Watch again/i))
 youtube.com##ytd-shelf-renderer:has(span:has-text(/Previously watched/i))
 youtube.com##.ytd-rich-section-renderer:has-text(/Breaking News|Top news/i)
+youtube.com##.ytd-rich-section-renderer.style-scope:has-text(Shorts)
 youtube.com###voice-search-button
 youtube.com###redirect-backto-safety-button
 youtube.com##.opened
