@@ -1,5 +1,5 @@
-! Title: Dax's Custom Filters
-! Description: uBlock Origin filters for domain annoyances, domain ads and placeholders, cookie notices.
+! Title: Dax's Extra Cosmetic Filters
+! Description: Extra cosmetic uBlock Origin filters for domain annoyances, domain ads and placeholders, cookie notices.
 ! Expires: 1 day
 ! Homepage: https://github.com/Daxy7/webSiteFilters/
 !
@@ -7,7 +7,76 @@
 ! GitHub pull requests: https://github.com/Daxy7/webSiteFilters/pulls
 
 imglarger.com##.tingle-modal--visible.custom-class-2.custom-class-1.tingle-modal--noOverlayClose.tingle-modal
+
+
+||waifu2x.booru.pics/static/back.jpg$image
+
+
+garrysmods.org##.blocker.jquery-modal
+
+
+steamcommunity.com##.cookiepreferences_popup_content
+
+
+technologyreview.com##.overlayFooter__wrapper--3DhFn
+
+
 deepl.com##.focus-visible-light-container
+
+
+eezzee.io##.need-captcha.download-input.search-input.form-control
+
+
+audio.online-convert.com##.uixhjspfnc2z
+
+
+thetechgame.com##marquee > .bold > span
+
+
+seniorsmatter.com##.d6nf3r48utsq
+
+
+xnxx.com##.slogan
+
+
+liangshunet.com##div.mt.rList > .imgShow
+liangshunet.com##.imgShow.mt.rtList
+
+
+rule34.xxx##.sidebarRight
+
+
+mega.nz##.fm-dialog-overlay
+
+
+fileproinfo.com##.overlay
+
+
+seopolarity.com##.in.loginme.fade.modal
+seopolarity.com##.in.fade.modal-backdrop
+
+
+||subtitlebee.com/assets/images/watermark.png$image
+
+
+gaiahealthblog.com##.textwidget
+
+
+allreadable.com##.quarterScreenBanner.UnauthBanner.InlineSignup
+
+
+es-es.facebook.com###u_0_1i_OJ
+
+
+mirror.co.uk##header.max-content
+
+
+quora.com##.qu-zIndex--inline_overlay.q-box
+
+
+oukyi.blogspot.com##.singleton-element.cookie-choices-info
+
+
 twitter.com##.r-1upvrn0.r-l5o3uw.css-1dbjc4n
 twitter.com##.r-16wqof.r-1dqxon3.r-16y2uox.r-kemksi.css-1dbjc4n
 twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n > .r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbjc4n
@@ -15,22 +84,97 @@ twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx
 twitter.com##body:style(overflow: auto !important;)
 twitter.com##html->body:style(overflow:visible !important;)
 twitter.com##html:style(overflow:visible !important;)
+
+
 thewordfinder.com##.container > .col-md-12
+
+
 subtitlebee.com##.width100.discount-offer
+
+
 websiteplanet.com###ctrl-d-popup
 websiteplanet.com##.atf.ads-container
+
+
+freemidi.org##+js(nobab)
+
+
+cprato.com##.show.fade.modal
+cprato.com##.show.fade.modal-backdrop
+
+
+discord.com##.animation-1GAstp > svg
+
+
+livegore.com##.see-all
+
+
 duckduckgo.com##.js-badge-link
+
+
 youtube.com###sponsor-button
+
+
+||s0.wp.com/wp-content/themes/pub/emire/images/stripes.gif$image
+
+
 tvtropes.org###adblockModal-hidden
+
+
 twitch.tv###twilight-sticky-footer-root
+
+
+subtitlebee.com###upload-wrapper > .text-center
+
+
 scp-wiki.wikidot.com##.interwiki-stylable.scpnet-interwiki-wrapper
+
+
 music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container.style-scope > .ytmusic-popup-container.style-scope
+
+
 deepl.com##.focus-visible-light-container.Snackbar_module_Snackbar__a3721153
+
+
 urbandictionary.com##.h-\[600px\].justify-center.items-center.lg\:flex.hidden.mb-4
+
+
+moddb.com##.new
+
+
 healthline.com###iPopFrame_sw
+
+
+knowyourmeme.com##.top_comments
+
+
 tineye.com##.collection.match-row.row
+
+
+quizony.com##.fEy1Z2XT
+
+
+canyoublockit.com##.wpd-avatar
+
+
 partitionwizard.com##.promotions-banner-wrap
+
+
 web.archive.org##.caroufredsel_wrapper
+
+
+livegore.com##.ads
+
+
+alivegore.com##.sticky.header
+
+
+reddit.com##.listingsignupbar.infobar
+
+
+facebook.com##.tlfeazxf:has-text(See more of)
+
+
 discord.com##.animationAndSparklesContainer-7Fwx3i
 discord.com##.animation-1GAstp
 discord.com##.caretBottomCenter-4XccL3:has-text(Connect Xbox to Discord)
@@ -38,15 +182,17 @@ discord.com##.notice-1x8lm-:has-text(account)
 discord.com##.notice-1x8lm-:has-text(complete)
 discord.com##.notice-2HEN-u:has-text(Nitro)
 discord.com##.form-3gdLxP:has-text(complete)
-reddit.com##.listingsignupbar.infobar
-facebook.com##.tlfeazxf:has-text(See more of)
-vk.com##.PageBottomBanner--bg-blue:has-text(Read only the most interesting posts)
-vk.com###box_layer_wrap
-vk.com###box_layer_bg
-vk.com##body:style(overflow:auto!important)
-washingtonpost.com##body:style(overflow:auto!important)
-washingtonpost.com##.purchase-paywall-overlay
+
+
+newgrounds.com##.header-deck > .pod
+
+
+rule34.xxx###note-container
+
 ||accounts.google.com/gsi/iframe/select
+
+
+nandos.co.uk##button > .veggie
 
 followlike.net$3p
 mochiads.com$3p
@@ -82,20 +228,35 @@ tidiochat.com$3p
 intercom.io$3p
 driftt.com$3p
 
-t-msedge.net$3p
 instiengage.com$3p
+t-msedge.net$3p
+
+
+unknowncheats.me###ab_notice3
+unknowncheats.me###ab_notice1
 
 gstatic.com/youtube/img/promos/growth/*
 youtube.com###big-yoodle
+
+
 youtube.com###donation-shelf
+
 google.*##+js(set, rwt, noopFunc)
+
+
 reddit.com##.commentsignupbar.infobar
+
+
 laptopmag.com##.related-articles-block
+
+
 yandex.com##.popup2
 yandex.com##.i-bem.serp-item_card.serp-item
+
 youtube.com##ytd-video-preview
 youtube.com##ytd-thumbnail-overlay-loading-preview-renderer
 youtube.com##ytd-thumbnail-overlay-time-status-renderer:style(display: inline-flex !important;)
+
 youtube.com##ytd-shelf-renderer:has(span:has-text(/Related to your search/i))
 youtube.com##ytd-shelf-renderer:has-text(/People also watched/)
 youtube.com###contents > ytd-shelf-renderer:has-text(/For you/)
@@ -103,34 +264,86 @@ youtube.com##ytd-shelf-renderer:has(span:has-text(/New for you/i))
 youtube.com##ytd-shelf-renderer:has(span:has-text(/Watch again/i))
 youtube.com##ytd-shelf-renderer:has(span:has-text(/Previously watched/i))
 youtube.com##.ytd-rich-section-renderer:has-text(/Breaking News|Top news/i)
-youtube.com##.ytd-rich-section-renderer.style-scope:has-text(Shorts)
+
+
 youtube.com###voice-search-button
 youtube.com###redirect-backto-safety-button
-youtube.com##.opened
+
+
+
 tampermonkey.net##.advent_head
+
+
 *##a.ytp-menuitem
+
+
 com##.cookie-infobar
+
+
 yandex.com##.ImagesViewerApp-FooterContent
+
+
 express.co.uk##.ad-slot-article
+
+
 youtube.com###product-picker
+
+
+steamid.uk##.pb-3.mt-0.primary.card > .text-center.row
+
+
 youtube.com###comment-teaser
+
+
 reddit.com##.reddit-video-controller-root.show-only-when-pinned.pinned-controls
 reddit.com##.reddit-video-controller-root.buffering-controls > .horizontal.centered
+
+
+watchpeopledie.co##.mr-2
+watchpeopledie.co##bdi
+watchpeopledie.co##.profile-pic-30-wrapper
+||watchpeopledie.co/pp/$image
+||watchpeopledie.co/assets/js/rica*$script,1p
+watchpeopledie.co##[src="/i/ricardo1.webp"]
+watchpeopledie.co##[src="/e/marseyscooter.webp"]
+watchpeopledie.co##[src="/e/marseytrain.webp"]
+||watchpeopledie.co/assets/js/fire*$script,1p
+||watchpeopledie.co/assets/js/bugs*$script,1p
+||watchpeopledie.co/assets/css/awards.css$css,1p
+
+
 youtube.com##.ytp-button.ytp-remote-button
 youtube.com###clarify-box
+
+
+rule34.xxx##div.horizontalFlexWithMargins
+
+
 youtube.com##.ryd-tooltip-bar-container
+
+
 yandex.com##div.incut
 yandex.com##div.JustifierRowLayout-Incut
 yandex.com##.MMImage-Origin
+
+
 dailymail.co.uk##.horizontal-1eH9F.container-3zJLP
 dailymail.co.uk##.shareComment
 dailymail.co.uk##.vertical-2XJd5.container-3zJLP
-dailymail.co.uk##.linkro-wocc.link-bogr2
-dailymail.co.uk##.cleared.puff
+
+
 reddit.com##.premium-banner-outer
+
+
 theguardian.com##.dcr-jp0zo1
+
+
 mcdonalds.com###cookie-banner.cmp-embed
+
+
 youtube.com##.ytp-paid-content-overlay
+
+
 duplichecker.com##.text-cefnter
 duplichecker.com##.texdt-cendter
 duplichecker.com##.tedxt-center
@@ -145,21 +358,54 @@ duplichecker.com###cookie_directive_container
 duplichecker.com##.st_dd
 duplichecker.com##.csdds
 duplichecker.com##.p8
+
+
+livegore.com###notice_visitor
+
 *##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
+
+
 music.youtube.com##.ytmusic-like-button-renderer.style-scope.dislike
+
+
 urbandictionary.com##.leaderboard-250\:h-\[250px\]
+
+
 google.com##.irmCpc
 google.com##.Qq9jLd
 google.com##.commercial-unit-desktop-top
 google.com##.cu-container
 google.com##.gVqDn
+
+
+bestgore.fun##.broadcast-message
+
+
+eminetracanada.com##.image-hydration-wrapper
+
+
 getpocket.com##.syndication-ad
+
+
 youtube.com##.ytd-inline-survey-renderer
+
+
+totaljerkface.com###contentElement
+
+
 youtube.com##.yt-live-chat-viewer-engagement-message-renderer
+
+
 twitch.tv##.consent-banner
+
+
 youtube.com##ytd-merch-shelf-renderer
+
+
+/fluidplayer.js$script,domain=rule34.xxx
+
+
 bing.com##.b_op_flyout
-bing.com###b_opalpers
 bing.com##.b_floatrt.siz23.scs_exp.nowrap.b_secondaryText.b_suffix
 bing.com###df_load
 bing.com##.teal
@@ -169,16 +415,65 @@ bing.com##.popup:has-text(Make Bing yours.)
 bing.com##.bnp_fly_hp:has-text(Support a cause when you search on Bing)
 bing.com###l_ecrd_blk_5_Poll
 bing.com##.feedback-binded
-! The filter below needs improvement (randomly generated cosmetic ids)
-! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-*##div.l:has-text(To make Medium work,)
+
+
 youtube.com###dismissible > .ytd-statement-banner-renderer
+
 youtube,fandom.com##.sitenotice--visible
+
 youtube.com##.ytd-popup-container:has-text(/Changes to YouTube’s Terms of Service|Check out your new Library|Get access to exclusive perks|Get YouTube without the ads|How is your experience|How is YouTube today|Our Terms of Service have been updated|Rate your ads|Try it free|Try the YouTube Kids app|What is your biggest complaint|Which problems are you experiencing|You're signed out of YouTube/i)
 youtube.com##.ytd-popup-container:has-text(/Choose what to play next|Join this channel and unlock/i)
-youtube.com##ytd-popup-container:has(#content.yt-tooltip-renderer yt-formatted-string.yt-tooltip-renderer:has-text(/member/))
 youtube.com##tp-yt-iron-dropdown:has-text(/When you send a message/i)
 youtube.com##.yt-tooltip-renderer:has-text(/Subscribe so you never miss/i)
+
+! Title: Oldish YouTube
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/lassekongo83/UserStyles
+! Description: uBlock Origin version of https://github.com/lassekongo83/yt-classic-polymer
+
+! The extension have more options: https://github.com/lassekongo83/yt-classic-polymer
+! The CSS files from that extension can also be used in an ordinary UserStyle manager.
+
+! various scripts that can be blocked
+/web-animations-next-lite.$script,domain=youtube.com
+/www-tampering.$script,domain=youtube.com
+! Block the casting script
+/remote.js$script,domain=youtube.com
+! disables animated thumbnails
+||i.ytimg.com/an_webp/
+! Gets rid of the premium button
 youtube.com###endpoint[href="/premium"]
+! Gets rid of the annoying "become a member" tooltip for english and swedish users of the site
+youtube.com##ytd-popup-container:has(#content.yt-tooltip-renderer yt-formatted-string.yt-tooltip-renderer:has-text(/member/))
+
+
 youtube.com##.ytd-recognition-shelf-renderer
 
+
+vk.com##.PageBottomBanner--bg-blue:has-text(Read only the most interesting posts)
+vk.com###box_layer_wrap
+vk.com###box_layer_bg
+vk.com##body:style(overflow:auto!important)
+
+
+*##div.l:has-text(To make Medium work,)
+
+
+washingtonpost.com##.purchase-paywall-overlay
+washingtonpost.com##body:style(overflow:auto!important)
+
+
+youtube.com##.opened
+
+
+discord.com##.imageAccessory-2yA7Kb
+
+
+aha-music.com##.content-section-a
+
+
+youtube.com##.ytd-rich-section-renderer.style-scope:has-text(Shorts)
+
+
+dailymail.co.uk##.linkro-wocc.link-bogr2
+dailymail.co.uk##.cleared.puff
