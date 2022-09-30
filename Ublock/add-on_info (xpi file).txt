@@ -1,1 +1,2 @@
-extension goes in C:\Users\%USER%\AppData\Roaming\Mozilla\Firefox\Profiles\[yourprofile]\extensions
+1. extension goes in C:\Users\%USER%\AppData\Roaming\Mozilla\Firefox\Profiles\[yourprofile]\extensions
+2. Close and reopen Firefox if open
