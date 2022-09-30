@@ -94,6 +94,7 @@ reddit.com##.commentsignupbar.infobar
 laptopmag.com##.related-articles-block
 yandex.com##.popup2
 yandex.com##.i-bem.serp-item_card.serp-item
+yandex.com##.DistrPopup-Content
 youtube.com##ytd-video-preview
 youtube.com##ytd-thumbnail-overlay-loading-preview-renderer
 youtube.com##ytd-thumbnail-overlay-time-status-renderer:style(display: inline-flex !important;)
@@ -171,6 +172,7 @@ bing.com##.popup:has-text(Make Bing yours.)
 bing.com##.bnp_fly_hp:has-text(Support a cause when you search on Bing)
 bing.com###l_ecrd_blk_5_Poll
 bing.com##.feedback-binded
+bing.com##li.b_ans:has-text(Trending on Bing)
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 *##div.l:has-text(To make Medium work,)
