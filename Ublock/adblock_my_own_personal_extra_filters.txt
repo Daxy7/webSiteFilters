@@ -246,3 +246,4 @@ youtube.com##.ytd-rich-section-renderer.style-scope:has-text(Shorts|Trending Sho
 dailymail.co.uk##.linkro-wocc.link-bogr2
 dailymail.co.uk##.cleared.puff
 wired.com##.persistent-bottom
+yandex.com##.DistrPopup-Content
