@@ -45,6 +45,7 @@ vk.com###box_layer_bg
 vk.com##body:style(overflow:auto!important)
 washingtonpost.com##body:style(overflow:auto!important)
 washingtonpost.com##.purchase-paywall-overlay
+wired.com##.persistent-bottom
 ||accounts.google.com/gsi/iframe/select
 
 followlike.net$3p

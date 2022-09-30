@@ -238,7 +238,7 @@ washingtonpost.com##body:style(overflow:auto!important)
 youtube.com##.opened
 discord.com##.imageAccessory-2yA7Kb
 aha-music.com##.content-section-a
-youtube.com##.ytd-rich-section-renderer.style-scope:has-text(Shorts)
-youtube.com##.ytd-item-section-renderer:has-text(Trending Shorts)
+youtube.com##.ytd-rich-section-renderer.style-scope:has-text(Shorts|Trending Shorts)
 dailymail.co.uk##.linkro-wocc.link-bogr2
 dailymail.co.uk##.cleared.puff
+wired.com##.persistent-bottom
