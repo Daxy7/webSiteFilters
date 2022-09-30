@@ -63,6 +63,7 @@ cookiepro.com$3p
 cookieinformation.com$3p
 script.wikia.nocookie.net$3p
 consensu.org$3p
+consentframework.com$3p
 trustarc.com$3p
 onetrust.com$3p
 ezodn.com$3p
