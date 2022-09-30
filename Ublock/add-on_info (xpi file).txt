@@ -1,4 +1,4 @@
 1. extension goes in C:\Users\%USER%\AppData\Roaming\Mozilla\Firefox\Profiles\[yourprofile]\extensions
 2. Close and reopen Firefox if open
 
-Credit goes to thewheat for making this possible.
+Credit goes to thewheat, a Mozilla Firefox user, for making this possible.
