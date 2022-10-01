@@ -226,6 +226,7 @@ youtube.com##.ytd-popup-container:has-text(/Changes to YouTube’s Terms of Serv
 youtube.com##.ytd-popup-container:has-text(/Choose what to play next|Join this channel and unlock/i)
 youtube.com##tp-yt-iron-dropdown:has-text(/When you send a message/i)
 youtube.com##.yt-tooltip-renderer:has-text(/Subscribe so you never miss/i)
+music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container:has-text(Try)
 /web-animations-next-lite.$script,domain=youtube.com
 /tampering.$script,domain=youtube.com
 /remote.js$script,domain=youtube.com
