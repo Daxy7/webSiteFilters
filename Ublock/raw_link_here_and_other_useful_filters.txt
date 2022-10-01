@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/Daxy7/webSiteFilters/main/Ublock/adblocker_main_file.txt
 https://raw.githubusercontent.com/Daxy7/webSiteFilters/main/Ublock/adblock_my_own_personal_extra_filters.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
+https://github.com/t-mart/kill-sticky
 https://raw.githubusercontent.com/lassekongo83/UserStyles/master/youtube/yt-tweaks.txt
