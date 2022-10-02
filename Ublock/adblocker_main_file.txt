@@ -177,14 +177,15 @@ bing.com##li.b_ans:has-text(Trending on Bing)
 bing.com###textDeeplinksWidgetContainer
 ! Makes bing look more like google
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-www.bing.com###b_dynRail
-www.bing.com##.slide-in.b_widgetContainer
-www.bing.com##.tab-container
-www.bing.com###b_pole
-www.bing.com##.qpbold.qpluscrs:has-text(Explore)
-www.bing.com##.b_rc_gb_wrc_carousel_container:has-text(Also mentioned)
-www.bing.com##.disambig-outline:has-text(See results for)
-www.bing.com##.scs_txt.scs_t:has-text(See this)
+bing.com###b_dynRail
+bing.com##.slide-in.b_widgetContainer
+bing.com##.tab-container
+bing.com###b_pole
+bing.com##.qpbold.qpluscrs:has-text(Explore)
+bing.com##.b_rc_gb_wrc_carousel_container:has-text(Also mentioned)
+bing.com##.disambig-outline:has-text(See results for)
+bing.com##.scs_txt.scs_t:has-text(See this)
+bing.com##.scs_t:has-text(See this)
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 *##div.l:has-text(To make Medium work,)
