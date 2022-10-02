@@ -183,9 +183,11 @@ bing.com##.tab-container
 bing.com###b_pole
 bing.com##.qpbold.qpluscrs:has-text(Explore)
 bing.com##.b_rc_gb_wrc_carousel_container:has-text(Also mentioned)
-bing.com##.disambig-outline:has-text(See results for)
 bing.com##.scs_txt.scs_t:has-text(See this)
 bing.com##.scs_t:has-text(See this)
+bing.com###b_othersqli:has-text(Suggested searches)
+bing.com##li.b_ans:has-text(Did you know?)
+bing.com##.b_explans:has-text(Explore)
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 *##div.l:has-text(To make Medium work,)
