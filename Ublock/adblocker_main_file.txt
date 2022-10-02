@@ -188,6 +188,7 @@ bing.com##.scs_t:has-text(See this)
 bing.com###b_othersqli:has-text(Suggested searches)
 bing.com##li.b_ans:has-text(Did you know?)
 bing.com##.b_explans:has-text(Explore)
+bing.com##.l_ecrd_simgset
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 *##div.l:has-text(To make Medium work,)
