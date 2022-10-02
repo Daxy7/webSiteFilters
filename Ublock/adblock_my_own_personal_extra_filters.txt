@@ -220,6 +220,16 @@ bing.com###l_ecrd_blk_5_Poll
 bing.com##.feedback-binded
 bing.com##li.b_ans:has-text(Trending on Bing)
 bing.com###textDeeplinksWidgetContainer
+! Makes bing look more like google
+! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+www.bing.com###b_dynRail
+www.bing.com##.slide-in.b_widgetContainer
+www.bing.com##.tab-container
+www.bing.com###b_pole
+www.bing.com##.qpbold.qpluscrs:has-text(Explore)
+www.bing.com##.b_rc_gb_wrc_carousel_container:has-text(Also mentioned)
+www.bing.com##.disambig-outline:has-text(See results for)
+www.bing.com##.scs_txt.scs_t:has-text(See this)
 youtube.com###dismissible > .ytd-statement-banner-renderer
 youtube,fandom.com##.sitenotice--visible
 youtube.com##.ytd-popup-container:has-text(/Changes to YouTube’s Terms of Service|Check out your new Library|Get access to exclusive perks|Get YouTube without the ads|How is your experience|How is YouTube today|Our Terms of Service have been updated|Rate your ads|Try it free|Try the YouTube Kids app|What is your biggest complaint|Which problems are you experiencing|You're signed out of YouTube/i)
