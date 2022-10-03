@@ -47,6 +47,7 @@ washingtonpost.com##body:style(overflow:auto!important)
 washingtonpost.com##.purchase-paywall-overlay
 wired.com##.persistent-bottom
 ||accounts.google.com/gsi/iframe/select
+*##.grecaptcha-badge
 
 followlike.net$3p
 mochiads.com$3p
