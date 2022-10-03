@@ -157,6 +157,8 @@ watchpeopledie.co##.profile-pic-30-wrapper
 ||watchpeopledie.co/pp/$image
 ||watchpeopledie.co/assets/js/rica*$script,1p
 watchpeopledie.co##[src="/i/ricardo1.webp"]
+watchpeopledie.co##[src="/i/ricardo2.webp"]
+watchpeopledie.co##[src="/i/ricardo3.webp"]
 watchpeopledie.co##[src="/e/marseyscooter.webp"]
 watchpeopledie.co##[src="/e/marseytrain.webp"]
 ||watchpeopledie.co/assets/js/fire*$script,1p
