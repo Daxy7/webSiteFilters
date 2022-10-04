@@ -1,3 +1,11 @@
+! Title: Dax's Admiral Filters
+! Description: uBlock Origin filters for adblocker notice.
+! Expires: 1 day
+! Homepage: https://github.com/Daxy7/webSiteFilters/
+!
+! GitHub issues: https://github.com/Daxy7/webSiteFilters/issues
+! GitHub pull requests: https://github.com/Daxy7/webSiteFilters/pulls
+
 poeticpackage.com
 producepickle.com
 psychedelicarithmetic.com
