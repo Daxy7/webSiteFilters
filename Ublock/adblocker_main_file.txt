@@ -52,12 +52,15 @@ wired.com##.persistent-bottom
 followlike.net$3p
 mochiads.com$3p
 
+followlike.net$3p
+mochiads.com$3p
+
 facebook.com$3p
 facebook.net$3p
-graph.instagram.com$3p
 quora.com$3p
 buymeacoffee.com$3p
-anm.co.uk
+cwchmb.com$3p
+getadmiral.com$3p
 
 cookiebot.com$3p
 cookiepro.com$3p
@@ -84,8 +87,8 @@ tidiochat.com$3p
 intercom.io$3p
 driftt.com$3p
 
-zoho.com$3p
 instiengage.com$3p
+zoho.com$3p
 
 gstatic.com/youtube/img/promos/growth/*
 youtube.com###big-yoodle
