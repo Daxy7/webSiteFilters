@@ -83,14 +83,12 @@ nandos.co.uk##button > .veggie
 
 followlike.net$3p
 mochiads.com$3p
-
 facebook.com$3p
 facebook.net$3p
 quora.com$3p
 buymeacoffee.com$3p
 cwchmb.com$3p
 getadmiral.com$3p
-
 
 cookiebot.com$3p
 cookiepro.com$3p

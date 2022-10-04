@@ -51,10 +51,6 @@ wired.com##.persistent-bottom
 
 followlike.net$3p
 mochiads.com$3p
-
-followlike.net$3p
-mochiads.com$3p
-
 facebook.com$3p
 facebook.net$3p
 quora.com$3p
