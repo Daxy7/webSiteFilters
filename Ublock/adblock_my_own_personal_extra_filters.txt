@@ -90,6 +90,7 @@ buymeacoffee.com$3p
 cwchmb.com$3p
 getadmiral.com$3p
 
+||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/
 cookiebot.com$3p
 cookiepro.com$3p
 cookieinformation.com$3p
