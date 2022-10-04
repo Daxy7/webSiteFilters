@@ -113,6 +113,7 @@ chatbot.com$3p
 livechatinc.com$3p
 tidiochat.com$3p
 intercom.io$3p
+usemessages.com$3p
 driftt.com$3p
 
 instiengage.com$3p
@@ -144,6 +145,7 @@ youtube.com###redirect-backto-safety-button
 tampermonkey.net##.advent_head
 *##a.ytp-menuitem
 com##.cookie-infobar
+*##.cookie-choices-info
 yandex.com##.ImagesViewerApp-FooterContent
 express.co.uk##.ad-slot-article
 youtube.com###product-picker
