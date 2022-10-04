@@ -116,6 +116,7 @@ tampermonkey.net##.advent_head
 *##a.ytp-menuitem
 com##.cookie-infobar
 *##.cookie-choices-info
+*###cookieDialog
 wikipedia.org###siteNotice
 yandex.com##.ImagesViewerApp-FooterContent
 express.co.uk##.ad-slot-article
