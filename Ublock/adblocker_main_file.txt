@@ -46,6 +46,7 @@ vk.com##body:style(overflow:auto!important)
 washingtonpost.com##body:style(overflow:auto!important)
 washingtonpost.com##.purchase-paywall-overlay
 wired.com##.persistent-bottom
+wsj.com###cx-articlecover
 ||accounts.google.com/gsi/iframe/select
 *##.grecaptcha-badge
 

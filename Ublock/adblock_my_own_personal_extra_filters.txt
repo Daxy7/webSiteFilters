@@ -264,6 +264,7 @@ vk.com##body:style(overflow:auto!important)
 *##div.l:has-text(To make Medium work,)
 washingtonpost.com##.purchase-paywall-overlay
 washingtonpost.com##body:style(overflow:auto!important)
+wsj.com###cx-articlecover
 youtube.com##.opened
 discord.com##.imageAccessory-2yA7Kb
 aha-music.com##.content-section-a
