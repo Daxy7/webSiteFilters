@@ -48,7 +48,6 @@ cprato.com##.show.fade.modal-backdrop
 discord.com##.animation-1GAstp > svg
 livegore.com##.see-all
 duckduckgo.com##.js-badge-link
-youtube.com###sponsor-button
 ||s0.wp.com/wp-content/themes/pub/emire/images/stripes.gif$image
 tvtropes.org###adblockModal-hidden
 twitch.tv###twilight-sticky-footer-root

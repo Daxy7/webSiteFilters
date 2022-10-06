@@ -20,7 +20,6 @@ subtitlebee.com##.width100.discount-offer
 websiteplanet.com###ctrl-d-popup
 websiteplanet.com##.atf.ads-container
 duckduckgo.com##.js-badge-link
-youtube.com###sponsor-button
 tvtropes.org###adblockModal-hidden
 twitch.tv###twilight-sticky-footer-root
 scp-wiki.wikidot.com##.interwiki-stylable.scpnet-interwiki-wrapper
