@@ -86,7 +86,6 @@ facebook.com$3p
 facebook.net$3p
 quora.com$3p
 buymeacoffee.com$3p
-cwchmb.com$3p
 getadmiral.com$3p
 
 ||cdn.cookielaw.org/consent/
@@ -167,6 +166,8 @@ watchpeopledie.co##[src="/i/ricardo2.webp"]
 watchpeopledie.co##[src="/i/ricardo3.webp"]
 watchpeopledie.co##[src="/e/marseyscooter.webp"]
 watchpeopledie.co##[src="/e/marseytrain.webp"]
+||watchpeopledie.co/assets/images/WPD/banners/$image
+watchpeopledie.co###logo-container > [href] > .ml-1
 ||watchpeopledie.co/assets/js/fire*$script,1p
 ||watchpeopledie.co/assets/js/bugs*$script,1p
 ||watchpeopledie.co/assets/css/awards.css$css,1p

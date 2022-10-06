@@ -1,5 +1,5 @@
 ! Title: Dax's Admiral Filters
-! Description: uBlock Origin filters for adblocker notice.
+! Description: uBlock Origin filters for adblocker notice, plus additional ip grabbed filters. (virustotal)
 ! Expires: 2 days
 ! Homepage: https://github.com/Daxy7/webSiteFilters/
 !
@@ -441,3 +441,24 @@ captainbicycle.com
 flavordecision.com
 64.98.201.35.bc.googleusercontent.com
 delightdriving.com
+
+cwchmb.com
+cbmiocw.com
+lcwfabt1.com
+lcwfabt2.com
+lcwfabt3.com
+ccmiocw.com
+cdmiocw.com
+camiocw.com
+external-api.camshq.info
+
+xjzyxlesdcq.com
+qmbaabdsyg.com
+omggxbcdqj.com
+vnrkbnmoow.com
+lmepychqzfpqlw.com
+dfpbnfapwcfap.com
+vigllnztz.com
+nezutwdmzvrkv.com
+xylocscvup.com
+fjnyuldhkdft.com
