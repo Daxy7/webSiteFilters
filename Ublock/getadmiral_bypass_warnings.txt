@@ -1,6 +1,6 @@
 ! Title: Dax's Admiral Filters
 ! Description: uBlock Origin filters for adblocker notice, plus additional ip grabbed filters. (virustotal)
-! Expires: 6 hours
+! Expires: 1 day
 ! Date 06-10-2022
 ! Homepage: https://github.com/Daxy7/webSiteFilters/
 !
