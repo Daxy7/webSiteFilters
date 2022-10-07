@@ -167,6 +167,7 @@ watchpeopledie.co##[src="/i/ricardo2.webp"]
 watchpeopledie.co##[src="/i/ricardo3.webp"]
 watchpeopledie.co##[src="/e/marseyscooter.webp"]
 watchpeopledie.co##[src="/e/marseytrain.webp"]
+||watchpeopledie.co/assets/images/WPD/sidebar/*$image
 ||watchpeopledie.co/assets/images/WPD/banners/$image
 watchpeopledie.co###logo-container > [href] > .ml-1
 ||watchpeopledie.co/assets/js/fire*$script,1p
