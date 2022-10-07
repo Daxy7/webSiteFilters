@@ -75,6 +75,7 @@ privacymanager.io$3p
 quantcast.com$3p
 nexus.ensighten.com$3p
 osano.com$3p
+js.hs-banner.com$3p
 
 browser-update.org$3p
 pusher.com$3p
