@@ -117,6 +117,7 @@ tidiochat.com$3p
 intercom.io$3p
 engage.wixapps.net$3p
 usemessages.com$3p
+freshbots.ai$3p
 driftt.com$3p
 
 instiengage.com$3p
