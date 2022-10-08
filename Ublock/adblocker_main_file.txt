@@ -1,7 +1,7 @@
 ! Title: Dax's Custom Filters
 ! Description: uBlock Origin filters for domain annoyances, domain ads and placeholders, cookie notices.
 ! Expires: 1 day
-! Date 06-10-2022
+! Date 08-10-2022
 ! Homepage: https://github.com/Daxy7/webSiteFilters/
 !
 ! GitHub issues: https://github.com/Daxy7/webSiteFilters/issues
@@ -47,6 +47,7 @@ washingtonpost.com##body:style(overflow:auto!important)
 washingtonpost.com##.purchase-paywall-overlay
 wired.com##.persistent-bottom
 wsj.com###cx-articlecover
+washingtonpost.com##.overflow-hidden:has-text(Stay informed)
 ||accounts.google.com/gsi/iframe/select
 *##.grecaptcha-badge
 
