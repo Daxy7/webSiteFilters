@@ -289,5 +289,6 @@ youtube.com##.ytd-item-section-renderer:has-text(Trending Shorts)
 dailymail.co.uk##.linkro-wocc.link-bogr2
 dailymail.co.uk##.cleared.puff
 wired.com##.persistent-bottom
+wired.com##.paywall-bar-failsafe
 yandex.com##.DistrPopup-Content
 washingtonpost.com##.overflow-hidden:has-text(Stay informed)
