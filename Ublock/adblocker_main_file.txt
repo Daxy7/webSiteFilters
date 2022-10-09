@@ -49,7 +49,7 @@ wired.com##.persistent-bottom
 wsj.com###cx-articlecover
 washingtonpost.com##.overflow-hidden:has-text(Stay informed)
 ||accounts.google.com/gsi/iframe/select
-*##.grecaptcha-badge
+google.com##.rc-anchor-invisible-hover
 
 followlike.net$3p
 mochiads.com$3p

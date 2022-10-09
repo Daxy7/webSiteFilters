@@ -78,7 +78,7 @@ discord.com##.form-3gdLxP:has-text(complete)
 newgrounds.com##.header-deck > .pod
 rule34.xxx###note-container
 ||accounts.google.com/gsi/iframe/select
-*##.grecaptcha-badge
+google.com##.rc-anchor-invisible-hover
 nandos.co.uk##button > .veggie
 
 followlike.net$3p
