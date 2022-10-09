@@ -50,6 +50,7 @@ wsj.com###cx-articlecover
 washingtonpost.com##.overflow-hidden:has-text(Stay informed)
 ||accounts.google.com/gsi/iframe/select
 google.com##.rc-anchor-invisible-hover
+com,net,org##.grecaptcha-badge
 
 followlike.net$3p
 mochiads.com$3p
