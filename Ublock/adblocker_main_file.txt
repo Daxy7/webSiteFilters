@@ -72,6 +72,9 @@ consentframework.com$3p
 trustarc.com$3p
 onetrust.com$3p
 ezodn.com$3p
+ezoic.net$3p
+ezoic.com$3p
+ezoiccdn.com$3p
 privacy-mgmt.com$3p
 privacy-center.org$3p
 privacymanager.io$3p

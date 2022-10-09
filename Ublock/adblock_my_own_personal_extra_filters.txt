@@ -102,9 +102,13 @@ consentframework.com$3p
 trustarc.com$3p
 onetrust.com$3p
 ezodn.com$3p
+ezoic.net$3p
+ezoic.com$3p
+ezoiccdn.com$3p
 privacy-mgmt.com$3p
 privacy-center.org$3p
 privacymanager.io$3p
+complianz.io$3p
 quantcast.com$3p
 nexus.ensighten.com$3p
 osano.com$3p
@@ -118,6 +122,7 @@ livechatinc.com$3p
 tidiochat.com$3p
 intercom.io$3p
 engage.wixapps.net$3p
+liveperson.net$3p
 usemessages.com$3p
 freshbots.ai$3p
 driftt.com$3p
