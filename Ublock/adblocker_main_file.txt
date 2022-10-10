@@ -106,6 +106,7 @@ instiengage.com$3p
 inline.healthline.com
 zoho.com$3p
 
+com,org.net,info##.exit-intent__background.exit-intent
 gstatic.com/youtube/img/promos/growth/*
 youtube.com###big-yoodle
 youtube.com###donation-shelf
