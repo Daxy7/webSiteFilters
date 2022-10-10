@@ -135,6 +135,7 @@ tampermonkey.net##.advent_head
 com##.cookie-infobar
 *##.cookie-choices-info
 *###cookieDialog
+health.com###onetrust-consent-sdk
 wikipedia.org###siteNotice
 yandex.com##.ImagesViewerApp-FooterContent
 express.co.uk##.ad-slot-article
