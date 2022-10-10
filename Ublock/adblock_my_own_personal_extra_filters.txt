@@ -109,6 +109,7 @@ ezoiccdn.com$3p
 privacy-mgmt.com$3p
 privacy-center.org$3p
 privacymanager.io$3p
+gdpr-tcfv2.sp-prod.net$3p
 complianz.io$3p
 quantcast.com$3p
 nexus.ensighten.com$3p
