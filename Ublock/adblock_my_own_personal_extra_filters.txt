@@ -299,4 +299,4 @@ washingtonpost.com##.overflow-hidden:has-text(Stay informed)
 ||telegraph.co.uk/martech/js/TGT-1002--paywall-meters-profile/
 ||telegraph.co.uk/martech/js/TGT-390--martech-paywall/
 ||telegraph.co.uk/martech/js/TGT-309--newsletter-units/
-health.com###onetrust-consent-sdk
+*###onetrust-consent-sdk
