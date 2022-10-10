@@ -66,7 +66,7 @@ getadmiral.com$3p
 
 ||cdn.cookielaw.org/consent/
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/
-/cookieconsent.min.js
+vendor/cookieconsent/js/cookieconsent.min.js
 ||yastatic.net/s3/gdpr/popup/v2/
 cookiebot.com$3p
 cookiepro.com$3p
