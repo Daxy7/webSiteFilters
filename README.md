@@ -1,4 +1,5 @@
 # SiteFilters
+
 Blocks ads and placeholders, cookie alerts, site annoyances.
 
 Works best with cookies & site data cleared for all websites.
@@ -9,7 +10,7 @@ Could also be a problem with EasyPrivacy and/or AdGuard Tracking Protection bloc
 
 If your loading looks like this:
 
-![2022-10-10 22-07-27-1-ezgif](https://user-images.githubusercontent.com/91396482/194957251-f35f8511-4fbd-4325-a71f-dfbf88899580.gif)
+https://user-images.githubusercontent.com/91396482/194965776-de7ec6bf-6dd1-4f0f-b656-9c3236559744.mp4
 
 That's normal. It's caused by *##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
 
