@@ -49,6 +49,9 @@ wired.com##.persistent-bottom
 wsj.com###cx-articlecover
 washingtonpost.com##.overflow-hidden:has-text(Stay informed)
 wired.com##.paywall-bar-failsafe
+||telegraph.co.uk/martech/js/TGT-1002--paywall-meters-profile/
+||telegraph.co.uk/martech/js/TGT-390--martech-paywall/
+||telegraph.co.uk/martech/js/TGT-309--newsletter-units/
 ||accounts.google.com/gsi/iframe/select
 google.com##.rc-anchor-invisible-hover
 com,net,org##.grecaptcha-badge

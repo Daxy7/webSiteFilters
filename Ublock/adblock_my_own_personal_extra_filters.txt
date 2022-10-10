@@ -115,6 +115,7 @@ nexus.ensighten.com$3p
 osano.com$3p
 js.hs-banner.com$3p
 
+
 browser-update.org$3p
 cdn.onesignal.com$3p
 pusher.com$3p
@@ -294,3 +295,6 @@ wired.com##.persistent-bottom
 wired.com##.paywall-bar-failsafe
 yandex.com##.DistrPopup-Content
 washingtonpost.com##.overflow-hidden:has-text(Stay informed)
+||telegraph.co.uk/martech/js/TGT-1002--paywall-meters-profile/
+||telegraph.co.uk/martech/js/TGT-390--martech-paywall/
+||telegraph.co.uk/martech/js/TGT-309--newsletter-units/
