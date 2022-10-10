@@ -14,4 +14,4 @@ https://user-images.githubusercontent.com/91396482/194965776-de7ec6bf-6dd1-4f0f-
 
 That's normal. It's caused by *##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
 
-And it's to stop sites loading slowly when scrolling down because I don't care about html 4.0 just let me read your stuff
+And it's to stop sites loading slowly when scrolling down because I don't care about html 6.0 just let me read your stuff
