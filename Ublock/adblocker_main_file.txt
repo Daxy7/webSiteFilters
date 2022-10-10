@@ -100,6 +100,7 @@ freshbots.ai$3p
 driftt.com$3p
 
 instiengage.com$3p
+inline.healthline.com
 zoho.com$3p
 
 gstatic.com/youtube/img/promos/growth/*
