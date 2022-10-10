@@ -207,6 +207,7 @@ dailymail.co.uk##.horizontal-1eH9F.container-3zJLP
 dailymail.co.uk##.shareComment
 dailymail.co.uk##.vertical-2XJd5.container-3zJLP
 reddit.com##.premium-banner-outer
+reddit.com###redesign-beta-optin-btn
 theguardian.com##.dcr-jp0zo1
 mcdonalds.com###cookie-banner.cmp-embed
 youtube.com##.ytp-paid-content-overlay
