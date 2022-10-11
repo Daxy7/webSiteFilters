@@ -155,7 +155,7 @@ com##.cookie-infobar
 *##.cookie-choices-info
 *###cookieDialog
 *###onetrust-consent-sdk
-||en.wikipedia.org/w/load.php$script
+||wikipedia.*/w/load.php$script
 yandex.com##.ImagesViewerApp-FooterContent
 express.co.uk##.ad-slot-article
 youtube.com###product-picker
