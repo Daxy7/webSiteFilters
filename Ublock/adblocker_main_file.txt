@@ -68,6 +68,7 @@ getadmiral.com$3p
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/
 vendor/cookieconsent/js/cookieconsent.min.js
 ||yastatic.net/s3/gdpr/popup/v2/
+||e33087.b.akamaiedge.net^$script
 cookiebot.com$3p
 cookiepro.com$3p
 cookieinformation.com$3p
