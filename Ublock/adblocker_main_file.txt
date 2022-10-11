@@ -7,55 +7,6 @@
 ! GitHub issues: https://github.com/Daxy7/webSiteFilters/issues
 ! GitHub pull requests: https://github.com/Daxy7/webSiteFilters/pulls
 
-imglarger.com##.tingle-modal--visible.custom-class-2.custom-class-1.tingle-modal--noOverlayClose.tingle-modal
-deepl.com##.focus-visible-light-container
-twitter.com##.r-1upvrn0.r-l5o3uw.css-1dbjc4n
-twitter.com##.r-16wqof.r-1dqxon3.r-16y2uox.r-kemksi.css-1dbjc4n
-twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n > .r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbjc4n
-twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n
-twitter.com##body:style(overflow: auto !important;)
-twitter.com##html->body:style(overflow:visible !important;)
-twitter.com##html:style(overflow:visible !important;)
-thewordfinder.com##.container > .col-md-12
-subtitlebee.com##.width100.discount-offer
-websiteplanet.com###ctrl-d-popup
-websiteplanet.com##.atf.ads-container
-duckduckgo.com##.js-badge-link
-tvtropes.org###adblockModal-hidden
-twitch.tv###twilight-sticky-footer-root
-scp-wiki.wikidot.com##.interwiki-stylable.scpnet-interwiki-wrapper
-deepl.com##.focus-visible-light-container.Snackbar_module_Snackbar__a3721153
-urbandictionary.com##.h-\[600px\].justify-center.items-center.lg\:flex.hidden.mb-4
-healthline.com###iPopFrame_sw
-tineye.com##.collection.match-row.row
-partitionwizard.com##.promotions-banner-wrap
-web.archive.org##.caroufredsel_wrapper
-discord.com##.animationAndSparklesContainer-7Fwx3i
-discord.com##.animation-1GAstp
-discord.com##.caretBottomCenter-4XccL3:has-text(Connect Xbox to Discord)
-discord.com##.notice-1x8lm-:has-text(account)
-discord.com##.notice-1x8lm-:has-text(complete)
-discord.com##.notice-2HEN-u:has-text(Nitro)
-discord.com##.form-3gdLxP:has-text(complete)
-reddit.com##.listingsignupbar.infobar
-facebook.com##.tlfeazxf:has-text(See more of)
-vk.com##.PageBottomBanner--bg-blue:has-text(Read only the most interesting posts)
-vk.com###box_layer_wrap
-vk.com###box_layer_bg
-vk.com##body:style(overflow:auto!important)
-washingtonpost.com##body:style(overflow:auto!important)
-washingtonpost.com##.purchase-paywall-overlay
-wired.com##.persistent-bottom
-wsj.com###cx-articlecover
-washingtonpost.com##.overflow-hidden:has-text(Stay informed)
-wired.com##.paywall-bar-failsafe
-||telegraph.co.uk/martech/js/TGT-1002--paywall-meters-profile/
-||telegraph.co.uk/martech/js/TGT-390--martech-paywall/
-||telegraph.co.uk/martech/js/TGT-309--newsletter-units/
-||accounts.google.com/gsi/iframe/select
-google.com##.rc-anchor-invisible-hover
-com,net,org##.grecaptcha-badge
-
 followlike.net$3p
 mochiads.com$3p
 facebook.com$3p
@@ -116,6 +67,54 @@ zoho.com$3p
 foresee.com$3p
 medallia.com$3p
 
+imglarger.com##.tingle-modal--visible.custom-class-2.custom-class-1.tingle-modal--noOverlayClose.tingle-modal
+deepl.com##.focus-visible-light-container
+twitter.com##.r-1upvrn0.r-l5o3uw.css-1dbjc4n
+twitter.com##.r-16wqof.r-1dqxon3.r-16y2uox.r-kemksi.css-1dbjc4n
+twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n > .r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbjc4n
+twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n
+twitter.com##body:style(overflow: auto !important;)
+twitter.com##html->body:style(overflow:visible !important;)
+twitter.com##html:style(overflow:visible !important;)
+thewordfinder.com##.container > .col-md-12
+subtitlebee.com##.width100.discount-offer
+websiteplanet.com###ctrl-d-popup
+websiteplanet.com##.atf.ads-container
+duckduckgo.com##.js-badge-link
+tvtropes.org###adblockModal-hidden
+twitch.tv###twilight-sticky-footer-root
+scp-wiki.wikidot.com##.interwiki-stylable.scpnet-interwiki-wrapper
+deepl.com##.focus-visible-light-container.Snackbar_module_Snackbar__a3721153
+urbandictionary.com##.h-\[600px\].justify-center.items-center.lg\:flex.hidden.mb-4
+healthline.com###iPopFrame_sw
+tineye.com##.collection.match-row.row
+partitionwizard.com##.promotions-banner-wrap
+web.archive.org##.caroufredsel_wrapper
+discord.com##.animationAndSparklesContainer-7Fwx3i
+discord.com##.animation-1GAstp
+discord.com##.caretBottomCenter-4XccL3:has-text(Connect Xbox to Discord)
+discord.com##.notice-1x8lm-:has-text(account)
+discord.com##.notice-1x8lm-:has-text(complete)
+discord.com##.notice-2HEN-u:has-text(Nitro)
+discord.com##.form-3gdLxP:has-text(complete)
+reddit.com##.listingsignupbar.infobar
+facebook.com##.tlfeazxf:has-text(See more of)
+vk.com##.PageBottomBanner--bg-blue:has-text(Read only the most interesting posts)
+vk.com###box_layer_wrap
+vk.com###box_layer_bg
+vk.com##body:style(overflow:auto!important)
+washingtonpost.com##body:style(overflow:auto!important)
+washingtonpost.com##.purchase-paywall-overlay
+wired.com##.persistent-bottom
+wsj.com###cx-articlecover
+washingtonpost.com##.overflow-hidden:has-text(Stay informed)
+wired.com##.paywall-bar-failsafe
+||telegraph.co.uk/martech/js/TGT-1002--paywall-meters-profile/
+||telegraph.co.uk/martech/js/TGT-390--martech-paywall/
+||telegraph.co.uk/martech/js/TGT-309--newsletter-units/
+||accounts.google.com/gsi/iframe/select
+google.com##.rc-anchor-invisible-hover
+com,net,org##.grecaptcha-badge
 com,org.net##.exit-intent__background.exit-intent
 com,org,net##.l-inline.m-detail--feature-container
 com,org,net##.l-inline.mm-video--landscape.m-video
