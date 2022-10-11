@@ -129,7 +129,6 @@ web.archive.org##.caroufredsel_wrapper
 livegore.com##.ads
 alivegore.com##.sticky.header
 reddit.com##.listingsignupbar.infobar
-facebook.*###u_0_4_16:has-text(See more of)
 discord.com##.animationAndSparklesContainer-7Fwx3i
 discord.com##.animation-1GAstp
 discord.com##.caretBottomCenter-4XccL3:has-text(Connect Xbox to Discord)
