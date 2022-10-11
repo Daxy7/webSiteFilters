@@ -143,7 +143,9 @@ zoho.com$3p
 foresee.com$3p
 medallia.com$3p
 
-com,org.net,info##.exit-intent__background.exit-intent
+com,org.net##.exit-intent__background.exit-intent
+com,org,net##.l-inline.m-detail--feature-container
+com,org,net##.l-inline.mm-video--landscape.m-video
 unknowncheats.me###ab_notice3
 unknowncheats.me###ab_notice1
 gstatic.com/youtube/img/promos/growth/*
