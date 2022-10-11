@@ -129,7 +129,7 @@ web.archive.org##.caroufredsel_wrapper
 livegore.com##.ads
 alivegore.com##.sticky.header
 reddit.com##.listingsignupbar.infobar
-facebook.com##.tlfeazxf:has-text(See more of)
+facebook.*###u_0_4_16:has-text(See more of)
 discord.com##.animationAndSparklesContainer-7Fwx3i
 discord.com##.animation-1GAstp
 discord.com##.caretBottomCenter-4XccL3:has-text(Connect Xbox to Discord)
@@ -309,6 +309,7 @@ thesun.co.uk##.article__footer
 thesun.co.uk##div.widget-height
 wired.com##.persistent-bottom
 wired.com##.paywall-bar-failsafe
+wired.com##.paywall-bar--expanded
 yandex.com##.DistrPopup-Content
 washingtonpost.com##.overflow-hidden:has-text(Stay informed)
 ||telegraph.co.uk/martech/js/TGT-1002--paywall-meters-profile/
