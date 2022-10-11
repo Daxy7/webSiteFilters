@@ -304,6 +304,8 @@ youtube.com##ytd-rich-section-renderer:has-text(Shorts)
 youtube.com##.ytd-item-section-renderer:has-text(Trending Shorts)
 dailymail.co.uk##.linkro-wocc.link-bogr2
 dailymail.co.uk##.cleared.puff
+thesun.co.uk##.article__footer
+thesun.co.uk##div.widget-height
 wired.com##.persistent-bottom
 wired.com##.paywall-bar-failsafe
 yandex.com##.DistrPopup-Content
