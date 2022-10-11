@@ -101,7 +101,7 @@ tinypass.com$3p
 
 chatbot.com$3p
 livechatinc.com$3p
-tidiochat.com$3p
+tidio.co$3p
 intercom.io$3p
 engage.wixapps.net$3p
 usemessages.com$3p
