@@ -95,6 +95,7 @@ getadmiral.com$3p
 vendor/cookieconsent/js/cookieconsent.min.js
 ||yastatic.net/s3/gdpr/popup/v2/
 ||e33087.b.akamaiedge.net^$script
+||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
 cookiebot.com$3p
 cookiepro.com$3p
 cookieinformation.com$3p
