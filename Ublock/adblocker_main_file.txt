@@ -93,8 +93,6 @@ js.hs-banner.com$3p
 
 browser-update.org$3p
 cdn.onesignal.com$3p
-jwplatform.com$3p
-jwplayer.com$3p
 ||cdnjs.cloudflare.com/ajax/libs/video.js/
 pusher.com$3p
 
