@@ -236,6 +236,7 @@ bing.com##.b_explans:has-text(Explore)
 bing.com##.l_ecrd_simgset
 bing.com##.b_firstResultPadding:has-text(See results)
 bing.com###l_ecrd_blk_9_Poll.lite-entcard-blk
+bing.com###relatedSearchesLGWContainer
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 *##div.l:has-text(To make Medium work,)

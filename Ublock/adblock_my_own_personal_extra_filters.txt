@@ -275,6 +275,7 @@ bing.com##.b_explans:has-text(Explore)
 bing.com##.l_ecrd_simgset
 bing.com##.b_firstResultPadding:has-text(See results)
 bing.com###l_ecrd_blk_9_Poll.lite-entcard-blk
+bing.com###relatedSearchesLGWContainer
 youtube.com###dismissible > .ytd-statement-banner-renderer
 youtube,fandom.com##.sitenotice--visible
 youtube.com##.ytd-popup-container:has-text(/Changes to YouTube’s Terms of Service|Check out your new Library|Get access to exclusive perks|Get YouTube without the ads|How is your experience|How is YouTube today|Our Terms of Service have been updated|Rate your ads|Try it free|Try the YouTube Kids app|What is your biggest complaint|Which problems are you experiencing|You're signed out of YouTube/i)
