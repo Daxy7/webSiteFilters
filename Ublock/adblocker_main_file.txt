@@ -19,6 +19,7 @@ getadmiral.com$3p
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/
 vendor/cookieconsent/js/cookieconsent.min.js
 ||yastatic.net/s3/gdpr/popup/v2/
+||iubenda.com/cookie-solution/
 ||e33087.b.akamaiedge.net^$script
 ||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
 cookiebot.com$3p
