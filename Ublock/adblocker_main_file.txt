@@ -51,6 +51,7 @@ cdn.onesignal.com$3p
 ||cdnjs.cloudflare.com/ajax/libs/video.js/
 pusher.com$3p
 tinypass.com$3p
+list-manage.com$3p
 
 chatbot.com$3p
 livechatinc.com$3p
