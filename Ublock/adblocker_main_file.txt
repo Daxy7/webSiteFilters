@@ -118,8 +118,9 @@ wired.com##.paywall-bar--expanded
 ||telegraph.co.uk/martech/js/TGT-390--martech-paywall/
 ||telegraph.co.uk/martech/js/TGT-309--newsletter-units/
 ||accounts.google.com/gsi/iframe/select
-google.com##.rc-anchor-invisible-hover
-com,net,org##.grecaptcha-badge
+google.*##.rc-anchor-invisible-hover
+##.grecaptcha-logo
+##.grecaptcha-badge
 com,org.net##.exit-intent__background.exit-intent
 com,org,net##.l-inline.m-detail--feature-container
 com,org,net##.l-inline.mm-video--landscape.m-video

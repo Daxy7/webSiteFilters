@@ -143,8 +143,9 @@ discord.com##.form-3gdLxP:has-text(complete)
 newgrounds.com##.header-deck > .pod
 rule34.xxx###note-container
 ||accounts.google.com/gsi/iframe/select
-google.com##.rc-anchor-invisible-hover
-com,net,org##.grecaptcha-badge
+google.*##.rc-anchor-invisible-hover
+##.grecaptcha-logo
+##.grecaptcha-badge
 nandos.co.uk##button > .veggie
 com,org.net##.exit-intent__background.exit-intent
 com,org,net##.l-inline.m-detail--feature-container
