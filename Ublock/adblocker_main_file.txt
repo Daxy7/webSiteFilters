@@ -210,6 +210,7 @@ google.com##.Qq9jLd
 google.com##.commercial-unit-desktop-top
 google.com##.cu-container
 google.com##.gVqDn
+lens.google.com##.KUcdrd:has-text(Did you find these results)
 getpocket.com##.syndication-ad
 youtube.com##.ytd-inline-survey-renderer
 youtube.com##.yt-live-chat-viewer-engagement-message-renderer

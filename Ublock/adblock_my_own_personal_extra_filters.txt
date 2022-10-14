@@ -243,6 +243,7 @@ google.com##.Qq9jLd
 google.com##.commercial-unit-desktop-top
 google.com##.cu-container
 google.com##.gVqDn
+lens.google.com##.KUcdrd:has-text(Did you find these results)
 bestgore.fun##.broadcast-message
 eminetracanada.com##.image-hydration-wrapper
 getpocket.com##.syndication-ad
