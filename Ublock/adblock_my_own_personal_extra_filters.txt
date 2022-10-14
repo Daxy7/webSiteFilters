@@ -60,6 +60,7 @@ tidio.co$3p
 intercom.io$3p
 engage.wixapps.net$3p
 liveperson.net$3p
+justanswer.com$3p
 usemessages.com$3p
 gis.goinstore.com$3p
 freshbots.ai$3p
