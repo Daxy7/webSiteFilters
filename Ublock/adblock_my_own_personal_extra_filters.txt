@@ -1,7 +1,6 @@
 ! Title: Dax's Own Filters
 ! Description: uBlock Origin filters for domain annoyances, domain ads and placeholders, cookie notices.
 ! Expires: 1 day
-! Date 08-10-2022
 ! Homepage: https://github.com/Daxy7/webSiteFilters/
 !
 ! GitHub issues: https://github.com/Daxy7/webSiteFilters/issues
