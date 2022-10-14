@@ -15,11 +15,11 @@ quora.com$3p
 buymeacoffee.com$3p
 getadmiral.com$3p
 
-||cdn.cookielaw.org/consent/
-||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/
+||cdn.cookielaw.org/consent
+||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
 vendor/cookieconsent/js/cookieconsent.min.js
-||yastatic.net/s3/gdpr/popup/v2/
-||iubenda.com/cookie-solution/
+||yastatic.net/s3/gdpr/popup/v2
+||iubenda.com/cookie-solution
 ||cdn.ampproject.org/v0/amp-consent
 ||e33087.b.akamaiedge.net^$script
 ||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
