@@ -1,5 +1,5 @@
 ! Title: Dax's Custom Privacy
-! (Constant beacon on certain sites)
+! (Removes constant beacon on certain sites)
 ! Description: uBlock Origin filters for privacy.
 ! Expires: 7 day
 ! Homepage: https://github.com/Daxy7/webSiteFilters/
