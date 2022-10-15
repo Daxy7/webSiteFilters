@@ -121,8 +121,8 @@ wired.com##.paywall-bar--expanded
 ||meter-svc.nytimes.com
 ||accounts.google.com/gsi/iframe/select
 google.*##.rc-anchor-invisible-hover
-##.grecaptcha-logo
-##.grecaptcha-badge
+com,net,org,info,edu,gov##.grecaptcha-logo
+com,net,org,info,edu,gov##.grecaptcha-badge
 com,org.net##.exit-intent__background.exit-intent
 com,org,net##.l-inline.m-detail--feature-container
 com,org,net##.l-inline.mm-video--landscape.m-video

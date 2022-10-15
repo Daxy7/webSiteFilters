@@ -146,8 +146,8 @@ newgrounds.com##.header-deck > .pod
 rule34.xxx###note-container
 ||accounts.google.com/gsi/iframe/select
 google.*##.rc-anchor-invisible-hover
-##.grecaptcha-logo
-##.grecaptcha-badge
+com,net,org,info,edu,gov##.grecaptcha-logo
+com,net,org,info,edu,gov##.grecaptcha-badge
 nandos.co.uk##button > .veggie
 com,org.net##.exit-intent__background.exit-intent
 com,org,net##.l-inline.m-detail--feature-container
