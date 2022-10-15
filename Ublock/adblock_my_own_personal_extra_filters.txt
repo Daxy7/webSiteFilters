@@ -330,3 +330,4 @@ healthline.com###modal-host
 healthline.com##body:style(overflow:auto!important)
 psychcentral.com###modal-host
 psychcentral.com##body:style(overflow:auto!important)
+||meter-svc.nytimes.com

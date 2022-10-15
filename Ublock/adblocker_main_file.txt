@@ -118,6 +118,7 @@ wired.com##.paywall-bar--expanded
 ||telegraph.co.uk/martech/js/TGT-1002--paywall-meters-profile/
 ||telegraph.co.uk/martech/js/TGT-390--martech-paywall/
 ||telegraph.co.uk/martech/js/TGT-309--newsletter-units/
+||meter-svc.nytimes.com
 ||accounts.google.com/gsi/iframe/select
 google.*##.rc-anchor-invisible-hover
 ##.grecaptcha-logo
