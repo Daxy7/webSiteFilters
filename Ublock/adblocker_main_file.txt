@@ -76,6 +76,7 @@ foresee.com$3p
 medallia.com$3p
 
 imglarger.com##.tingle-modal--visible.custom-class-2.custom-class-1.tingle-modal--noOverlayClose.tingle-modal
+imglarger.com##body:style(overflow:auto!important)
 deepl.com##.focus-visible-light-container
 twitter.com##.r-1upvrn0.r-l5o3uw.css-1dbjc4n
 twitter.com##.r-16wqof.r-1dqxon3.r-16y2uox.r-kemksi.css-1dbjc4n
