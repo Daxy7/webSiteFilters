@@ -62,6 +62,7 @@ engage.wixapps.net$3p
 liveperson.net$3p
 justanswer.com$3p
 usemessages.com$3p
+nice-incontact.com$3p
 gis.goinstore.com$3p
 freshbots.ai$3p
 driftt.com$3p

@@ -60,6 +60,8 @@ intercom.io$3p
 engage.wixapps.net$3p
 usemessages.com$3p
 justanswer.com$3p
+usemessages$3p
+nice-incontact.com$3p
 gis.goinstore.com$3p
 freshbots.ai$3p
 driftt.com$3p
