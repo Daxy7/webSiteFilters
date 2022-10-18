@@ -45,7 +45,6 @@ nexus.ensighten.com$3p
 osano.com$3p
 js.hs-banner.com$3p
 
-
 browser-update.org$3p
 cdn.onesignal.com$3p
 ||cdnjs.cloudflare.com/ajax/libs/video.js/
@@ -340,3 +339,4 @@ healthline.com##body:style(overflow:auto!important)
 psychcentral.com###modal-host
 psychcentral.com##body:style(overflow:auto!important)
 ||meter-svc.nytimes.com
+gamespot.com###contrib_rec.forum_google

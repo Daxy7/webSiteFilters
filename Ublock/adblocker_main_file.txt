@@ -44,7 +44,6 @@ nexus.ensighten.com$3p
 osano.com$3p
 js.hs-banner.com$3p
 
-
 browser-update.org$3p
 cdn.onesignal.com$3p
 ||cdnjs.cloudflare.com/ajax/libs/video.js/
@@ -107,6 +106,7 @@ discord.com##.notice-1x8lm-:has-text(complete)
 discord.com##.notice-2HEN-u:has-text(Nitro)
 discord.com##.form-3gdLxP:has-text(complete)
 reddit.com##.listingsignupbar.infobar
+gamespot.com###contrib_rec.forum_google
 vk.com##.PageBottomBanner--bg-blue:has-text(Read only the most interesting posts)
 vk.com###box_layer_wrap
 vk.com###box_layer_bg
