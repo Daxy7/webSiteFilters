@@ -134,7 +134,7 @@ youtube.com###big-yoodle
 youtube.com###donation-shelf
 google.*##+js(set, rwt, noopFunc)
 reddit.com##.commentsignupbar.infobar
-laptopmag.com##.related-articles-block
+laptopmag.com,tomshardware.com##.related-articles-block
 medicalnewstoday.com###modal-host
 medicalnewstoday.com##body:style(overflow:auto!important)
 medicalnewstoday.com##.css-1hu1ip

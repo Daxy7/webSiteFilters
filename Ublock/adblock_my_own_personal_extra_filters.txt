@@ -160,7 +160,7 @@ youtube.com###big-yoodle
 youtube.com###donation-shelf
 google.*##+js(set, rwt, noopFunc)
 reddit.com##.commentsignupbar.infobar
-laptopmag.com##.related-articles-block
+laptopmag.com,tomshardware.com##.related-articles-block
 yandex.com##.popup2
 yandex.com##.i-bem.serp-item_card.serp-item
 yandex.com##.DistrPopup-Content
