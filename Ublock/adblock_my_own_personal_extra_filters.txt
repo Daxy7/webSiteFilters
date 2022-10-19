@@ -189,22 +189,22 @@ steamid.uk##.pb-3.mt-0.primary.card > .text-center.row
 youtube.com###comment-teaser
 reddit.com##.reddit-video-controller-root.show-only-when-pinned.pinned-controls
 reddit.com##.reddit-video-controller-root.buffering-controls > .horizontal.centered
-watchpeopledie.co##.mr-2
-watchpeopledie.co##bdi
-watchpeopledie.co##.profile-pic-30-wrapper
-||watchpeopledie.co/pp/$image
-||watchpeopledie.co/assets/js/rica*$script,1p
-watchpeopledie.co##[src="/i/ricardo1.webp"]
-watchpeopledie.co##[src="/i/ricardo2.webp"]
-watchpeopledie.co##[src="/i/ricardo3.webp"]
-watchpeopledie.co##[src="/e/marseyscooter.webp"]
-watchpeopledie.co##[src="/e/marseytrain.webp"]
-||watchpeopledie.co/assets/images/WPD/sidebar/*$image
-||watchpeopledie.co/assets/images/WPD/banners/$image
-watchpeopledie.co###logo-container > [href] > .ml-1
-||watchpeopledie.co/assets/js/fire*$script,1p
-||watchpeopledie.co/assets/js/bugs*$script,1p
-||watchpeopledie.co/assets/css/awards.css$css,1p
+watchpeopledie.*##.mr-2
+watchpeopledie.*##bdi
+watchpeopledie.*##.profile-pic-30-wrapper
+||watchpeopledie.*/pp/$image
+||watchpeopledie.*/assets/js/rica*$script,1p
+watchpeopledie.*##[src="/i/ricardo1.webp"]
+watchpeopledie.*##[src="/i/ricardo2.webp"]
+watchpeopledie.*##[src="/i/ricardo3.webp"]
+watchpeopledie.*##[src="/e/marseyscooter.webp"]
+watchpeopledie.*##[src="/e/marseytrain.webp"]
+||watchpeopledie.*/assets/images/WPD/sidebar/*$image
+||watchpeopledie.*/assets/images/WPD/banners/$image
+watchpeopledie.*###logo-container > [href] > .ml-1
+||watchpeopledie.*/assets/js/fire*$script,1p
+||watchpeopledie.*/assets/js/bugs*$script,1p
+||watchpeopledie.*/assets/css/awards.css$css,1p
 youtube.com##.ytp-button.ytp-remote-button
 youtube.com###clarify-box
 rule34.xxx##div.horizontalFlexWithMargins
