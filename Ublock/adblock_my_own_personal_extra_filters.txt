@@ -300,6 +300,7 @@ music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container:has-text(Try)
 /tampering.$script,domain=youtube.com
 /remote.js$script,domain=youtube.com
 ||i.ytimg.com/an_webp/
+||encrypted-vtbn0.gstatic.*/video$media
 youtube.com###endpoint[href="/premium"]
 youtube.com##ytd-popup-container:has(#content.yt-tooltip-renderer yt-formatted-string.yt-tooltip-renderer:has-text(/member/))
 youtube.com##.ytd-recognition-shelf-renderer
