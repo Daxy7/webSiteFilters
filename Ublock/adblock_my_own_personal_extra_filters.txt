@@ -181,7 +181,6 @@ tampermonkey.net##.advent_head
 com##.cookie-infobar
 *##.cookie-choices-info
 *###cookieDialog
-||wikipedia.*/w/load.php$script
 yandex.com##.ImagesViewerApp-FooterContent
 express.co.uk##.ad-slot-article
 youtube.com###product-picker
