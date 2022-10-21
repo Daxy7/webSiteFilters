@@ -186,8 +186,11 @@ dailymail.co.uk##.shareComment
 dailymail.co.uk##.vertical-2XJd5.container-3zJLP
 dailymail.co.uk##.linkro-wocc.link-bogr2
 dailymail.co.uk##.cleared.puff
-thesun.co.uk##.article__footer
-thesun.co.uk##div.widget-height
+thesun.*##.article__footer
+thesun.*##div.widget-height
+the-sun.*##.article__footer:has-text(YOU MIGHT LIKE)
+the-sun.*###list-10:has-text(MORE FOR YOU)
+the-sun.*###list-11:has-text(RECOMMENDED FOR YOU)
 reddit.com##.premium-banner-outer
 reddit.com###redesign-beta-optin-btn
 theguardian.com##.dcr-jp0zo1
