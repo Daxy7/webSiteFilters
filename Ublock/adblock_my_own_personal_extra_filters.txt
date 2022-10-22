@@ -162,7 +162,7 @@ youtube.com###donation-shelf
 ||archive.org/includes/build/js/donation-banner.min.js
 google.*##+js(set, rwt, noopFunc)
 reddit.com##.commentsignupbar.infobar
-laptopmag.com,tomshardware.com##.related-articles-block
+laptopmag.com,tomshardware.com,techradar.com##.related-articles-block
 yandex.com##.popup2
 yandex.com##.i-bem.serp-item_card.serp-item
 yandex.com##.DistrPopup-Content
