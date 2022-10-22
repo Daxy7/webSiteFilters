@@ -94,6 +94,7 @@ duckduckgo.com##.js-badge-link
 tvtropes.org###adblockModal-hidden
 twitch.tv###twilight-sticky-footer-root
 scp-wiki.wikidot.com##.interwiki-stylable.scpnet-interwiki-wrapper
+wikipedia.*##.cn-fundraising
 deepl.com##.focus-visible-light-container.Snackbar_module_Snackbar__a3721153
 urbandictionary.com##.h-\[600px\].justify-center.items-center.lg\:flex.hidden.mb-4
 healthline.com###iPopFrame_sw
