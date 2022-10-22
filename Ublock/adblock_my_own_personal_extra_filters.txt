@@ -159,6 +159,7 @@ unknowncheats.me###ab_notice1
 gstatic.com/youtube/img/promos/growth/*
 youtube.com###big-yoodle
 youtube.com###donation-shelf
+||archive.org/includes/build/js/donation-banner.min.js
 google.*##+js(set, rwt, noopFunc)
 reddit.com##.commentsignupbar.infobar
 laptopmag.com,tomshardware.com##.related-articles-block
