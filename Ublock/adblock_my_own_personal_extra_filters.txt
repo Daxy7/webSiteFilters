@@ -267,6 +267,7 @@ bing.com###bepfo
 bing.com##.popup:has-text(Make Bing yours.)
 bing.com##.bnp_fly_hp:has-text(Support a cause when you search on Bing)
 bing.com###l_ecrd_blk_5_Poll
+bing.com##.l_ecrd_tud
 bing.com##.feedback-binded
 bing.com##li.b_ans:has-text(Trending on Bing)
 bing.com###textDeeplinksWidgetContainer
