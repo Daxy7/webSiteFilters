@@ -273,6 +273,7 @@ bing.com##.l_ecrd_tud
 bing.com##.feedback-binded
 bing.com##li.b_ans:has-text(Trending on Bing)
 bing.com###textDeeplinksWidgetContainer
+bing.com###b_context > .b_ans:has-text(Related searches)
 ! Makes bing look more like google
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 bing.com###b_dynRail
