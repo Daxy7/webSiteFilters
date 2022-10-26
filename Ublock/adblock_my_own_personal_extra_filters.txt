@@ -212,7 +212,7 @@ watchpeopledie.*###logo-container > [href] > .ml-1
 youtube.com##.ytp-button.ytp-remote-button
 youtube.com###clarify-box
 rule34.xxx##div.horizontalFlexWithMargins
-youtube.com##.ryd-tooltip-bar-container
+youtube.com##.ryd-tooltip
 yandex.com##div.incut
 yandex.com##div.JustifierRowLayout-Incut
 yandex.com##.MMImage-Origin
@@ -314,7 +314,7 @@ vk.com##.PageBottomBanner--bg-blue:has-text(Read only the most interesting posts
 vk.com###box_layer_wrap
 vk.com###box_layer_bg
 vk.com##body:style(overflow:auto!important)
-*##div.l:has-text(To make Medium work,)
+! *##div.l:has-text(To make Medium work,)
 washingtonpost.com##.purchase-paywall-overlay
 washingtonpost.com##body:style(overflow:auto!important)
 wsj.com###cx-articlecover
