@@ -209,6 +209,7 @@ watchpeopledie.*###logo-container > [href] > .ml-1
 ||watchpeopledie.*/assets/js/fire*$script,1p
 ||watchpeopledie.*/assets/js/bugs*$script,1p
 ||watchpeopledie.*/assets/css/awards.css$css,1p
+||pomf2.lain.la/f/5413fxsk.webp
 youtube.com##.ytp-button.ytp-remote-button
 youtube.com###clarify-box
 rule34.xxx##div.horizontalFlexWithMargins
