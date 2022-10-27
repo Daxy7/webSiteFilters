@@ -244,6 +244,7 @@ bing.com##.feedback-binded
 bing.com##li.b_ans:has-text(Trending on Bing)
 bing.com###textDeeplinksWidgetContainer
 bing.com###b_context > .b_ans:has-text(Related searches)
+bing.com###b_notificationContainer_bop:has-text(Earn free gift cards)
 ! Makes bing look more like google
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 bing.com###b_dynRail
