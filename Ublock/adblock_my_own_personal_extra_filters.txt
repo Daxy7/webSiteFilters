@@ -52,6 +52,7 @@ list-manage.com$3p
 widget.reviews.*$3p
 
 chatbot.com$3p
+chatra.io$3p
 livechatinc.com$3p
 tidio.co$3p
 intercom.io$3p
