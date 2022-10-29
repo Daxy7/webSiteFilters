@@ -8729,18 +8729,12 @@ $3p,xmlhttprequest,domain=opensubtitles.org
 ||bcbits.com/bundle/bundle/1/analytics-$domain=bandcamp.com
 ||bcbits.com/bundle/bundle/1/impl-$domain=bandcamp.com
 ||bdt.123rf.com^
-||beacon.samsclub.com^
-||beacon.shazam.com^
-||beacon.shutterfly.com^
-||beacon.walmart.com^
-||beacon.wikia-services.com^
 ||beam-ws.giraffe360.com^
 ||beam.bankrate.com^
 ||beam.giraffe360.com^
 ||bfp.capitalone.com^
 ||bhphotovideo.com/aperture/client/logs
 ||bhphotovideo.com/aperture/shared/js/dataLayer.js
-||bing.com/fd/ls/GLinkPing.aspx?
 ||bing.com/mouselog
 ||binocule21c.merriam-webster.com^
 ||biomedcentral.com/track/
@@ -8989,7 +8983,6 @@ $3p,xmlhttprequest,domain=opensubtitles.org
 ||global.canon/00cmn/js/*/analytics-
 ||global.ssl.fastly.net^$domain=allmodern.com|argos.co.uk|basspro.com|birchlane.com|courier-journal.com|courierpress.com|desertsun.com|detroitnews.com|eddiebauer.com|freep.com|glassesusa.com|greenbaypressgazette.com|harborfreight.com|indystar.com|jsonline.com|kurtgeiger.com|legacy.com|lenovo.com|lohud.com|lowes.com|naplesnews.com|news-journalonline.com|northjersey.com|perigold.com|quickship.com|quikshiptoner.com|radiotimes.com|sainsburys.co.uk|sanuk.com|sheboyganpress.com|tallahassee.com|theadvertiser.com|thisweek.com|ugg.com|usatoday.com|wayfair.co.uk|wayfair.com|wwe.com
 ||globes.co.il/shared/s.ashx?
-||gnar.grammarly.com^
 ||gnavi.co.jp/analysis/
 ||go.pardot.com^
 ||go.theregister.com^$image
@@ -9603,8 +9596,6 @@ $3p,xmlhttprequest,domain=opensubtitles.org
 ||tracking.shopstyle.co.uk^
 ||tracking.shopstyle.com^
 ||tracking.unrealengine.com^
-||tradingview.com/ping
-||treatment.grammarly.com^
 ||tredir.go.com^
 ||tripadvisor.com/data/2.0/rum
 ||trivago.com/tracking/
@@ -9749,11 +9740,6 @@ $3p,xmlhttprequest,domain=opensubtitles.org
 ||substation.confection.io^
 ! Adobe
 ||lightning.ncaa.com/launch/$script
-! Bing
-||bing.com/fd/ls/l?IG=
-||bing.com/fd/ls/lsp.aspx
-||bing.com^*/glinkping.aspx$ping,xmlhttprequest
-||bing.com^*/GLinkPingPost.aspx$ping,xmlhttprequest
 ! Site specific elements (due to EP)
 ###cxense-recs-in-article
 ##.embed-responsive-trendmd
