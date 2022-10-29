@@ -54,6 +54,7 @@ widget.reviews.*$3p
 chatbot.com$3p
 chatra.io$3p
 livechatinc.com$3p
+smartsuppchat.com$3p
 tidio.co$3p
 intercom.io$3p
 engage.wixapps.net$3p

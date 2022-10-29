@@ -37,6 +37,7 @@ privacy-mgmt.com$3p
 privacy-center.org$3p
 privacymanager.io$3p
 gdpr-tcfv2.sp-prod.net$3p
+complianz.io$3p
 quantcast.com$3p
 nexus.ensighten.com$3p
 osano.com$3p
@@ -53,6 +54,7 @@ widget.reviews.*$3p
 chatbot.com$3p
 chatra.io$3p
 livechatinc.com$3p
+smartsuppchat.com$3p
 tidio.co$3p
 intercom.io$3p
 engage.wixapps.net$3p
