@@ -357,3 +357,4 @@ psychcentral.com##body:style(overflow:auto!important)
 ||meter-svc.nytimes.com
 gamespot.com###contrib_rec.forum_google
 imgur.com##.GalleryVote-accoladesAnimate
+google.*###OotqVd
