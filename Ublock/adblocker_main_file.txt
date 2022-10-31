@@ -66,6 +66,7 @@ gis.goinstore.com$3p
 js.qualified.com$3p
 freshbots.ai$3p
 driftt.com$3p
+zopim.com$3p
 
 instiengage.com$3p
 apester.com
