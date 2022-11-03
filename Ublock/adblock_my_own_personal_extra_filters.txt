@@ -360,3 +360,4 @@ psychcentral.com##body:style(overflow:auto!important)
 gamespot.com###contrib_rec.forum_google
 imgur.com##.GalleryVote-accoladesAnimate
 google.*###OotqVd
+slowroads.io###game-ui-backing
