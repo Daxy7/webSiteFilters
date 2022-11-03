@@ -140,6 +140,7 @@ gstatic.com/youtube/img/promos/growth/*
 youtube.com###big-yoodle
 youtube.com###donation-shelf
 ||archive.org/includes/build/js/donation-banner.min.js
+archive.org##.js-donate-banner.row
 google.*##+js(set, rwt, noopFunc)
 reddit.com##.commentsignupbar.infobar
 laptopmag.com,tomshardware.com,techradar.com##.related-articles-block
