@@ -60,7 +60,7 @@ tidio.co$3p
 intercom.io$3p
 tawk.to$3p
 engage.wixapps.net$3p
-usemessages.com$3p
+liveperson.net$3p
 justanswer.com$3p
 usemessages.com$3p
 nice-incontact.com$3p
@@ -75,6 +75,7 @@ instiengage.com$3p
 apester.com
 inline.healthline.com
 maven.io$3p
+zonos.com$3p
 zoho.com$3p
 
 foresee.com$3p
