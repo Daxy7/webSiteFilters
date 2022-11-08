@@ -365,3 +365,5 @@ gamespot.com###contrib_rec.forum_google
 imgur.com##.GalleryVote-accoladesAnimate
 google.*###OotqVd
 slowroads.io###game-ui-backing
+newgrounds.com##.blackout-inner:has-text(Thank)
+newgrounds.com##div.blackout
