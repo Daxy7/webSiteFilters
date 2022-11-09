@@ -368,3 +368,4 @@ google.*###OotqVd
 slowroads.io###game-ui-backing
 newgrounds.com##.blackout-inner:has-text(Thank)
 newgrounds.com##div.blackout
+wp-content/themes/motherjones/js/ads.min.js
