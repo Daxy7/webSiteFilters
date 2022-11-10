@@ -6,10 +6,6 @@
 ! GitHub issues: https://github.com/Daxy7/webSiteFilters/issues
 ! GitHub pull requests: https://github.com/Daxy7/webSiteFilters/pulls
 
-! Wildcard for getadmiral url
-
-.com/v2*-/
-
 34.107.212.139
 34.110.189.112
 34.160.32.140
