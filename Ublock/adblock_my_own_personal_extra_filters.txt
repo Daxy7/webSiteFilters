@@ -370,3 +370,4 @@ slowroads.io###game-ui-backing
 newgrounds.com##.blackout-inner:has-text(Thank)
 newgrounds.com##div.blackout
 wp-content/themes/motherjones/js/ads.min.js
+socialblade.com##.socialblade-heartbeat:has-text(adblock whitelist)
