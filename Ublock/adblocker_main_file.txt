@@ -207,7 +207,7 @@ the-sun.*###list-10:has-text(MORE FOR YOU)
 the-sun.*###list-11:has-text(RECOMMENDED FOR YOU)
 reddit.com##.premium-banner-outer
 reddit.com###redesign-beta-optin-btn
-theguardian.com##.dcr-jp0zo1
+||contributions.guardianapis.com/modules/v3/banners/*$script
 mcdonalds.com###cookie-banner.cmp-embed
 youtube.com##.ytp-paid-content-overlay
 duplichecker.com##.text-cefnter
