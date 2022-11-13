@@ -286,6 +286,7 @@ bing.com##.vs
 youtube.com###dismissible > .ytd-statement-banner-renderer
 youtube,fandom.com##.sitenotice--visible
 fandom.com##.marketing-notifications
+google.*##.QlcHMc:has-text(Filter definitions by topic)
 youtube.com##.ytd-popup-container:has-text(/Changes to YouTube’s Terms of Service|Check out your new Library|Get access to exclusive perks|Get YouTube without the ads|How is your experience|How is YouTube today|Our Terms of Service have been updated|Rate your ads|Try it free|Try the YouTube Kids app|What is your biggest complaint|Which problems are you experiencing|You're signed out of YouTube|Now you can share posts/i)
 youtube.com##.ytd-popup-container:has-text(/Choose what to play next|Join this channel and unlock/i)
 youtube.com##tp-yt-iron-dropdown:has-text(/When you send a message/i)

@@ -366,6 +366,7 @@ psychcentral.com##body:style(overflow:auto!important)
 gamespot.com###contrib_rec.forum_google
 imgur.com##.GalleryVote-accoladesAnimate
 google.*###OotqVd
+google.*##.QlcHMc:has-text(Filter definitions by topic)
 slowroads.io###game-ui-backing
 newgrounds.com##.blackout-inner:has-text(Thank)
 newgrounds.com##div.blackout
