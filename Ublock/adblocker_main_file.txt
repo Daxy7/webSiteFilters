@@ -51,6 +51,7 @@ pusher.com$3p
 tinypass.com$3p
 list-manage.com$3p
 widget.reviews.*$3p
+convertkit.com$3p
 
 chatbot.com$3p
 chatra.io$3p
