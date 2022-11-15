@@ -22,6 +22,7 @@ vendor/cookieconsent/js/cookieconsent.min.js
 ||iubenda.com/cookie-solution
 ||cdn.ampproject.org/v0/amp-consent
 ||e33087.b.akamaiedge.net^$script
+wp-content/plugins/cookie-law-info
 ||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
 cookiebot.com$3p
 cookiepro.com$3p
