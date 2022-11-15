@@ -183,6 +183,7 @@ com##.cookie-infobar
 *##.cookie-choices-info
 *###cookieDialog
 *###onetrust-consent-sdk
+com##.js-consent-banner:has-text(By clicking)
 yandex.com##.ImagesViewerApp-FooterContent
 express.co.uk##.ad-slot-article
 youtube.com###product-picker
@@ -292,6 +293,7 @@ youtube.com##.ytd-popup-container:has-text(/Changes to YouTube’s Terms of Serv
 youtube.com##.ytd-popup-container:has-text(/Choose what to play next|Join this channel and unlock/i)
 youtube.com##tp-yt-iron-dropdown:has-text(/When you send a message/i)
 youtube.com##.yt-tooltip-renderer:has-text(/Subscribe so you never miss/i)
+youtube.com##ytd-metadata-row-container-renderer:has-text(No mature content)
 music.youtube.com##.ytmusic-popup-container:has-text(Autoplay is now off)
 music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container:has-text(Try)
 youtube.com##ytd-popup-container:has(#content.yt-tooltip-renderer yt-formatted-string.yt-tooltip-renderer:has-text(/member/))
