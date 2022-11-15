@@ -271,12 +271,13 @@ youtube.com##ytd-merch-shelf-renderer
 /fluidplayer.js$script,domain=rule34.xxx
 /plugins/clean-tube-player/*$script,1p
 bing.com##.b_op_flyout
+bing.com###b_opalpers
 bing.com##.b_floatrt.siz23.scs_exp.nowrap.b_secondaryText.b_suffix
 bing.com###df_load
 bing.com##.teal
 bing.com###bepfo
 ||bing.com/rewardsapp/flyout
-bing.com##.popup:has-text(Make Bing yours.)
+bing.com##.popup:has-text(Make Bing yours)
 bing.com##.bnp_fly_hp:has-text(Support a cause when you search on Bing)
 bing.com###l_ecrd_blk_5_Poll
 bing.com##.l_ecrd_tud
@@ -303,7 +304,7 @@ bing.com##.b_firstResultPadding:has-text(See results)
 bing.com###l_ecrd_blk_9_Poll.lite-entcard-blk
 bing.com###relatedSearchesLGWContainer
 bing.com##.b_topborder.b_top.b_ans:has-text(COVID-19)
-bing.com##.b-conclfb-wrapper:has-text(Is this answer helpful?)
+bing.com##.b-conclfb-wrapper:has-text(Is this answer helpful)
 bing.com##.spl_ugcpoll
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
