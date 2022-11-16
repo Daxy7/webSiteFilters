@@ -380,4 +380,4 @@ wp-content/themes/motherjones/js/ads.min.js
 socialblade.com##.socialblade-heartbeat:has-text(adblock whitelist)
 deepl.*##.m-2.z-\[101\].right-0.top-0.absolute:has-text(extension)
 twitter.com##.r-tvv088.r-1e081e0.r-1777fci.r-16y2uox.r-1awozwy.css-1dbjc4n
-youtube.com##ytd-continuation-item-renderer.ytd-comment-replies-renderer.style-scope
+youtube.com##.tp-yt-paper-spinner.style-scope.active
