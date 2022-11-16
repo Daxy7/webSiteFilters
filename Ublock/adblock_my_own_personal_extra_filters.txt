@@ -369,6 +369,7 @@ healthline.com##body:style(overflow:auto!important)
 psychcentral.com###modal-host
 psychcentral.com##body:style(overflow:auto!important)
 ||meter-svc.nytimes.com
+nytimes.com##.MAG_web_all_Monthly-Sale-dock_1:has-text(Thanks for reading)
 gamespot.com###contrib_rec.forum_google
 imgur.com##.GalleryVote-accoladesAnimate
 google.*###OotqVd
