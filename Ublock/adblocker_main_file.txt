@@ -112,6 +112,8 @@ partitionwizard.com##.promotions-banner-wrap
 web.archive.org##.caroufredsel_wrapper
 imgur.com##.GalleryVote-accoladesAnimate
 google.*###OotqVd
+google.*##div.OBMEnb:nth-of-type(2):has-text(People also search for)
+google.*##div.OBMEnb:has-text(People also search for)
 discord.com##.animationAndSparklesContainer-7Fwx3i
 discord.com##.animation-1GAstp
 discord.com##.caretBottomCenter-4XccL3:has-text(Connect Xbox to Discord)
