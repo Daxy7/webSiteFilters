@@ -359,6 +359,7 @@ washingtonpost.com##.overflow-hidden:has-text(Stay informed)
 ||telegraph.co.uk/martech/js/TGT-1002--paywall-meters-profile/
 ||telegraph.co.uk/martech/js/TGT-390--martech-paywall/
 ||telegraph.co.uk/martech/js/TGT-309--newsletter-units/
+||coordinator.cm.bloomberg.com/coordination$xhr
 *###onetrust-consent-sdk
 com##.js-consent-banner:has-text(By clicking)
 medicalnewstoday.com###modal-host
