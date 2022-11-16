@@ -94,6 +94,7 @@ twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx
 twitter.com##body:style(overflow: auto !important;)
 twitter.com##html->body:style(overflow:visible !important;)
 twitter.com##html:style(overflow:visible !important;)
+twitter.com##.r-tvv088.r-1e081e0.r-1777fci.r-16y2uox.r-1awozwy.css-1dbjc4n
 thewordfinder.com##.container > .col-md-12
 subtitlebee.com##.width100.discount-offer
 websiteplanet.com###ctrl-d-popup
