@@ -1,1 +1,1 @@
-+set r_xassetnum xmodel=2300 material=4096 image=4000 weapon=170 com_hunkmegs 512 +exec server.cfg +set fs_game mods/accessdenied
++set r_xassetnum xmodel=2300 material=4096 image=4000 weapon=170 com_hunkmegs 512 +exec lag_patch.cfg +set fs_game mods/accessdenied
