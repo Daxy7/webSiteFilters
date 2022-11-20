@@ -25,6 +25,7 @@ vendor/cookieconsent/js/cookieconsent.min.js
 wp-content/plugins/cookie-law-info
 wp-content/plugins/cookie-notice
 ||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
+cookieconent.com$3p
 cookiebot.com$3p
 cookiepro.com$3p
 cookieinformation.com$3p
