@@ -33,7 +33,6 @@ consensu.org$3p
 consentframework.com$3p
 trustarc.com$3p
 truste.com$3p
-onetrust.com$3p
 ##.ez-main-cmp-wrapper.pre-render-cmp.ez_modal
 ezodn.com$3p
 privacy-mgmt.com$3p
