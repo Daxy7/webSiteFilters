@@ -385,3 +385,4 @@ twitter.com##.r-tvv088.r-1e081e0.r-1777fci.r-16y2uox.r-1awozwy.css-1dbjc4n
 youtube.com##.tp-yt-paper-spinner.style-scope.active
 google.*##div.OBMEnb:nth-of-type(2):has-text(People also search for)
 google.*##div.OBMEnb:has-text(People also search for)
+quora.com##.dom_annotate_answer_action_bar_share.q-box
