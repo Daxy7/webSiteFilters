@@ -16,9 +16,10 @@ getadmiral.com$3p
 
 ||cdn.cookielaw.org/consent
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
-vendor/cookieconsent/js/cookieconsent.min.js
+cookieconsent/js/cookieconsent.min.js
+cookiesen/cookies-enabler.js
 ||freeprivacypolicy.com/public/cookie-consent
-||yastatic.net/s3/gdpr/popup/v2
+||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
 ||cdn.ampproject.org/v0/amp-consent
 ||e33087.b.akamaiedge.net^$script
