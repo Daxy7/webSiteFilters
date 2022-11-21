@@ -393,3 +393,5 @@ google.*##div.OBMEnb:has-text(People also search for)
 quora.com##.dom_annotate_answer_action_bar_share.q-box
 healthline.com##.css-11k39sg
 venturebeat.com##div.tude-cw-wrap
+steamid.uk##h6:nth-of-type(6):has-text(SteamID URL)
+steamid.uk##h6:nth-of-type(7):has-text(Community URL)
