@@ -396,4 +396,5 @@ healthline.com##.css-11k39sg
 venturebeat.com##div.tude-cw-wrap
 steamid.uk##h6:nth-of-type(6):has-text(SteamID URL)
 steamid.uk##h6:nth-of-type(7):has-text(Community URL)
-yandex.com##.Popup2:has-text(Press to select)
+yandex.com##.Popup2:has-text(Press to select) 
+yandex.com##div.vr4zIM2ATP1hAJRmAAC6pIcMX-Incut
