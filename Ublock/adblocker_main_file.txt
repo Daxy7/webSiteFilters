@@ -289,6 +289,7 @@ bing.com###relatedSearchesLGWContainer
 bing.com##.b_topborder.b_top.b_ans:has-text(COVID-19)
 bing.com##.b-conclfb-wrapper:has-text(Is this answer helpful)
 bing.com##.spl_ugcpoll
+bing.com###LGPopDomainsContainer
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
