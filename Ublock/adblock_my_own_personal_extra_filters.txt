@@ -319,6 +319,7 @@ bing.com###LGPopDomainsContainer
 bing.com###ntf_newtabfil
 bing.com##.bw-shopgif
 bing.com##.vs
+microsoft.com##.RailBanner:has-text(try Microsoft 365)
 youtube.com###dismissible > .ytd-statement-banner-renderer
 youtube,fandom.com##.sitenotice--visible
 fandom.com##.marketing-notifications

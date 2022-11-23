@@ -297,6 +297,7 @@ bing.com###LGPopDomainsContainer
 bing.com###ntf_newtabfil
 bing.com##.bw-shopgif
 bing.com##.vs
+microsoft.com##.RailBanner:has-text(try Microsoft 365)
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 ! *##div.l:has-text(To make Medium work,)
