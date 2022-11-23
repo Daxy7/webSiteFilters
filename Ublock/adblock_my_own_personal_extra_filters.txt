@@ -274,7 +274,7 @@ totaljerkface.com###contentElement
 youtube.com##.yt-live-chat-viewer-engagement-message-renderer
 twitch.tv##.consent-banner
 youtube.com##ytd-merch-shelf-renderer
-youtube-nocookie.com/embed/kX0mPYgCObs$subdocument,domain=rule34.xxx
+youtube-nocookie.com$subdocument,domain=rule34.xxx
 /fluidplayer.js$script,domain=rule34.xxx
 /plugins/clean-tube-player/*$script,1p
 bing.com##.b_op_flyout
