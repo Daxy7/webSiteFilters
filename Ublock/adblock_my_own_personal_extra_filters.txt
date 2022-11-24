@@ -410,3 +410,4 @@ yandex.com##div.vr4zIM2ATP1hAJRmAAC6pIcMX-Incut
 google.*##.bQX4Yc:has-text(Do more with lyrics)
 yandex.com##body:style(overflow:auto!important)
 pornhub.com##.emptyBlockSpace
+google.*##.ff0Boe

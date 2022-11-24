@@ -252,6 +252,7 @@ google.com##.cu-container
 google.com##.gVqDn
 lens.google.*##.KUcdrd:has-text(Did you find these results)
 google.*###jW4n4:has-text(Please help us improve Google)
+google.*##.ff0Boe
 getpocket.com##.syndication-ad
 youtube.com##.ytd-inline-survey-renderer
 youtube.com##.yt-live-chat-viewer-engagement-message-renderer
