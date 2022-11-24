@@ -25,6 +25,7 @@ cookiesen/cookies-enabler.js
 ||e33087.b.akamaiedge.net^$script
 wp-content/plugins/cookie-law-info
 wp-content/plugins/cookie-notice
+wp-content/plugins/gdpr-cookie-compliance
 ||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
 cookieconsent.com$3p
 cookiebot.com$3p
@@ -255,6 +256,7 @@ duplichecker.com##.st_dd
 duplichecker.com##.csdds
 duplichecker.com##.p8
 duplichecker.com##.mb5
+duplichecker.com##div:nth-of-type(7)
 livegore.com###notice_visitor
 *##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
 music.youtube.com##.ytmusic-like-button-renderer.style-scope.dislike
