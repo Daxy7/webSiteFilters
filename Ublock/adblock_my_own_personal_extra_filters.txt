@@ -411,3 +411,4 @@ google.*##.bQX4Yc:has-text(Do more with lyrics)
 yandex.com##body:style(overflow:auto!important)
 pornhub.com##.emptyBlockSpace
 google.*##.ff0Boe
+reddit.com##.awardings-bar
