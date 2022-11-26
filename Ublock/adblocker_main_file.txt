@@ -154,6 +154,10 @@ abbott,abogado,ac,academy,accountant,accountants,active,actor,ad,ads,adult,ae,ae
 com,org.net##.exit-intent__background.exit-intent
 com,org,net##.l-inline.m-detail--feature-container
 com,org,net##.l-inline.mm-video--landscape.m-video
+mywot.com##.cEVnBL
+mywot.com##.fnqDza
+mywot.com##.kxzBLN
+mywot.com##.gLFpuF
 gstatic.com/youtube/img/promos/growth/*
 youtube.com###big-yoodle
 youtube.com###donation-shelf

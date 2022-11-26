@@ -412,3 +412,7 @@ yandex.com##body:style(overflow:auto!important)
 pornhub.com##.emptyBlockSpace
 google.*##.ff0Boe
 reddit.com##.awardings-bar
+mywot.com##.cEVnBL
+mywot.com##.fnqDza
+mywot.com##.kxzBLN
+mywot.com##.gLFpuF
