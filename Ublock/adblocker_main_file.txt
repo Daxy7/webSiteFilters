@@ -26,6 +26,7 @@ cookiesen/cookies-enabler.js
 wp-content/plugins/cookie-law-info
 wp-content/plugins/cookie-notice
 wp-content/plugins/gdpr-cookie-compliance
+shopifycloud/privacy-banner/storefront-banner
 ||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
 cookieconsent.com$3p
 cookiebot.com$3p
