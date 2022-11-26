@@ -11,7 +11,7 @@ mochiads.com$3p
 facebook.com$3p
 facebook.net$3p
 quora.com$3p
-buymeacoffee.com$3p
+cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js
 getadmiral.com$3p
 
 ||cdn.cookielaw.org/consent
