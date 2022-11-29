@@ -326,6 +326,7 @@ bing.com##.b_fpl_icon
 bing.com###bnp\.nid\.63600
 bing.com##.tr_nh.va_tt.vsb_tr_c:has-text(TikTok short videos)
 bing.com##.b_imgsmall.b_bop.b_imgans.b_ans:has-text(Images of)
+bing.com##.rc_vlHorizontalImage:has-text(TRENDING CONTENT)
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
