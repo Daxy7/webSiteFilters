@@ -283,21 +283,20 @@ youtube-nocookie.com$subdocument,domain=rule34.xxx
 /fluidplayer.js$script,domain=rule34.xxx
 /plugins/clean-tube-player/*$script,1p
 bing.com##.b_op_flyout
-bing.com###b_opalpers
 bing.com##.b_floatrt.siz23.scs_exp.nowrap.b_secondaryText.b_suffix
 bing.com###df_load
 bing.com##.teal
 bing.com###bepfo
 ||bing.com/rewardsapp/flyout
-bing.com##.popup:has-text(Make Bing yours)
-bing.com##.bnp_fly_hp:has-text(Support a cause when you search on Bing)
+bing.com##.popup
+bing.com##.bnp_fly_hp
 bing.com###l_ecrd_blk_5_Poll
 bing.com##.l_ecrd_tud
 bing.com##.feedback-binded
 bing.com##li.b_ans:has-text(Trending on Bing)
 bing.com###textDeeplinksWidgetContainer
 bing.com###b_context > .b_ans:has-text(Related searches)
-bing.com###b_notificationContainer_bop:has-text(Earn free gift cards)
+bing.com###b_notificationContainer_bop
 bing.com##.msnpeek.hp_special_experience
 ! Makes bing look more like google
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
@@ -321,10 +320,13 @@ bing.com##.b-conclfb-wrapper:has-text(Is this answer helpful)
 bing.com##.spl_ugcpoll
 bing.com###LGPopDomainsContainer
 bing.com##.b_fpl_icon
-bing.com###bnp\.nid\.63600
+bing.com###b_opalpers
 bing.com##.tr_nh.va_tt.vsb_tr_c:has-text(TikTok short videos)
 bing.com##.b_imgsmall.b_bop.b_imgans.b_ans:has-text(Images of)
 bing.com##.rc_vlHorizontalImage:has-text(TRENDING CONTENT)
+bing.com##.idp-refresh-page-bottom-page:has-text(Related searches)
+bing.com##.inline_blk:has-text(Explore more)
+bing.com##.inline_blk:has-text(People interested)
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
