@@ -20,6 +20,7 @@ getsitecontrol.com$3p
 cookieconsent/js/cookieconsent.min.js
 assets/js/cookieconsent.min.js
 cookiesen/cookies-enabler.js
+js/eu_cookie_compliance.min.js
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
