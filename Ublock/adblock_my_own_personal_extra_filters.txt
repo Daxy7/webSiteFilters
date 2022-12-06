@@ -65,6 +65,9 @@ chatbot.com$3p
 chatra.io$3p
 livechatinc.com$3p
 smartsuppchat.com$3p
+shopify-chat.shopifycloud.com
+###shopify-chat
+###dummy-chat-button-iframe
 tidio.co$3p
 intercom.io$3p
 certainly.io$3p
