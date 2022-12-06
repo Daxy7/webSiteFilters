@@ -231,6 +231,7 @@ watchpeopledie.*###logo-container > [href] > .ml-1
 ||rdrama.net/images/16574009280289438.webp
 ||watchpeopledie.*/assets/images/halloween/eco/*$image
 watchpeopledie.*##marquee
+watchpeopledie.*##.user-signature
 youtube.com##.ytp-button.ytp-remote-button
 youtube.com###clarify-box
 rule34.xxx##div.horizontalFlexWithMargins
