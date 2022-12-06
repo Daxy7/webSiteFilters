@@ -208,6 +208,7 @@ youtube.com###voice-search-button
 youtube.com###redirect-backto-safety-button
 youtube.com##.opened
 youtube.com###fade
+youtube.com###scrim
 tampermonkey.net##.advent_head
 *##a.ytp-menuitem
 com##.cookie-infobar

@@ -365,6 +365,7 @@ washingtonpost.com##body:style(overflow:auto!important)
 wsj.com###cx-articlecover
 youtube.com##.opened
 youtube.com###fade
+youtube.com###scrim
 discord.com##.imageAccessory-2yA7Kb
 aha-music.com##.content-section-a
 youtube.com##ytd-rich-section-renderer:has-text(Shorts)
