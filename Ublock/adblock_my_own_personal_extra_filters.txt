@@ -182,8 +182,8 @@ youtube.com###donation-shelf
 archive.org##.js-donate-banner.row
 google.*##+js(set, rwt, noopFunc)
 reddit.com##.commentsignupbar.infobar
-laptopmag.com,tomshardware.com,techradar.com##.related-articles-block
-laptopmag.com,tomshardware.com,techradar.com##.hawk-processed.hawk-nest
+laptopmag.com,tomshardware.com,techradar.com,pcgamer.com##.related-articles-block
+laptopmag.com,tomshardware.com,techradar.com,pcgamer.com##.hawk-processed.hawk-nest
 yandex.com##.popup2
 yandex.com##.i-bem.serp-item_card.serp-item
 yandex.com##.DistrPopup-Content
