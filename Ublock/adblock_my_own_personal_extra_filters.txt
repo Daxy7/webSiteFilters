@@ -339,7 +339,7 @@ bing.com##.inline_blk:has-text(People interested)
 bing.com###ntf_newtabfil
 bing.com##.bw-shopgif
 ||assets.msn.com/bundles/v1/bingHomepage/*$xhr
-bing.com##.show.carousel
+bing.com##.vs
 microsoft.com##.RailBanner:has-text(try Microsoft 365)
 youtube.com###dismissible > .ytd-statement-banner-renderer
 youtube,fandom.com##.sitenotice--visible
