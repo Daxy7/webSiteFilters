@@ -150,6 +150,7 @@ vk.com##.PageBottomBanner--bg-blue:has-text(Read only the most interesting posts
 vk.com###box_layer_wrap
 vk.com###box_layer_bg
 vk.com##body:style(overflow:auto!important)
+youtube.com###premium-upsell-link
 washingtonpost.com##body:style(overflow:auto!important)
 washingtonpost.com##.purchase-paywall-overlay
 wired.com##.persistent-bottom
