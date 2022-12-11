@@ -330,7 +330,8 @@ bing.com##.inline_blk:has-text(People interested)
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
 bing.com##.bw-shopgif
-bing.com##.vs
+||assets.msn.com/bundles/v1/bingHomepage/*$xhr
+bing.com##.show.carousel
 microsoft.com##.RailBanner:has-text(try Microsoft 365)
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
