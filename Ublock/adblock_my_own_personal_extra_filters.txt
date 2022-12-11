@@ -18,6 +18,7 @@ getsitecontrol.com$3p
 ||cdn.cookielaw.org/consent
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
 js/cookieconsent.min.js
+js/CookieInfo.min.js
 js/eu_cookie_compliance.min.js
 cookiesen/cookies-enabler.js
 build/cookieconsent.min.js
