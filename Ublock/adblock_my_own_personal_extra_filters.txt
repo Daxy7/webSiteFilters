@@ -70,6 +70,7 @@ smartsuppchat.com$3p
 shopify-chat.shopifycloud.com
 ###shopify-chat
 ###dummy-chat-button-iframe
+ada.support$3p
 tidio.co$3p
 intercom.io$3p
 certainly.io$3p
