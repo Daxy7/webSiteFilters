@@ -444,3 +444,4 @@ tumblr.com##.TopeC:has-text(Sign me up)
 youtube.com##ytd-info-panel-container-renderer:has-text(Context)
 support.google.*##.inline-feedback__track
 youtube.com###premium-upsell-link
+google.*###topstuff
