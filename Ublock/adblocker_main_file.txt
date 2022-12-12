@@ -15,7 +15,7 @@ cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js
 getadmiral.com$3p
 getsitecontrol.com$3p
 
-||cdn.cookielaw.org/consent
+||cdn.cookielaw.org
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
 js/cookieconsent.min.js
 js/CookieInfo.min.js
