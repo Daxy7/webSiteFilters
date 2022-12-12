@@ -135,6 +135,7 @@ twitter.com##html->body:style(overflow:visible !important;)
 twitter.com##html:style(overflow:visible !important;)
 thewordfinder.com##.container > .col-md-12
 subtitlebee.com##.width100.discount-offer
+turnoffthelights.com###materialModalYouTube
 websiteplanet.com###ctrl-d-popup
 websiteplanet.com##.atf.ads-container
 freemidi.org##+js(nobab)
