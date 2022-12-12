@@ -345,6 +345,7 @@ bing.com##.rc_vlHorizontalImage:has-text(TRENDING CONTENT)
 bing.com##.idp-refresh-page-bottom-page:has-text(Related searches)
 bing.com##.inline_blk:has-text(Explore more)
 bing.com##.inline_blk:has-text(People interested)
+bing.com##.b_title.btitle:has-text(Videos of)
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
@@ -455,3 +456,4 @@ support.google.*##.inline-feedback__track
 youtube.com###premium-upsell-link
 google.*###topstuff
 google.*##.v5jHUb
+urbandictionary.com##.mug-ad
