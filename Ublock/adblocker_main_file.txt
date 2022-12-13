@@ -289,6 +289,7 @@ google.*###jW4n4:has-text(Please help us improve Google)
 google.*##.ff0Boe
 google.*###topstuff
 google.*##.v5jHUb
+google.*##.wgwAc
 support.google.*##.inline-feedback__track
 getpocket.com##.syndication-ad
 youtube.com##.ytd-inline-survey-renderer

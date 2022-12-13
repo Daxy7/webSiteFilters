@@ -460,3 +460,4 @@ youtube.com###premium-upsell-link
 google.*###topstuff
 google.*##.v5jHUb
 urbandictionary.com##.mug-ad
+google.*##.wgwAc
