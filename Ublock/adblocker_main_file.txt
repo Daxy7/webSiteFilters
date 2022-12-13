@@ -316,7 +316,7 @@ bing.com##.msnpeek.hp_special_experience
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 bing.com###b_dynRail
 bing.com##.slide-in.b_widgetContainer
-bing.com##.tab-container
+! bing.com##.tab-container
 bing.com###b_pole
 bing.com##.qpbold.qpluscrs:has-text(Explore)
 bing.com##.b_rc_gb_wrc_carousel_container:has-text(Also mentioned)
@@ -343,6 +343,7 @@ bing.com##.idp-refresh-page-bottom-page:has-text(Related searches)
 bing.com##.inline_blk:has-text(Explore more)
 bing.com##.inline_blk:has-text(People interested)
 bing.com##.b_title.btitle:has-text(Videos of)
+bing.com##.HeroTab.tab-head
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
