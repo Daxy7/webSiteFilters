@@ -225,6 +225,7 @@ steamid.uk##.pb-3.mt-0.primary.card > .text-center.row
 youtube.com###comment-teaser
 reddit.com##.reddit-video-controller-root.show-only-when-pinned.pinned-controls
 reddit.com##.reddit-video-controller-root.buffering-controls > .horizontal.centered
+reddit.com###RESNotifications
 watchpeopledie.*##.mr-2
 watchpeopledie.*##bdi
 watchpeopledie.*##.profile-pic-30-wrapper
