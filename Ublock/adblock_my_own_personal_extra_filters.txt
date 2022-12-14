@@ -14,6 +14,7 @@ quora.com$3p
 cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js
 getadmiral.com$3p
 getsitecontrol.com$3p
+/clippy.js
 
 ||cdn.cookielaw.org
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
@@ -23,6 +24,7 @@ getsitecontrol.com$3p
 /CookieInfo.min.js
 /eu_cookie_compliance.min.js
 /cookies-enabler.js
+/wcp-consent.js
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
