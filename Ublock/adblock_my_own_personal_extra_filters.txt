@@ -17,11 +17,12 @@ getsitecontrol.com$3p
 
 ||cdn.cookielaw.org
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
-js/cookieconsent.min.js
-js/CookieInfo.min.js
-js/eu_cookie_compliance.min.js
-cookiesen/cookies-enabler.js
-build/cookieconsent.min.js
+/cookieconsent.min.js
+/cookie-consent.js
+/biscuits.js
+/CookieInfo.min.js
+/eu_cookie_compliance.min.js
+/cookies-enabler.js
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
