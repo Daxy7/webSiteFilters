@@ -57,6 +57,7 @@ privacymanager.io$3p
 datagrail.io$3p
 gdpr-tcfv2.sp-prod.net$3p
 complianz.io$3p
+cdn.iubenda.com$3p
 didomi.io$3p
 piwik.pro$3p
 quantcast.com$3p
