@@ -85,6 +85,7 @@ shopify-chat.shopifycloud.com
 ###shopify-chat
 ###dummy-chat-button-iframe
 ##.livechat-container
+###msChatContainer
 ada.support$3p
 tidio.co$3p
 intercom.io$3p
