@@ -26,6 +26,7 @@ getsitecontrol.com$3p
 /cookies-enabler.js
 /wcp-consent.js
 /consent-bundle
+/privacy/notice.js
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
