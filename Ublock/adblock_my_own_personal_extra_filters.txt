@@ -25,6 +25,7 @@ getsitecontrol.com$3p
 /eu_cookie_compliance.min.js
 /cookies-enabler.js
 /wcp-consent.js
+/consent-bundle
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
@@ -44,6 +45,7 @@ script.wikia.nocookie.net$3p
 consensu.org$3p
 consentframework.com$3p
 consentmanager.net$3p
+cmp.springernature.com
 evidon.com$3p
 trustarc.com$3p
 truste.com$3p
