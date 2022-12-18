@@ -27,6 +27,7 @@ getsitecontrol.com$3p
 /wcp-consent.js
 /consent-bundle
 /privacy/notice.js
+/cookie-policy.json
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
@@ -35,6 +36,7 @@ getsitecontrol.com$3p
 wp-content/plugins/cookie-law-info
 wp-content/plugins/cookie-notice
 wp-content/plugins/gdpr-cookie-compliance
+wp-content/plugins/onetrust-vmware-mu
 shopifycloud/privacy-banner/storefront-banner
 ||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
 cookieconsent.com$3p
