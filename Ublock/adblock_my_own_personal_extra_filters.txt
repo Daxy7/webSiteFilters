@@ -259,6 +259,10 @@ watchpeopledie.*##marquee
 watchpeopledie.*##.user-signature
 watchpeopledie.*##.site-banner-hole
 watchpeopledie.*##div.stackable-container
+watchpeopledie.*##.candy-cane
+watchpeopledie.*###banner-svg
+||watchpeopledie.*/i/event/$image
+||watchpeopledie.*/i/hats/Present%20Bow.webp
 ||watchpeopledie.*/assets/js/event/snow.js$script,1p
 youtube.com##.ytp-button.ytp-remote-button
 youtube.com###clarify-box
@@ -362,6 +366,7 @@ bing.com##.inline_blk:has-text(Explore more)
 bing.com##.inline_blk:has-text(People interested)
 bing.com##.b_title.btitle:has-text(Videos of)
 bing.com##.HeroTab.tab-head
+bing.com##.fbtopblue
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
