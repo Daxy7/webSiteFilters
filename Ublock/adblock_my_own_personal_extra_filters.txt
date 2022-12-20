@@ -260,11 +260,9 @@ watchpeopledie.*##.user-signature
 watchpeopledie.*##.site-banner-hole
 watchpeopledie.*##div.stackable-container
 watchpeopledie.*##.candy-cane
-watchpeopledie.*###banner-svg
+||watchpeopledie.*/assets/event/js/snow.js$script,1p
 ||watchpeopledie.*/i/event/$image
 ||watchpeopledie.*/i/hats/Present%20Bow.webp
-||watchpeopledie.*/assets/js/event/snow.js$script,1p
-youtube.com##.ytp-button.ytp-remote-button
 youtube.com###clarify-box
 rule34.xxx##div.horizontalFlexWithMargins
 youtube.com##.ryd-tooltip
