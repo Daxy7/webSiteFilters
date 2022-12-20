@@ -467,7 +467,7 @@ mywot.com##.fnqDza
 mywot.com##.kxzBLN
 mywot.com##.gLFpuF
 mywot.com##.elyHWL
-youtube.com##.paper-toast-open:has-text(Added to Queue)
+youtube.com##.paper-toast-open
 mumsnet.com##.lg\:block.hidden.bg-gray-200.lg\:min-h-\[578px\].min-h-\[434px\].pb-14.pt-1.my-10
 mumsnet.com##.lg\:flex-col.lg\:flex.lg\:min-w-\[300px\].lg\:col-span-4.col-span-12 > div.lg\:block.hidden.lg\:mt-8
 mumsnet.com##.relative.lg\:w-billboard.lg\:h-billboard.overflow-hidden.mx-auto.justify-center.flex-col.flex
