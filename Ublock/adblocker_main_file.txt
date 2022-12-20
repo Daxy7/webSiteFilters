@@ -296,6 +296,8 @@ google.com##.cu-container
 google.com##.gVqDn
 lens.google.*##.KUcdrd:has-text(Did you find these results)
 google.*###jW4n4:has-text(Please help us improve Google)
+google.*##.PnU5cd:has-text(Please help us improve)
+google.*##.Ryrdad:has-text(Please help us improve)
 google.*##.ff0Boe
 google.*###topstuff
 google.*##.v5jHUb
