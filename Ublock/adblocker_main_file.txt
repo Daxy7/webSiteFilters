@@ -230,6 +230,7 @@ youtube.com##ytd-shelf-renderer:has(span:has-text(/Watch again/i))
 youtube.com##ytd-shelf-renderer:has(span:has-text(/Previously watched/i))
 youtube.com##.ytd-rich-section-renderer:has-text(/Breaking News|Top news/i)
 youtube.com##ytd-rich-section-renderer:has-text(Shorts)
+youtube.com##ytd-reel-shelf-renderer:has-text(Shorts)
 youtube.com##.ytd-item-section-renderer:has-text(Trending Shorts)
 youtube.com###voice-search-button
 youtube.com###redirect-backto-safety-button
