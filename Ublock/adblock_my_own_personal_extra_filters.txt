@@ -17,6 +17,7 @@ getsitecontrol.com$3p
 /clippy.js
 /prebid-ads.js
 /ads-prebid.js
+/ad-detection/ads.js
 
 ||cdn.cookielaw.org
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
