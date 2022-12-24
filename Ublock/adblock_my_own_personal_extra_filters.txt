@@ -487,3 +487,4 @@ urbandictionary.com##.mug-ad
 google.*##.wgwAc
 google.*##.match-mod-horizontal-padding
 youtube.com##ytd-reel-shelf-renderer:has-text(Shorts)
+brave.com##.callout
