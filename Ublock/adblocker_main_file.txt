@@ -223,7 +223,7 @@ yandex.com##body:style(overflow:auto!important)
 youtube.com##ytd-video-preview
 youtube.com##ytd-thumbnail-overlay-loading-preview-renderer
 youtube.com##ytd-thumbnail-overlay-time-status-renderer:style(display: inline-flex !important;)
-youtube.com##ytd-shelf-renderer:has(span:has-text(/Related to your search/i))
+youtube.com##ytd-shelf-renderer:has(span:has-text(/Related to your search|From related searches/i))
 youtube.com##ytd-shelf-renderer:has-text(/People also watched/)
 youtube.com###contents > ytd-shelf-renderer:has-text(/For you/)
 youtube.com##ytd-shelf-renderer:has(span:has-text(/New for you/i))
