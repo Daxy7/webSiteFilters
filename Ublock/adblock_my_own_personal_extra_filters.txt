@@ -269,6 +269,7 @@ watchpeopledie.*##.candy-cane
 ||watchpeopledie.*/assets/event/js/snow.js$script,1p
 ||watchpeopledie.*/i/event/$image
 ||watchpeopledie.*/i/hats/Present%20Bow.webp
+||watchpeopledie.*/assets/event/images/lights.webp
 youtube.com###clarify-box
 rule34.xxx##div.horizontalFlexWithMargins
 youtube.com##.ryd-tooltip
