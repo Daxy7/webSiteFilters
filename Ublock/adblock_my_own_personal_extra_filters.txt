@@ -21,6 +21,9 @@ getsitecontrol.com$3p
 rule34.paheal.net##+js(acis, document.querySelectorAll, popMagic)
 *##+js(acis, dataPopUnder, popunderSetup)
 *##+js(acis, tr_searchUrlPattern, tr_videoUrlTplRegExp)
+*##+js(acis, data-spots, data-tag)
+*##+js(acis, la-bars, la-times)
+*##+js(acis, vc_active, slideToggle, click)
 
 ||cdn.cookielaw.org
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
