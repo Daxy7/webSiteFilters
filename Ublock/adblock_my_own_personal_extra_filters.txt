@@ -62,6 +62,7 @@ consensu.org$3p
 consentframework.com$3p
 consentmanager.net$3p
 cmp.springernature.com
+cmp.dmgmediaprivacy.*
 evidon.com$3p
 trustarc.com$3p
 truste.com$3p
