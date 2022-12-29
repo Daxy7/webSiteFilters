@@ -31,6 +31,10 @@ getsitecontrol.com$3p
 /consent-bundle
 /privacy/notice.js
 /cookie-policy.json
+/3057-gdpr-min.js
+/3056-gdpr-min.css
+/gdpr-min.js
+/gdpr-min.css
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
