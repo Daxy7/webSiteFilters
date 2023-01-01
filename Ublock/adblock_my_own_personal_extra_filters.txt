@@ -313,6 +313,7 @@ duplichecker.com##.mb5
 duplichecker.com##div:nth-of-type(7)
 livegore.com###notice_visitor
 *##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
+*##*:style(border-radius:0px !important;)
 music.youtube.com##.ytmusic-like-button-renderer.style-scope.dislike
 urbandictionary.com##.leaderboard-250\:h-\[250px\]
 google.com##.irmCpc
