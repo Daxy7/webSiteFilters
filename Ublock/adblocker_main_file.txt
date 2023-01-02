@@ -35,6 +35,8 @@ getsitecontrol.com$3p
 /3056-gdpr-min.css
 /gdpr-min.js
 /gdpr-min.css
+/v1/privacy-managers
+/cookie/styles
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
