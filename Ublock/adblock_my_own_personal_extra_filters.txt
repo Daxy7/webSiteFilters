@@ -52,6 +52,7 @@ wp-content/plugins/gdpr-cookie-compliance
 wp-content/plugins/onetrust-vmware-mu
 shopifycloud/privacy-banner/storefront-banner
 ||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
+###privacy-consent
 cookieconsent.com$3p
 cookiebot.com$3p
 cookiepro.com$3p
@@ -93,6 +94,7 @@ list-manage.com$3p
 widget.reviews.*$3p
 convertkit.com$3p
 pico.tools$3p
+###toaster
 
 chatbot.com$3p
 chatra.io$3p
