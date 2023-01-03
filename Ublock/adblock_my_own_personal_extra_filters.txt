@@ -18,6 +18,7 @@ getsitecontrol.com$3p
 /prebid-ads.js
 /ads-prebid.js
 /ad-detection/ads.js
+/javascript/ads.js
 rule34.paheal.net##+js(acis, document.querySelectorAll, popMagic)
 *##+js(acis, dataPopUnder, popunderSetup)
 *##+js(acis, tr_searchUrlPattern, tr_videoUrlTplRegExp)

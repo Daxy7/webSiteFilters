@@ -18,6 +18,7 @@ getsitecontrol.com$3p
 /prebid-ads.js
 /ads-prebid.js
 /ad-detection/ads.js
+/javascript/ads.js
 
 ||cdn.cookielaw.org
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
