@@ -252,8 +252,7 @@ tampermonkey.net##.advent_head
 com##.cookie-infobar
 *##.cookie-choices-info
 *###cookieDialog
-*###onetrust-consent-sdk
-com##.js-consent-banner:has-text(By clicking)
+##.js-consent-banner
 yandex.com##.ImagesViewerApp-FooterContent
 express.co.uk##.ad-slot-article
 youtube.com###product-picker
