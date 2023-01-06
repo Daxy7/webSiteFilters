@@ -62,6 +62,7 @@ cookieconsent.com$3p
 cookiebot.com$3p
 cookiepro.com$3p
 cookieyes.com$3p
+cookiehub.net$3p
 cookieinformation.com$3p
 script.wikia.nocookie.net$3p
 consensu.org$3p
