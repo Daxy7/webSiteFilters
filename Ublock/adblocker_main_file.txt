@@ -270,6 +270,7 @@ youtube.com##.ryd-tooltip
 yandex.com##div.incut
 yandex.com##div.JustifierRowLayout-Incut
 yandex.com##.MMImage-Origin
+yandex.com##.spin2
 translate.yandex.com##.state-fadeaway.tooltip_promo
 dailymail.co.uk##.horizontal-1eH9F.container-3zJLP
 dailymail.co.uk##.shareComment
