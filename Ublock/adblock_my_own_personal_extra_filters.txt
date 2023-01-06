@@ -392,6 +392,7 @@ bing.com##.inline_blk:has-text(People interested)
 bing.com##.b_title.btitle:has-text(Videos of)
 bing.com##.HeroTab.tab-head
 bing.com##.fbtopblue
+bing.com##.toolTip.id_button
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
