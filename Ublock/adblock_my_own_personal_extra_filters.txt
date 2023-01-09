@@ -46,6 +46,7 @@ rule34.paheal.net##+js(acis, document.querySelectorAll, popMagic)
 /v1/privacy-managers
 /cookie/styles
 /java/cookie-accept.js
+/privacy_controller
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
