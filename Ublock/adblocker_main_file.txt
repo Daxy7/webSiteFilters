@@ -68,7 +68,10 @@ evidon.com$3p
 trustarc.com$3p
 truste.com$3p
 usercentrics.com$3p
-##.ez-main-cmp-wrapper.pre-render-cmp.ez_modal
+##.ez_modal
+medicalnewstoday.com,healthline.com,psychcentral.com###modal-host
+medicalnewstoday.com,healthline.com,psychcentral.com##body:style(overflow:auto!important)
+medicalnewstoday.com##.css-1hu1ip
 ezodn.com$3p
 secureprivacy.ai$3p
 privacy-mgmt.com$3p
