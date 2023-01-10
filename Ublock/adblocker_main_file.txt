@@ -43,6 +43,7 @@ ads/ads.js
 /cookie/styles
 /java/cookie-accept.js
 /privacy_controller
+/handle/consent
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
