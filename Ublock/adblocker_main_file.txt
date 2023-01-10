@@ -14,6 +14,8 @@ quora.com$3p
 cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js
 getadmiral.com$3p
 getsitecontrol.com$3p
+addtoany.com$3p
+sharethis.com$3p
 /clippy.js
 /prebid-ads.js
 /ads-prebid.js
