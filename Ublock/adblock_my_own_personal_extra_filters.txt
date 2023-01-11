@@ -260,6 +260,7 @@ com##.cookie-infobar
 *##.cookie-choices-info
 *###cookieDialog
 yandex.com##.ImagesViewerApp-FooterContent
+yandex.com##.MediaViewer-LayoutFooter
 express.co.uk##.ad-slot-article
 youtube.com###product-picker
 steamid.uk##.pb-3.mt-0.primary.card > .text-center.row

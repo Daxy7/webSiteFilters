@@ -265,6 +265,7 @@ com##.cookie-infobar
 *###cookieDialog
 ##.js-consent-banner
 yandex.com##.ImagesViewerApp-FooterContent
+yandex.com##.MediaViewer-LayoutFooter
 express.co.uk##.ad-slot-article
 youtube.com###product-picker
 youtube.com###comment-teaser
