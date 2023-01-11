@@ -135,7 +135,7 @@ inbenta.io$3p
 joonbot.com$3p
 driftt.com$3p
 zopim.com$3p
-logi.com$3p
+crisp.im$3p
 
 instiengage.com$3p
 apester.com
