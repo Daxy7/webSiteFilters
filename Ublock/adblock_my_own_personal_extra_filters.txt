@@ -519,3 +519,5 @@ google.*##.match-mod-horizontal-padding
 youtube.com##ytd-reel-shelf-renderer:has-text(Shorts)
 brave.com##.callout
 yandex.com##.spin2
+google.*###taw
+google.*##.Pm5mre
