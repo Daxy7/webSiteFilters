@@ -523,4 +523,4 @@ brave.com##.callout
 yandex.com##.spin2
 google.*###taw
 google.*##.Pm5mre
-google.*##.ULSxyf
+google.*##.ULSxyf:has-text(results below)
