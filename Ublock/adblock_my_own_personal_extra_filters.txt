@@ -327,7 +327,8 @@ duplichecker.com##.st_dd
 duplichecker.com##.csdds
 duplichecker.com##.p8
 duplichecker.com##.mb5
-duplichecker.com##div:nth-of-type(7)
+duplichecker.com##.clearfix
+duplichecker.com##.set-anchor
 livegore.com###notice_visitor
 *##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
 *##*:style(border-radius:0px !important;)

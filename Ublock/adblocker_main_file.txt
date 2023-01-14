@@ -314,7 +314,8 @@ duplichecker.com##.st_dd
 duplichecker.com##.csdds
 duplichecker.com##.p8
 duplichecker.com##.mb5
-duplichecker.com##div:nth-of-type(7)
+duplichecker.com##.clearfix
+duplichecker.com##.set-anchor
 *##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
 music.youtube.com##.ytmusic-like-button-renderer.style-scope.dislike
 urbandictionary.com##.leaderboard-250\:h-\[250px\]
