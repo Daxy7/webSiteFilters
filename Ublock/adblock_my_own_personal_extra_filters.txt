@@ -59,6 +59,7 @@ wp-content/plugins/cookie-law-info
 wp-content/plugins/cookie-notice
 wp-content/plugins/gdpr-cookie-compliance
 wp-content/plugins/onetrust-vmware-mu
+wp-content/plugins/kaspersky-cookies-notification
 shopifycloud/privacy-banner/storefront-banner
 ||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
 ###privacy-consent
