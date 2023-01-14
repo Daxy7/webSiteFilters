@@ -72,6 +72,7 @@ evidon.com$3p
 trustarc.com$3p
 truste.com$3p
 usercentrics.com$3p
+efilli.com$3p
 ##.ez_modal
 medicalnewstoday.com,healthline.com,psychcentral.com###modal-host
 medicalnewstoday.com,healthline.com,psychcentral.com##body:style(overflow:auto!important)
