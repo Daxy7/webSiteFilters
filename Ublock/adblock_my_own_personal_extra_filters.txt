@@ -527,3 +527,4 @@ yandex.com##.spin2
 google.*###taw
 google.*##.Pm5mre
 google.*##.ULSxyf:has-text(results below)
+github.com##.Popover

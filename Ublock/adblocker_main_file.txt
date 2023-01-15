@@ -156,6 +156,7 @@ twitter.com##.r-tvv088.r-1e081e0.r-1777fci.r-16y2uox.r-1awozwy.css-1dbjc4n
 thewordfinder.com##.container > .col-md-12
 subtitlebee.com##.width100.discount-offer
 turnoffthelights.com###materialModalYouTube
+github.com##.Popover
 websiteplanet.com###ctrl-d-popup
 websiteplanet.com##.atf.ads-container
 duckduckgo.com##.js-badge-link
