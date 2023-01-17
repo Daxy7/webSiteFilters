@@ -414,9 +414,10 @@ youtube.com##tp-yt-iron-dropdown:has-text(/When you send a message|Try gifting/i
 youtube.com##.yt-tooltip-renderer:has-text(/Subscribe so you never miss/i)
 youtube.com##ytd-metadata-row-container-renderer:has-text(No mature content)
 youtube.com##.paper-toast-open
-music.youtube.com##.ytmusic-popup-container:has-text(Autoplay is now off)
+music.youtube.com##.ytmusic-popup-container
 music.youtube.com##tp-yt-paper-dialog
 youtube.com##ytd-popup-container:has(#content.yt-tooltip-renderer yt-formatted-string.yt-tooltip-renderer:has-text(/member/))
 youtube.com###endpoint[href="/premium"]
+youtube.com##.ytlr-overlay-toast-renderer
 youtube.com##.ytd-recognition-shelf-renderer
 
