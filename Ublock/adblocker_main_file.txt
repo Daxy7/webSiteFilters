@@ -45,6 +45,7 @@ ads/ads.js
 /privacy_controller
 /handle/consent
 /js/cookie-notice.min.js
+/cookieControl
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
