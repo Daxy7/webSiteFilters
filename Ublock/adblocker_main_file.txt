@@ -318,6 +318,9 @@ duplichecker.com##.p8
 duplichecker.com##.mb5
 duplichecker.com##.clearfix
 duplichecker.com##.set-anchor
+duplichecker.com###bio_ep
+duplichecker.com###bio_ep_bg
+duplichecker.com##body:style(overflow:auto!important)
 *##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
 music.youtube.com##.ytmusic-like-button-renderer.style-scope.dislike
 urbandictionary.com##.leaderboard-250\:h-\[250px\]

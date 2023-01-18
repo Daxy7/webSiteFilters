@@ -330,6 +330,9 @@ duplichecker.com##.p8
 duplichecker.com##.mb5
 duplichecker.com##.clearfix
 duplichecker.com##.set-anchor
+duplichecker.com###bio_ep
+duplichecker.com###bio_ep_bg
+duplichecker.com##body:style(overflow:auto!important)
 livegore.com###notice_visitor
 *##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
 *##*:style(border-radius:0px !important;)
