@@ -46,6 +46,7 @@ ads/ads.js
 /handle/consent
 /js/cookie-notice.min.js
 /cookieControl
+/wrapperMessagingWithoutDetection.js
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
