@@ -536,3 +536,6 @@ google.*##.Pm5mre
 google.*##.ULSxyf:has-text(results below)
 github.com##.Popover
 youtube.com##.ytlr-overlay-toast-renderer
+chrome.google.com##.yD5gtd
+jollyworld.app##.preloaderDoor
+jollyworld.app##.discordJoin
