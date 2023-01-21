@@ -169,7 +169,7 @@ tvtropes.org##.square_fad
 twitch.tv###twilight-sticky-footer-root
 scp-wiki.wikidot.com##.interwiki-stylable.scpnet-interwiki-wrapper
 wikipedia.*##.cn-fundraising
-deepl.com##.focus-visible-light-container.Snackbar_module_Snackbar__a3721153
+deepl.com###headlessui-portal-root
 urbandictionary.com##.h-\[600px\].justify-center.items-center.lg\:flex.hidden.mb-4
 mumsnet.com##.lg\:block.hidden.bg-gray-200.lg\:min-h-\[578px\].min-h-\[434px\].pb-14.pt-1.my-10
 mumsnet.com##.lg\:flex-col.lg\:flex.lg\:min-w-\[300px\].lg\:col-span-4.col-span-12 > div.lg\:block.hidden.lg\:mt-8
