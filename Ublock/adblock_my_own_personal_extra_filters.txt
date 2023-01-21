@@ -538,7 +538,6 @@ github.com##.Popover
 youtube.com##.ytlr-overlay-toast-renderer
 chrome.google.com##.yD5gtd
 jollyworld.app##.preloaderDoor
-jollyworld.app##.discordJoin
 jollyworld.app##.game-timer
 jollyworld.app##.logoSmall
 deepl.com###headlessui-portal-root
