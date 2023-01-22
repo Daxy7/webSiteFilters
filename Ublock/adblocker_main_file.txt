@@ -48,6 +48,7 @@ ads/ads.js
 /cookieControl
 /wrapperMessagingWithoutDetection.js
 /cookies/api
+/cookiebubble.min.js
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
