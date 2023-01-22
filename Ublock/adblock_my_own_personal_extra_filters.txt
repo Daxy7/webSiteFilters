@@ -542,3 +542,4 @@ jollyworld.app##.preloaderDoor
 jollyworld.app##.game-timer
 jollyworld.app##.logoSmall
 deepl.com###headlessui-portal-root
+youtube.com##.ytd-thumbnail-overlay-inline-unplayable-renderer
