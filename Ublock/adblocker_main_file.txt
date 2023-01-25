@@ -51,6 +51,7 @@ ads/ads.js
 /cookiebubble.min.js
 /cookieConsent.js
 /request-consent
+/consent-banner
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
