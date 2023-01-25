@@ -50,6 +50,7 @@ ads/ads.js
 /cookies/api
 /cookiebubble.min.js
 /cookieConsent.js
+/request-consent
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
