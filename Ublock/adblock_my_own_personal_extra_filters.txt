@@ -123,6 +123,7 @@ pico.tools$3p
 chatbot.com$3p
 chatra.io$3p
 livechatinc.com$3p
+mylivechat.com$3p
 smartsuppchat.com$3p
 shopify-chat.shopifycloud.com
 ###shopify-chat
