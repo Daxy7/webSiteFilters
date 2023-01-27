@@ -22,6 +22,7 @@ sharethis.com$3p
 /ad-detection/ads.js
 /javascript/ads.js
 ads/ads.js
+##.adthrive-placeholder-video
 rule34.paheal.net,xhamster.com##+js(acis, document.querySelectorAll, popMagic)
 ! *##+js(acis, dataPopUnder, popunderSetup)
 ! *##+js(acis, tr_searchUrlPattern, tr_videoUrlTplRegExp)
