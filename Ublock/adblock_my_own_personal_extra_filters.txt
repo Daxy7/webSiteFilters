@@ -83,6 +83,7 @@ consentframework.com$3p
 consentmanager.net$3p
 cmp.springernature.com
 cmp.dmgmediaprivacy.*
+cassiecloud.com$3p
 evidon.com$3p
 trustarc.com$3p
 truste.com$3p
