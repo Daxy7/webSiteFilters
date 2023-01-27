@@ -548,7 +548,7 @@ jollyworld.app##.game-timer
 jollyworld.app##.logoSmall
 deepl.com###headlessui-portal-root
 youtube.com##.ytd-thumbnail-overlay-inline-unplayable-renderer
-||totaljerkface.com^$csp=default-src 'self' totaljerkface.com 'unsafe-inline' data: blob:
+! ||totaljerkface.com^$csp=default-src 'self' totaljerkface.com 'unsafe-inline' data: blob:
 microsoft.com##.ucsUhfContainer
 microsoft.com##.teachingCalloutPopover:has-text(Sign in with)
 youtube.com##.ytp-promotooltip-wrapper
