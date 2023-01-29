@@ -204,7 +204,7 @@ websiteplanet.com##.atf.ads-container
 freemidi.org##+js(nobab)
 cprato.com##.show.fade.modal
 cprato.com##.show.fade.modal-backdrop
-discord.com##.animation-1GAstp > svg
+! discord.com##.animation-1GAstp > svg
 livegore.com##.see-all
 duckduckgo.com##.js-badge-link
 ||s0.wp.com/wp-content/themes/pub/emire/images/stripes.gif$image
@@ -232,8 +232,8 @@ discord.com##.animation-1GAstp
 discord.com##.caretBottomCenter-4XccL3:has-text(Connect Xbox to Discord)
 discord.com##.notice-1x8lm-:has-text(account)
 discord.com##.notice-2HEN-u:has-text(Nitro)
-discord.com##.layer-2aCOJ3
-discord.com##.wrapper-Hd8H2G
+! discord.com##.layer-2aCOJ3
+! discord.com##.wrapper-Hd8H2G
 newgrounds.com##.header-deck > .pod
 rule34.xxx###note-container
 ||accounts.google.com/gsi/iframe/select
@@ -459,7 +459,7 @@ wsj.com###cx-articlecover
 youtube.com##.opened
 youtube.com###fade
 youtube.com###scrim
-discord.com##.imageAccessory-2yA7Kb
+! discord.com##.imageAccessory-2yA7Kb
 aha-music.com##.content-section-a
 youtube.com##ytd-rich-section-renderer:has-text(Shorts)
 youtube.com##.ytd-item-section-renderer:has-text(Trending Shorts)
