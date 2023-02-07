@@ -559,3 +559,6 @@ microsoft.com##.teachingCalloutPopover:has-text(Sign in with)
 youtube.com##.ytp-promotooltip-wrapper
 yandex.com##.main__distr-popup
 fandom.com##.info-icon
+onlinetools.com##.show.fade
+onlinetools.com##.show.modal
+onlinetools.com##body:style(overflow:auto!important)
