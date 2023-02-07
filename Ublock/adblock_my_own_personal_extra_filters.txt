@@ -60,6 +60,7 @@ rule34.paheal.net,xhamster.com##+js(acis, document.querySelectorAll, popMagic)
 /request-consent
 /consent-banner
 /iframe/consent
+/cookiebanner.js
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
