@@ -169,6 +169,7 @@ imglarger.com##body:style(overflow:auto!important)
 ||discussions.akamaized.net/static/prod/static/assets/plugins/@discussions/nodebb-theme-ubisoft/static/assets/general-bg-white.jpg$image
 ||waifu2x.booru.pics/static/back.jpg$image
 garrysmods.org##.blocker.jquery-modal
+garrysmods.org##body:style(overflow:auto!important)
 steamcommunity.com##.cookiepreferences_popup_content
 technologyreview.com##.overlayFooter__wrapper--3DhFn
 deepl.com##.focus-visible-light-container
@@ -482,13 +483,6 @@ washingtonpost.com##.overflow-hidden:has-text(Stay informed)
 ||telegraph.co.uk/martech/js/TGT-309--newsletter-units/
 ||coordinator.cm.bloomberg.com/coordination$xhr
 ##.js-consent-banner
-medicalnewstoday.com###modal-host
-medicalnewstoday.com##body:style(overflow:auto!important)
-medicalnewstoday.com##.css-1hu1ip
-healthline.com###modal-host
-healthline.com##body:style(overflow:auto!important)
-psychcentral.com###modal-host
-psychcentral.com##body:style(overflow:auto!important)
 ||meter-svc.nytimes.com
 nytimes.com##.MAG_web_all_Monthly-Sale-dock_1:has-text(Thanks for reading)
 gamespot.com###contrib_rec.forum_google
@@ -559,6 +553,7 @@ microsoft.com##.teachingCalloutPopover:has-text(Sign in with)
 youtube.com##.ytp-promotooltip-wrapper
 yandex.com##.main__distr-popup
 fandom.com##.info-icon
-onlinetools.com##.show.fade
-onlinetools.com##.show.modal
+onlinetools.com##.fade
+onlinetools.com##.modal
 onlinetools.com##body:style(overflow:auto!important)
+||ogs.google.com/u/0/widget/callout/sid
