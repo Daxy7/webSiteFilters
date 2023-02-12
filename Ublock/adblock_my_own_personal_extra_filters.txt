@@ -507,7 +507,7 @@ steamid.uk##h6:nth-of-type(4):has-text(SteamID URL)
 steamid.uk##h6:nth-of-type(5):has-text(Community URL)
 steamid.uk##h6:nth-of-type(6):has-text(SteamID URL)
 steamid.uk##h6:nth-of-type(7):has-text(Community URL)
-yandex.com##.Popup2:has-text(Press to select) 
+yandex.com##.Popup2
 yandex.com##div.vr4zIM2ATP1hAJRmAAC6pIcMX-Incut
 google.*##.bQX4Yc:has-text(Do more with lyrics)
 yandex.com##body:style(overflow:auto!important)
