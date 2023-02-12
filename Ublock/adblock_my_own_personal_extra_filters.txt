@@ -23,6 +23,7 @@ sharethis.com$3p
 /javascript/ads.js
 ads/ads.js
 ##.adthrive-placeholder-video
+##.ads-playwire-container-250h
 rule34.paheal.net,xhamster.com##+js(acis, document.querySelectorAll, popMagic)
 ! *##+js(acis, dataPopUnder, popunderSetup)
 ! *##+js(acis, tr_searchUrlPattern, tr_videoUrlTplRegExp)
@@ -557,3 +558,5 @@ onlinetools.com##.fade
 onlinetools.com##.modal
 onlinetools.com##body:style(overflow:auto!important)
 ||ogs.google.com/u/0/widget/callout/sid
+google.*###eob_5
+youtube.com##.branding-img-container

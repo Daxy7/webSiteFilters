@@ -23,6 +23,7 @@ sharethis.com$3p
 /javascript/ads.js
 ads/ads.js
 ##.adthrive-placeholder-video
+##.ads-playwire-container-250h
 
 ||cdn.cookielaw.org
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
@@ -244,6 +245,7 @@ mywot.com##.elyHWL
 gstatic.com/youtube/img/promos/growth/*
 youtube.com###big-yoodle
 youtube.com###donation-shelf
+youtube.com##.branding-img-container
 ||archive.org/includes/build/js/donation-banner.min.js
 archive.org##.js-donate-banner.row
 google.*##+js(set, rwt, noopFunc)
@@ -350,6 +352,7 @@ google.*###topstuff
 google.*##.v5jHUb
 google.*##.wgwAc
 google.*##.match-mod-horizontal-padding
+google.*###eob_5
 support.google.*##.inline-feedback__track
 getpocket.com##.syndication-ad
 youtube.com##.ytd-inline-survey-renderer
