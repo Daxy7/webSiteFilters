@@ -252,8 +252,7 @@ google.*##+js(set, rwt, noopFunc)
 reddit.com##.commentsignupbar.infobar
 5gradar.com,anandtech.com,androidcentral.com,broadcastingcable.com,cinemablend.com,electronicmusician.com,gamesradar.com,guitarplayer.com,guitarworld.com,laptopmag.com,livescience.com,maclife.com,marieclaire.com,maximumpc.com,multichannelnews.com,musicradar.com,newsarama.com,pcgamer.com,techradar.com,tomsguide.com,tomshardware.com,ustelecomdaily.com,windowscentral.com##.related-articles-block
 5gradar.com,anandtech.com,androidcentral.com,broadcastingcable.com,cinemablend.com,electronicmusician.com,gamesradar.com,guitarplayer.com,guitarworld.com,laptopmag.com,livescience.com,maclife.com,marieclaire.com,maximumpc.com,multichannelnews.com,musicradar.com,newsarama.com,pcgamer.com,techradar.com,tomsguide.com,tomshardware.com,ustelecomdaily.com,windowscentral.com##.hawk-processed.hawk-nest
-yandex.com##.popup2
-yandex.com##.Popup2:has-text(Press to select)
+! yandex.com##.popup2
 yandex.com##.i-bem.serp-item_card.serp-item
 yandex.com##.DistrPopup-Content
 yandex.com##.main__distr-popup

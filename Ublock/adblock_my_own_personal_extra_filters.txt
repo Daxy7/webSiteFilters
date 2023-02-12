@@ -259,7 +259,7 @@ google.*##+js(set, rwt, noopFunc)
 reddit.com##.commentsignupbar.infobar
 5gradar.com,anandtech.com,androidcentral.com,broadcastingcable.com,cinemablend.com,electronicmusician.com,gamesradar.com,guitarplayer.com,guitarworld.com,laptopmag.com,livescience.com,maclife.com,marieclaire.com,maximumpc.com,multichannelnews.com,musicradar.com,newsarama.com,pcgamer.com,techradar.com,tomsguide.com,tomshardware.com,ustelecomdaily.com,windowscentral.com##.related-articles-block
 5gradar.com,anandtech.com,androidcentral.com,broadcastingcable.com,cinemablend.com,electronicmusician.com,gamesradar.com,guitarplayer.com,guitarworld.com,laptopmag.com,livescience.com,maclife.com,marieclaire.com,maximumpc.com,multichannelnews.com,musicradar.com,newsarama.com,pcgamer.com,techradar.com,tomsguide.com,tomshardware.com,ustelecomdaily.com,windowscentral.com##.hawk-processed.hawk-nest
-yandex.com##.popup2
+! yandex.com##.popup2
 yandex.com##.i-bem.serp-item_card.serp-item
 yandex.com##.DistrPopup-Content
 youtube.com##ytd-video-preview
@@ -508,8 +508,6 @@ steamid.uk##h6:nth-of-type(4):has-text(SteamID URL)
 steamid.uk##h6:nth-of-type(5):has-text(Community URL)
 steamid.uk##h6:nth-of-type(6):has-text(SteamID URL)
 steamid.uk##h6:nth-of-type(7):has-text(Community URL)
-yandex.com##.Popup2
-yandex.com##div.vr4zIM2ATP1hAJRmAAC6pIcMX-Incut
 google.*##.bQX4Yc:has-text(Do more with lyrics)
 yandex.com##body:style(overflow:auto!important)
 pornhub.com##.emptyBlockSpace
