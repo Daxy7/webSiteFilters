@@ -448,7 +448,7 @@ music.youtube.com##tp-yt-paper-dialog
 /web-animations-next-lite.$script,domain=youtube.com
 /tampering.$script,domain=youtube.com
 /remote.js$script,domain=youtube.com
-||i.ytimg.com/an_webp/
+youtube.com###mouseover-overlay
 ||encrypted-vtbn0.gstatic.*/video$media
 youtube.com###endpoint[href="/premium"]
 youtube.com##ytd-popup-container:has(#content.yt-tooltip-renderer yt-formatted-string.yt-tooltip-renderer:has-text(/member/))
