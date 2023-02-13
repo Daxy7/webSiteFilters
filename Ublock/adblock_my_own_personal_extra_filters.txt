@@ -557,5 +557,5 @@ onlinetools.com##.fade
 onlinetools.com##.modal
 onlinetools.com##body:style(overflow:auto!important)
 ||ogs.google.com/u/0/widget/callout/sid
-google.*###eob_5
+google.*##[id^="eob"]
 youtube.com##.branding-img-container
