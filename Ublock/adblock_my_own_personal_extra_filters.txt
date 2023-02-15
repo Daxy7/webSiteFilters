@@ -77,6 +77,7 @@ rule34.paheal.net,xhamster.com##+js(acis, document.querySelectorAll, popMagic)
 shopifycloud/privacy-banner
 ||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
 ###privacy-consent
+###onetrust-consent-sdk
 cookieconsent.com$3p
 cookiebot.com$3p
 cookiepro.com$3p
