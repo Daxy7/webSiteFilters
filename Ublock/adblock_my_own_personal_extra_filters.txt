@@ -173,7 +173,7 @@ imglarger.com##body:style(overflow:auto!important)
 ||waifu2x.booru.pics/static/back.jpg$image
 garrysmods.org##.blocker.jquery-modal
 garrysmods.org##body:style(overflow:auto!important)
-steamcommunity.com##.cookiepreferences_popup_content
+steamcommunity.com,steampowered.com###cookiePrefPopup
 technologyreview.com##.overlayFooter__wrapper--3DhFn
 deepl.com##.focus-visible-light-container
 eezzee.io##.need-captcha.download-input.search-input.form-control
