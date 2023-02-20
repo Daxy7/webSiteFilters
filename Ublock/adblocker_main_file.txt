@@ -58,6 +58,7 @@ imginn.org##.media-wrap-sulvo
 /iframe/consent
 /cookiebanner.js
 /*-cookie-consent.js
+/cookie-compliance-*
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
