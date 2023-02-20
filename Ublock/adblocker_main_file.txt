@@ -424,6 +424,7 @@ bing.com##.bw-shopgif
 microsoft.com##.RailBanner:has-text(try Microsoft 365)
 microsoft.com##.ucsUhfContainer
 microsoft.com##.teachingCalloutPopover:has-text(Sign in with)
+microsoft.com##.prrColumnWrapper
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 ! *##div.l:has-text(To make Medium work,)

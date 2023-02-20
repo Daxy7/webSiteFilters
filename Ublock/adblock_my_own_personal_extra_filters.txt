@@ -567,3 +567,4 @@ youtube.com##.branding-img-container
 4archive.*##^script[data-cfasync]:has-text(h=decodeURIComponent)
 *$script,3p,denyallow=cloudflare.com,domain=4archive.org
 youtube.com##.ytp-info-panel-preview
+microsoft.com##.prrColumnWrapper
