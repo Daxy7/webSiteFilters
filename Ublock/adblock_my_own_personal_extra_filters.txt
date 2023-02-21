@@ -480,8 +480,7 @@ the-sun.*##.article__footer:has-text(YOU MIGHT LIKE)
 the-sun.*###list-10:has-text(MORE FOR YOU)
 the-sun.*###list-11:has-text(RECOMMENDED FOR YOU)
 wired.com##.persistent-bottom
-wired.com##.paywall-bar-failsafe
-wired.com##.paywall-bar--expanded
+wired.com##.consumer-marketing-unit--paywall-bar-call-to-action
 yandex.com##.DistrPopup-Content
 washingtonpost.com##.overflow-hidden:has-text(Stay informed)
 ||telegraph.co.uk/martech/js/TGT-1002--paywall-meters-profile/
