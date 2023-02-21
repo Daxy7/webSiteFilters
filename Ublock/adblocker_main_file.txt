@@ -343,8 +343,8 @@ music.youtube.com##.ytmusic-like-button-renderer.style-scope.dislike
 urbandictionary.com##.leaderboard-250\:h-\[250px\]
 google.com##.irmCpc
 google.com##.Qq9jLd
-google.com##.commercial-unit-desktop-top
-google.com##.cu-container
+! google.com##.commercial-unit-desktop-top
+! google.com##.cu-container
 google.com##.gVqDn
 lens.google.*##.KUcdrd:has-text(Did you find these results)
 google.*###jW4n4:has-text(Please help us improve Google)
