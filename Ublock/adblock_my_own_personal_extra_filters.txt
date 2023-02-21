@@ -26,6 +26,7 @@ ads/ads.js
 ##.ads-playwire-container-250h
 xhamster.com##.wixx-ecam-thumb
 imginn.org##.media-wrap-sulvo
+imginn.org##.media-wrap-h12
 rule34.paheal.net,xhamster.com##+js(acis, document.querySelectorAll, popMagic)
 ! *##+js(acis, dataPopUnder, popunderSetup)
 ! *##+js(acis, tr_searchUrlPattern, tr_videoUrlTplRegExp)
