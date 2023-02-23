@@ -110,7 +110,7 @@ cdn.iubenda.com$3p
 didomi.io$3p
 piwik.pro$3p
 quantcast.com$3p
-@@||quantcast.com^$domain=manchestereveningnews.co.uk
+@@||quantcast.com^$domain=manchestereveningnews.co.uk|mirror.co.uk
 nexus.ensighten.com$3p
 osano.com$3p
 js.hs-banner.com$3p
