@@ -60,6 +60,7 @@ imginn.org##.media-wrap-h12
 /cookiebanner.js
 /*-cookie-consent.js
 /cookie-compliance-*
+/ajax_cookie_value
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
