@@ -489,7 +489,7 @@ washingtonpost.com##.overflow-hidden:has-text(Stay informed)
 ||telegraph.co.uk/martech/js/TGT-390--martech-paywall/
 ||telegraph.co.uk/martech/js/TGT-309--newsletter-units/
 ||coordinator.cm.bloomberg.com/coordination$xhr
-##.js-consent-banner
+! ##.js-consent-banner
 ||meter-svc.nytimes.com
 nytimes.com##.MAG_web_all_Monthly-Sale-dock_1:has-text(Thanks for reading)
 gamespot.com###contrib_rec.forum_google
