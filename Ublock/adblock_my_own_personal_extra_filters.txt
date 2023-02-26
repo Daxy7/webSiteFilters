@@ -440,7 +440,6 @@ bing.com###healthTaskpane_container
 bing.com###ntf_newtabfil
 bing.com##.bw-shopgif
 ||assets.msn.com/bundles/v1/bingHomepage/*$xhr
-! bing.com##.vs
 microsoft.com##.RailBanner:has-text(try Microsoft 365)
 youtube.com###dismissible > .ytd-statement-banner-renderer
 youtube,fandom.com##.sitenotice--visible
