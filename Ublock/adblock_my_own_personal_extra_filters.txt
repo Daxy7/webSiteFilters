@@ -136,6 +136,7 @@ pico.tools$3p
 ###toaster
 
 chatbot.com$3p
+boldchat.com$3p
 chatra.io$3p
 livechatinc.com$3p
 mylivechat.com$3p
