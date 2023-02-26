@@ -61,6 +61,7 @@ imginn.org##.media-wrap-h12
 /*-cookie-consent.js
 /cookie-compliance-*
 /ajax_cookie_value
+/cookies_bar_js.min.js
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
