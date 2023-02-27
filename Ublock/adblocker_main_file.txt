@@ -376,7 +376,8 @@ bing.com###bepfo
 bing.com##.popup
 bing.com##.bnp_fly_hp
 bing.com###l_ecrd_blk_5_Poll
-bing.com##.feedback-binded
+bing.com###fbpgbt
+bing.com##.recommendationsTableFeedback
 bing.com##.l_ecrd_tud
 bing.com##li.b_ans:has-text(Trending on Bing)
 bing.com###textDeeplinksWidgetContainer
