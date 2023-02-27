@@ -565,9 +565,9 @@ onlinetools.com##body:style(overflow:auto!important)
 ||ogs.google.com/u/0/widget/callout/sid
 google.*##[id^="eob"]
 youtube.com##.branding-img-container
-4archive.*##+js(aopw, _pop)
-4archive.*##^script[data-cfasync]:has-text(h=decodeURIComponent)
-*$script,3p,denyallow=cloudflare.com,domain=4archive.org
+4archive.*,deepgoretube.site##+js(aopw, _pop)
+4archive.*,deepgoretube.site##^script[data-cfasync]:has-text(h=decodeURIComponent)
+*$script,3p,denyallow=cloudflare.com,domain=4archive.org|deepgoretube.site
 ##.ytp-info-panel-preview
 microsoft.com##.prrColumnWrapper
 yandex.com##.Tooltip
