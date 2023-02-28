@@ -572,3 +572,5 @@ youtube.com##.branding-img-container
 ##.ytp-info-panel-preview
 microsoft.com##.prrColumnWrapper
 yandex.com##.Tooltip
+google.com##.g div.yuRUbf a > h3 + div > .H9lube, .g div.yuRUbf a > h3 + div > div > span, .g div.yuRUbf a + div > div > span, .g div.yuRUbf a + div > div > div > span
+google.com##.g div.yuRUbf a > h3, .g div.yuRUbf a + div > div:style(margin-top: 0px !important;)
