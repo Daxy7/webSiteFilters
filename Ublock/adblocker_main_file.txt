@@ -39,10 +39,8 @@ imginn.org##.media-wrap-h12
 /consent-bundle
 /privacy/notice.js
 /cookie-policy.json
-/3057-gdpr-min.js
-/3056-gdpr-min.css
-/gdpr-min.js
-/gdpr-min.css
+/*-gdpr-min.js
+/*-gdpr-min.css
 /v1/privacy-managers
 /cookie/styles
 /java/cookie-accept.js
@@ -285,7 +283,7 @@ youtube.com###fade
 youtube.com###scrim
 tampermonkey.net##.advent_head
 *##a.ytp-menuitem
-com##.cookie-infobar
+reddit.com##.cookie-infobar
 *##.cookie-choices-info
 *###cookieDialog
 ##.js-consent-banner

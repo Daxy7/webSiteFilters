@@ -26,7 +26,7 @@ ads/ads.js
 ##.ads-playwire-container-250h
 imginn.org##.media-wrap-sulvo
 imginn.org##.media-wrap-h12
-rule34.paheal.net,xhamster.com##+js(acis, document.querySelectorAll, popMagic)
+!rule34.paheal.net,xhamster.com##+js(acis, document.querySelectorAll, popMagic)
 ! *##+js(acis, dataPopUnder, popunderSetup)
 ! *##+js(acis, tr_searchUrlPattern, tr_videoUrlTplRegExp)
 ! *##+js(acis, data-spots, data-tag)
@@ -45,10 +45,8 @@ rule34.paheal.net,xhamster.com##+js(acis, document.querySelectorAll, popMagic)
 /consent-bundle
 /privacy/notice.js
 /cookie-policy.json
-/3057-gdpr-min.js
-/3056-gdpr-min.css
-/gdpr-min.js
-/gdpr-min.css
+/*-gdpr-min.js
+/*-gdpr-min.css
 /v1/privacy-managers
 /cookie/styles
 /java/cookie-accept.js
@@ -283,7 +281,7 @@ youtube.com###voice-search-button
 youtube.com###redirect-backto-safety-button
 tampermonkey.net##.advent_head
 *##a.ytp-menuitem
-com##.cookie-infobar
+reddit.com##.cookie-infobar
 *##.cookie-choices-info
 *###cookieDialog
 yandex.com##.ImagesViewerApp-FooterContent
