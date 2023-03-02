@@ -75,6 +75,9 @@ shopifycloud/privacy-banner
 ###privacy-consent
 ! ###onetrust-consent-sdk
 ###cookie_consent_message
+###cookie-law-info-again
+###cookie-law-info-bar
+###cliSettingsPopup
 cookieconsent.com$3p
 cookiebot.com$3p
 cookiepro.com$3p
@@ -289,6 +292,8 @@ reddit.com##.cookie-infobar
 ##.js-consent-banner
 yandex.com##.ImagesViewerApp-FooterContent
 yandex.com##.MediaViewer-LayoutFooter
+yandex.com##[id^="viewer_rim_direct"]
+yandex.com##.ContentLoader_skin_light
 express.co.uk##.ad-slot-article
 youtube.com###product-picker
 youtube.com###comment-teaser
