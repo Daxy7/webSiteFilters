@@ -24,9 +24,9 @@ sharethis.com$3p
 ads/ads.js
 ##.adthrive-placeholder-video
 ##.ads-playwire-container-250h
-imginn.org##.media-wrap-sulvo
-imginn.org##.media-wrap-h12
-imginn.org##.block-sulvo
+imginn.*##.media-wrap-sulvo
+imginn.*##.media-wrap-h12
+imginn.*##.block-sulvo
 
 ||cdn.cookielaw.org
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
