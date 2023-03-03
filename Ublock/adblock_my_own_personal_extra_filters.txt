@@ -26,6 +26,7 @@ ads/ads.js
 ##.ads-playwire-container-250h
 imginn.org##.media-wrap-sulvo
 imginn.org##.media-wrap-h12
+imginn.org##.block-sulvo
 !rule34.paheal.net,xhamster.com##+js(acis, document.querySelectorAll, popMagic)
 ! *##+js(acis, dataPopUnder, popunderSetup)
 ! *##+js(acis, tr_searchUrlPattern, tr_videoUrlTplRegExp)
@@ -294,7 +295,7 @@ youtube.com###product-picker
 steamid.uk##.pb-3.mt-0.primary.card > .text-center.row
 youtube.com###comment-teaser
 reddit.com##.reddit-video-controller-root.show-only-when-pinned.pinned-controls
-reddit.com##.reddit-video-controller-root.buffering-controls > .horizontal.centered
+reddit.com##.buffering-controls
 reddit.com###RESNotifications
 watchpeopledie.*##.mr-2
 watchpeopledie.*##bdi

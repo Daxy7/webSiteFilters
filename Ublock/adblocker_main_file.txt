@@ -26,6 +26,7 @@ ads/ads.js
 ##.ads-playwire-container-250h
 imginn.org##.media-wrap-sulvo
 imginn.org##.media-wrap-h12
+imginn.org##.block-sulvo
 
 ||cdn.cookielaw.org
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
@@ -298,7 +299,7 @@ express.co.uk##.ad-slot-article
 youtube.com###product-picker
 youtube.com###comment-teaser
 reddit.com##.reddit-video-controller-root.show-only-when-pinned.pinned-controls
-reddit.com##.reddit-video-controller-root.buffering-controls > .horizontal.centered
+reddit.com##.buffering-controls
 youtube.com##.ytp-button.ytp-remote-button
 youtube.com###clarify-box
 youtube.com##ytd-info-panel-container-renderer:has-text(Context)
