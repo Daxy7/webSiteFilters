@@ -131,6 +131,7 @@ convertkit.com$3p
 ###toaster
 
 chatbot.com$3p
+chatbot.aisera.cloud
 boldchat.com$3p
 chatra.io$3p
 livechatinc.com$3p
