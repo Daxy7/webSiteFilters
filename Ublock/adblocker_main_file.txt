@@ -418,7 +418,8 @@ bing.com##.tr_nh.va_tt.vsb_tr_c:has-text(TikTok short videos)
 bing.com##.b_imgsmall:has-text(Images of)
 bing.com###qs_searchBoxOuter
 bing.com##.rc_vlHorizontalImage:has-text(TRENDING CONTENT)
-bing.com##.idp-refresh-page-bottom-page:has-text(Related searches)
+!bing.com##.idp-refresh-page-bottom-page:has-text(Related searches)
+bing.com##.idp-refresh-page-bottom-page
 bing.com##.inline_blk:has-text(Explore more)
 bing.com##.inline_blk:has-text(People interested)
 bing.com##.b_title.btitle:has-text(Videos of)
