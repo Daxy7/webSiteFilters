@@ -158,6 +158,7 @@ freshbots.ai$3p
 inbenta.io$3p
 joonbot.com$3p
 botsrv2.com$3p
+frontapp.com$3p
 driftt.com$3p
 zopim.com$3p
 crisp.chat$3p
