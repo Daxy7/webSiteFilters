@@ -142,6 +142,7 @@ shopify-chat.shopifycloud.com
 ###dummy-chat-button-iframe
 ##.livechat-container
 ###msChatContainer
+gorgias.chat$3p
 ada.support$3p
 tidio.co$3p
 intercom.io$3p
