@@ -584,3 +584,4 @@ google.com##.g div.yuRUbf a > h3 + div > .H9lube, .g div.yuRUbf a > h3 + div > d
 google.com##.g div.yuRUbf a > h3, .g div.yuRUbf a + div > div:style(margin-top: 0px !important;)
 yandex.com##[id^="viewer_rim_direct"]
 yandex.com##.ContentLoader_skin_light
+google.*###customize-your-topics-tooltip-id
