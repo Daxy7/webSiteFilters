@@ -183,9 +183,9 @@ twitter.com##.r-1upvrn0.r-l5o3uw.css-1dbjc4n
 twitter.com##.r-16wqof.r-1dqxon3.r-16y2uox.r-kemksi.css-1dbjc4n
 twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n > .r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbjc4n
 twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n
-twitter.com##body:style(overflow: auto !important;)
-twitter.com##html->body:style(overflow:visible !important;)
-twitter.com##html:style(overflow:visible !important;)
+! twitter.com##body:style(overflow: auto !important;)
+! twitter.com##html->body:style(overflow:visible !important;)
+! twitter.com##html:style(overflow:visible !important;)
 twitter.com##.r-tvv088.r-1e081e0.r-1777fci.r-16y2uox.r-1awozwy.css-1dbjc4n
 thewordfinder.com##.container > .col-md-12
 subtitlebee.com##.width100.discount-offer
