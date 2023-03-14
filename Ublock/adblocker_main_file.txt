@@ -345,7 +345,7 @@ duplichecker.com##.st_dd
 duplichecker.com##.csdds
 duplichecker.com##.p8
 duplichecker.com##.mb5
-duplichecker.com##.clearfix
+! duplichecker.com##.clearfix
 duplichecker.com##.set-anchor
 duplichecker.com###bio_ep
 duplichecker.com###bio_ep_bg
