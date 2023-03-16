@@ -80,6 +80,7 @@ shopifycloud/privacy-banner
 ###cookie-law-info-again
 ###cookie-law-info-bar
 ###cliSettingsPopup
+##.s-notice__danger
 cookieconsent.com$3p
 cookiebot.com$3p
 cookiepro.com$3p
