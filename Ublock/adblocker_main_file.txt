@@ -434,6 +434,7 @@ bing.com##.prnzt
 bing.com###healthTaskpane_container
 bing.com##.b_recents
 bing.com##.lgw-slide-in
+bing.com##.cdxPrompt
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
