@@ -437,6 +437,7 @@ bing.com###healthTaskpane_container
 bing.com##.b_recents
 bing.com##.lgw-slide-in
 bing.com##.cdxPrompt
+bing.com##.fullsize.vrh_clc.popout.vrhc
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
