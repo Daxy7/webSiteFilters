@@ -145,6 +145,7 @@ shopify-chat.shopifycloud.com
 ##.livechat-container
 ###msChatContainer
 ##.snapInChatButton_XVNiknOskP
+##.embeddedServiceHelpButton
 salesforceliveagent.com$3p
 gorgias.chat$3p
 ada.support$3p
