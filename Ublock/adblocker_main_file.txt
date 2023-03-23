@@ -63,6 +63,7 @@ imginn.*##.block-sulvo
 /cookies_bar_js.min.js
 /cmpApiManager.bundle.js
 /complianz.min.js
+/cookie-widget
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
