@@ -70,6 +70,7 @@ imginn.*##.block-sulvo
 /cmpApiManager.bundle.js
 /complianz.min.js
 /cookie-widget
+/js.cookie.js
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
