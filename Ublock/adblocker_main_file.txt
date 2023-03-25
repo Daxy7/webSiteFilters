@@ -88,6 +88,7 @@ shopifycloud/privacy-banner
 cookieconsent.com$3p
 cookiebot.com$3p
 cookiepro.com$3p
+cdn-cookieyes.com$3p
 cookieyes.com$3p
 cookiehub.net$3p
 cookieinformation.com$3p
