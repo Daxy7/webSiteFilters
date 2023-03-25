@@ -601,3 +601,4 @@ google.com##.g div.yuRUbf a > h3, .g div.yuRUbf a + div > div:style(margin-top: 
 yandex.com##[id^="viewer_rim_direct"]
 yandex.com##.ContentLoader_skin_light
 google.*###customize-your-topics-tooltip-id
+google.*##.QlcHMc:has-text(See translations)

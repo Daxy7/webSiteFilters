@@ -382,6 +382,7 @@ google.*##.v5jHUb
 google.*##.wgwAc
 google.*##.match-mod-horizontal-padding
 google.*##[id^="eob"]
+google.*##.QlcHMc:has-text(See translations)
 support.google.*##.inline-feedback__track
 getpocket.com##.syndication-ad
 youtube.com##.ytd-inline-survey-renderer
