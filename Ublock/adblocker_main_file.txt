@@ -242,6 +242,8 @@ gamespot.com###contrib_rec.forum_google
 tumblr.com###glass-container:has-text(You need clearance)
 tumblr.com##body:style(overflow:auto!important)
 tumblr.com##.TopeC:has-text(Sign me up)
+tumblr.com##.tmblr-iframe--follow-teaser
+/async-login-wall*$domain=tumblr.com
 vk.com##.PageBottomBanner--bg-blue:has-text(Read only the most interesting posts)
 vk.com###box_layer_wrap
 vk.com###box_layer_bg

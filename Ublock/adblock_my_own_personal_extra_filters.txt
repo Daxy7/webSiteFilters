@@ -557,6 +557,8 @@ mumsnet.com##.relative.lg\:w-billboard.lg\:h-billboard.overflow-hidden.mx-auto.j
 tumblr.com###glass-container:has-text(You need clearance)
 tumblr.com##body:style(overflow:auto!important)
 tumblr.com##.TopeC:has-text(Sign me up)
+tumblr.com##.tmblr-iframe--follow-teaser
+/async-login-wall*$domain=tumblr.com
 youtube.com##ytd-info-panel-container-renderer:has-text(Context)
 support.google.*##.inline-feedback__track
 youtube.com###premium-upsell-link
