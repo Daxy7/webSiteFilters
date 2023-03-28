@@ -340,6 +340,7 @@ thesun.*##div.widget-height
 the-sun.*##.article__footer:has-text(YOU MIGHT LIKE)
 the-sun.*###list-10:has-text(MORE FOR YOU)
 the-sun.*###list-11:has-text(RECOMMENDED FOR YOU)
+shazam.com##.footerstatic
 reddit.com##.premium-banner-outer
 reddit.com###redesign-beta-optin-btn
 ||contributions.guardianapis.com/modules/v3/banners/*$script
