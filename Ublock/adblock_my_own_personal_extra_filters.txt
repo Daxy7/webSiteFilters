@@ -607,4 +607,4 @@ google.*###customize-your-topics-tooltip-id
 google.*##.QlcHMc:has-text(See translations)
 shazam.com##.footerstatic
 search.sapti.me###suggestions
-search.sapti.me##.dialog-error:has-text(Suspended)
+search.sapti.me##.dialog-error
