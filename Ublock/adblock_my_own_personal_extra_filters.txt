@@ -72,6 +72,7 @@ imginn.*##.block-sulvo
 /cookie-widget
 /js.cookie.js
 /jquery.cookiesdirective.js
+/cookie-policy.js
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
