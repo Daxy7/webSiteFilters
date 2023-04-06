@@ -609,3 +609,5 @@ google.*##.QlcHMc:has-text(See translations)
 shazam.com##.footerstatic
 search.sapti.me###suggestions
 search.sapti.me##.dialog-error
+||d2v02itv0y9u9t.cloudfront.net^$script,domain=twitch.tv
+||supervisor.ext-twitch.tv^$subdocument,domain=twitch.tv
