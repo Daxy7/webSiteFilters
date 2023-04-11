@@ -199,7 +199,7 @@ medallia.com$3p
 
 imglarger.com##.tingle-modal--visible.custom-class-2.custom-class-1.tingle-modal--noOverlayClose.tingle-modal
 imglarger.com##body:style(overflow:auto!important)
-||discussions.akamaized.net/static/prod/static/assets/plugins/@discussions/nodebb-theme-ubisoft/static/assets/general-bg-white.jpg$image
+/general-bg-white.jpg$domain=ubisoft.com
 ||waifu2x.booru.pics/static/back.jpg$image
 garrysmods.org##.blocker.jquery-modal
 garrysmods.org##body:style(overflow:auto!important)
