@@ -16,6 +16,9 @@ getadmiral.com$3p
 getsitecontrol.com$3p
 addtoany.com$3p
 sharethis.com$3p
+!#if !env_firefox
+/wp-content/*/fonts/Outfit-Variable.woff2
+!#endif
 /clippy.js
 /prebid-ads.js
 /ads-prebid.js
