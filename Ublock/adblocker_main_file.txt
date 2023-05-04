@@ -464,6 +464,7 @@ microsoft.com##.RailBanner:has-text(try Microsoft 365)
 microsoft.com##.ucsUhfContainer
 microsoft.com##.teachingCalloutPopover:has-text(Sign in with)
 microsoft.com##.prrColumnWrapper
+web.skype.com##.noFocusOutline > div > .r-13awgt0.css-1dbjc4n > div > div > div > div:has-text(Skype has limited functionality in this browser)
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 ! *##div.l:has-text(To make Medium work,)
