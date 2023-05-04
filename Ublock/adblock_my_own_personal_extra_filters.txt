@@ -422,6 +422,7 @@ bing.com###b_context > .b_ans:has-text(Related searches)
 bing.com###b_notificationContainer_bop
 bing.com##.msnpeek.hp_special_experience
 bing.com##.b_rc_gb_bottom_cover
+bing.com##.b_topicon_container > .b_topicon_link
 ! Makes bing look more like google
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 bing.com###b_dynRail
