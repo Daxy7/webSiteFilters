@@ -344,6 +344,8 @@ watchpeopledie.*##.candy-cane
 ||watchpeopledie.*/i/hats/Present%20Bow.webp
 ||watchpeopledie.*/assets/event/images/lights.webp
 watchpeopledie.*###awards-container
+watchpeopledie.*###banner-link
+watchpeopledie.*###sidebar-link
 youtube.com###clarify-box
 rule34.xxx##div.horizontalFlexWithMargins
 youtube.com##.ryd-tooltip
