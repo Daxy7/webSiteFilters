@@ -455,6 +455,7 @@ bing.com##.lgw-slide-in
 bing.com##.cdxPrompt
 bing.com##.fullsize.vrh_clc.popout.vrhc
 bing.com###waitListDefault
+bing.com##.inline
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
