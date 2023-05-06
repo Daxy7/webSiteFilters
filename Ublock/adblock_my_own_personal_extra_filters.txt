@@ -618,3 +618,4 @@ search.sapti.me##.dialog-error
 google.com##.Sth6v
 web.skype.com##.noFocusOutline > div > .r-13awgt0.css-1dbjc4n > div > div > div > div:has-text(Skype has limited functionality in this browser)
 google.*##.lOKM4d:has-text(Safer with Google)
+yandex.com##.Polaroid, Polaroid_animated, SerpPolaroid, SerpListPolaroid
