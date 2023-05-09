@@ -305,6 +305,7 @@ youtube.com###redirect-backto-safety-button
 youtube.com##.opened
 youtube.com###fade
 youtube.com###scrim
+##.ytp-title-beacon
 tampermonkey.net##.advent_head
 *##a.ytp-menuitem
 reddit.com##.cookie-infobar

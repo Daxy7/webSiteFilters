@@ -620,3 +620,4 @@ web.skype.com##.noFocusOutline > div > .r-13awgt0.css-1dbjc4n > div > div > div 
 google.*##.lOKM4d:has-text(Safer with Google)
 yandex.com##.Polaroid, Polaroid_animated, SerpPolaroid, SerpListPolaroid
 youtube.com###related
+##.ytp-title-beacon
