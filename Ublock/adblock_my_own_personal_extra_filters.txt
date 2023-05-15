@@ -361,26 +361,9 @@ reddit.com###redesign-beta-optin-btn
 ||contributions.guardianapis.com/modules/v3/banners/*$script
 mcdonalds.com###cookie-banner.cmp-embed
 youtube.com##.ytp-paid-content-overlay
-duplichecker.com##.text-cefnter
-duplichecker.com##.texdt-cendter
-duplichecker.com##.tedxt-center
-duplichecker.com##.texst-censter
-duplichecker.com##.img4class
-duplichecker.com##.img2class
-duplichecker.com##.leftisidebar11
-duplichecker.com##.imcxvdfg
-duplichecker.com##.uikimon
-duplichecker.com##.bg-infoo
-duplichecker.com###cookie_directive_container
-duplichecker.com##.st_dd
-duplichecker.com##.csdds
-duplichecker.com##.p8
 duplichecker.com##.mb5
-! duplichecker.com##.clearfix
+duplichecker.com###cookie_directive_container
 duplichecker.com##.set-anchor
-duplichecker.com###bio_ep
-duplichecker.com###bio_ep_bg
-duplichecker.com##body:style(overflow:auto!important)
 livegore.com###notice_visitor
 *##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
 *##*:style(border-radius:0px !important;)
@@ -621,3 +604,5 @@ google.*##.lOKM4d:has-text(Safer with Google)
 yandex.com##.Polaroid, Polaroid_animated, SerpPolaroid, SerpListPolaroid
 youtube.com###related
 ##.ytp-title-beacon
+##.ytp-more-videos-view
+##.ytp-pause-overlay-container
