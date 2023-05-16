@@ -562,7 +562,7 @@ brave.com##.callout
 yandex.com##.spin2
 ! google.*###taw
 ! google.*##.Pm5mre
-google.*##.ULSxyf:has-text(results below)
+! google.*##.ULSxyf:has-text(results below)
 github.com##.Popover
 youtube.com##.ytlr-overlay-toast-renderer
 chrome.google.com##.yD5gtd

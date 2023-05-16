@@ -232,7 +232,7 @@ google.*##div.OBMEnb:nth-of-type(2):has-text(People also search for)
 google.*##div.OBMEnb:has-text(People also search for)
 ! google.*###taw
 ! google.*##.Pm5mre
-google.*##.ULSxyf:has-text(results below)
+! google.*##.ULSxyf:has-text(results below)
 discord.com##.animationAndSparklesContainer-7Fwx3i
 discord.com##.animation-1GAstp
 discord.com##.caretBottomCenter-4XccL3:has-text(Connect Xbox to Discord)
