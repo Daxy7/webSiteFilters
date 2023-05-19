@@ -441,6 +441,7 @@ bing.com##.cdxPrompt
 bing.com##.fullsize.vrh_clc.popout.vrhc
 bing.com###waitListDefault
 bing.com##.inline
+bing.com##.rsbctr
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
