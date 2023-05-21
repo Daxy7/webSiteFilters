@@ -607,3 +607,4 @@ youtube.com###related
 ##.ytp-title-beacon
 ##.ytp-pause-overlay-container
 ##.ytp-more-videos-view
+vendors-*.bundle.js$domain=kemono.party
