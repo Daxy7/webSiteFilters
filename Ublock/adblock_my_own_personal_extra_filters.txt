@@ -553,7 +553,7 @@ tumblr.com##.tmblr-iframe--follow-teaser
 youtube.com##ytd-info-panel-container-renderer:has-text(Context)
 support.google.*##.inline-feedback__track
 youtube.com###premium-upsell-link
-google.*###topstuff
+!google.*###topstuff
 google.*##.v5jHUb
 urbandictionary.com##.mug-ad
 google.*##.wgwAc
