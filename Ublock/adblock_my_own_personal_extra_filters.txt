@@ -490,7 +490,7 @@ youtube.com###fade
 youtube.com###scrim
 ! discord.com##.imageAccessory-2yA7Kb
 aha-music.com##.content-section-a
-youtube.com##ytd-rich-section-renderer:has-text(Shorts)
+youtube.com##ytd-rich-section-renderer:has-text(Shorts):not(details:has-text(shorts))
 youtube.com##.ytd-item-section-renderer:has-text(Trending Shorts)
 dailymail.co.uk##.linkro-wocc.link-bogr2
 dailymail.co.uk##.cleared.puff
@@ -558,7 +558,7 @@ google.*##.v5jHUb
 urbandictionary.com##.mug-ad
 google.*##.wgwAc
 google.*##.match-mod-horizontal-padding
-youtube.com##ytd-reel-shelf-renderer:has-text(Shorts)
+youtube.com##ytd-reel-shelf-renderer:has-text(Shorts):not(details:has-text(shorts))
 brave.com##.callout
 yandex.com##.spin2
 ! google.*###taw
