@@ -25,9 +25,9 @@ sharethis.com$3p
 ads/ads.js
 ##.adthrive-placeholder-video
 ##.ads-playwire-container-250h
-imginn.*##.media-wrap-sulvo
-imginn.*##.media-wrap-h12
-imginn.*##.block-sulvo
+imginn.*,wizstat.*##.media-wrap-sulvo
+imginn.*,wizstat.*##.media-wrap-h12
+imginn.*,wizstat.*##.block-sulvo
 !rule34.paheal.net,xhamster.com##+js(acis, document.querySelectorAll, popMagic)
 ! *##+js(acis, dataPopUnder, popunderSetup)
 ! *##+js(acis, tr_searchUrlPattern, tr_videoUrlTplRegExp)

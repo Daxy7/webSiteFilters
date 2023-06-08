@@ -25,9 +25,9 @@ sharethis.com$3p
 ads/ads.js
 ##.adthrive-placeholder-video
 ##.ads-playwire-container-250h
-imginn.*##.media-wrap-sulvo
-imginn.*##.media-wrap-h12
-imginn.*##.block-sulvo
+imginn.*,wizstat.*##.media-wrap-sulvo
+imginn.*,wizstat.*##.media-wrap-h12
+imginn.*,wizstat.*##.block-sulvo
 
 ||cdn.cookielaw.org
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
@@ -442,6 +442,7 @@ bing.com##.fullsize.vrh_clc.popout.vrhc
 bing.com###waitListDefault
 bing.com##.inline
 bing.com##.rsbctr
+bing.com##.secure_icon
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
