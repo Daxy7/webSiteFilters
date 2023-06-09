@@ -18,11 +18,11 @@ addtoany.com$3p
 sharethis.com$3p
 /wp-content/*/fonts/Outfit-Variable.woff2
 /clippy.js
-/prebid-ads.js
-/ads-prebid.js
-/ad-detection/ads.js
-/javascript/ads.js
-ads/ads.js
+!/prebid-ads.js
+!/ads-prebid.js
+!/ad-detection/ads.js
+!/javascript/ads.js
+!ads/ads.js
 ##.adthrive-placeholder-video
 ##.ads-playwire-container-250h
 imginn.*,wizstat.*##.media-wrap-sulvo
@@ -609,3 +609,4 @@ youtube.com###related
 ##.ytp-pause-overlay-container
 ##.ytp-more-videos-view
 vendors-*.bundle.js$domain=kemono.party
+web.skype.com##.reactxp-ignore-pointer-events
