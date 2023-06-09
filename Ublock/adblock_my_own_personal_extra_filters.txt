@@ -79,6 +79,7 @@ imginn.*,wizstat.*##.block-sulvo
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
 ||cdn.ampproject.org/v0/amp-consent
+||static.assetlab.io/consent/*$script
 ||e33087.b.akamaiedge.net^$script
 /cookie-law-info
 /CookieNotice
