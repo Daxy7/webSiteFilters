@@ -611,3 +611,4 @@ youtube.com###related
 ##.ytp-more-videos-view
 vendors-*.bundle.js$domain=kemono.party
 web.skype.com##.reactxp-ignore-pointer-events
+web.skype.com##.r-6koalj.r-y7d2au.r-rs99b7.r-fnigne.r-42olwf.r-ndvcnb.r-14lw9ot.css-1dbjc4n:has-text(Skype Number)
