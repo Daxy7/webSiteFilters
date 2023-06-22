@@ -460,7 +460,7 @@ bing.com##.secure_icon
 bing.com###ntf_newtabfil
 bing.com##.bw-shopgif
 ||assets.msn.com/bundles/v1/bingHomepage/*$script
-microsoft.com##.RailBanner:has-text(try Microsoft 365)
+microsoft.com##.RailBanner
 youtube.com###dismissible > .ytd-statement-banner-renderer
 youtube,fandom.com##.sitenotice--visible
 fandom.com##.marketing-notifications

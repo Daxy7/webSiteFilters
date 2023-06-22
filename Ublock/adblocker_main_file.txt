@@ -449,7 +449,7 @@ bing.com##.secure_icon
 bing.com###ntf_newtabfil
 bing.com##.bw-shopgif
 ||assets.msn.com/bundles/v1/bingHomepage/*$script
-microsoft.com##.RailBanner:has-text(try Microsoft 365)
+microsoft.com##.RailBanner
 microsoft.com##.ucsUhfContainer
 microsoft.com##.teachingCalloutPopover:has-text(Sign in with)
 microsoft.com##.prrColumnWrapper
