@@ -617,6 +617,5 @@ youtube.com###fab-container.yt-reaction-control-panel-view-model.style-scope
 youtube.com###hover-area.yt-reaction-control-panel-view-model.style-scope
 youtube.com###reaction-control-panel-overlay.yt-live-chat-renderer.style-scope
 youtube.com###reaction-control-panel.yt-reaction-control-panel-overlay-view-model.style-scope
-youtube.com##.yt-core-image--loaded.yt-core-image--content-mode-scale-aspect-fill.yt-core-image
 youtube.com##.yt-reaction-control-panel-button-view-model.style-scope
 youtube.com##.yt-reaction-control-panel-overlay-view-model.style-scope
