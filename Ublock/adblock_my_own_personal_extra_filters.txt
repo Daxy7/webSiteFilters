@@ -165,6 +165,7 @@ shopify-chat.shopifycloud.com
 ##.embeddedServiceHelpButton
 ##.floating-button-container
 socialintents.com$3p
+||storage.googleapis.com/code.snapengage.com/*$3p
 salesforceliveagent.com$3p
 gorgias.chat$3p
 ada.support$3p
