@@ -56,6 +56,7 @@ imginn.*,wizstat.*##.block-sulvo
 /handle/consent
 /js/cookie-notice.min.js
 /cookieControl
+/cookie-notice
 ! /wrapperMessagingWithoutDetection.js
 /cookies/api
 /cookiebubble.min.js
@@ -160,6 +161,7 @@ livechatinc.com$3p
 mylivechat.com$3p
 smartsuppchat.com$script
 shopify-chat.shopifycloud.com
+###sy-whatshelp
 ###shopify-chat
 ###dummy-chat-button-iframe
 ##.livechat-container
