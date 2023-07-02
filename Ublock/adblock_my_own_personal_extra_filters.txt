@@ -144,6 +144,8 @@ cdn.onesignal.com$3p
 pusher.com$3p
 tinypass.com$3p
 list-manage.com$3p
+||carecart.io^$3p
+||metizapps.com^$3p
 widget.reviews.*$3p
 convertkit.com$3p
 pico.tools$3p
@@ -152,6 +154,7 @@ pico.tools$3p
 chatbot.com$3p
 chatbot.aisera.cloud
 boldchat.com$3p
+/31aug26paidd20_free_final_51.js
 chatra.io$3p
 livechatinc.com$3p
 mylivechat.com$3p
@@ -180,6 +183,7 @@ usemessages.com$3p
 nice-incontact.com$3p
 gis.goinstore.com$3p
 js.qualified.com$3p
+superlemon.xyz$3p
 freshbots.ai$3p
 inbenta.io$3p
 joonbot.com$3p
@@ -623,3 +627,4 @@ youtube.com###reaction-control-panel-overlay.yt-live-chat-renderer.style-scope
 youtube.com###reaction-control-panel.yt-reaction-control-panel-overlay-view-model.style-scope
 youtube.com##.yt-reaction-control-panel-button-view-model.style-scope
 youtube.com##.yt-reaction-control-panel-overlay-view-model.style-scope
+google.*##.dwHDvd:has-text(How helpful were the results on Google Search?)
