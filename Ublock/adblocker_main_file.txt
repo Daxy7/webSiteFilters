@@ -453,6 +453,7 @@ bing.com###waitListDefault
 bing.com##.inline
 bing.com##.rsbctr
 bing.com##.secure_icon
+bing.com###mfa_srch
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
