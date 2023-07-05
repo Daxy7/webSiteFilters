@@ -398,8 +398,7 @@ youtube.com##.yt-live-chat-viewer-engagement-message-renderer
 twitch.tv##.consent-banner
 youtube.com##ytd-merch-shelf-renderer
 youtube-nocookie.com$subdocument,domain=rule34.xxx
-/fluidplayer.js$script,domain=rule34.xxx
-/fluidplayer.*.js$script,domain=rule34.xxx
+/fluidplayer.$script,domain=rule34.xxx
 /plugins/clean-tube-player/*$script,1p
 bing.com##.b_op_flyout
 bing.com##.b_floatrt.siz23.scs_exp.nowrap.b_secondaryText.b_suffix
