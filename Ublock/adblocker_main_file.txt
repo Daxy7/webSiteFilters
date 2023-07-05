@@ -136,7 +136,7 @@ js.hs-banner.com$3p
 browser-update.org$3p
 cdn.onesignal.com$3p
 ||cdnjs.cloudflare.com/ajax/libs/video.js/
-pusher.com$3p
+! pusher.com$3p
 tinypass.com$3p
 list-manage.com$3p
 ||carecart.io^$3p
