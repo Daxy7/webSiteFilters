@@ -466,10 +466,10 @@ bing.com##.inline
 bing.com##.rsbctr
 bing.com##.secure_icon
 bing.com###mfa_srch
-bing.com##.b_suggestionText
 bing.com###fabas_2.b_fabli
 bing.com###fabstrip.b_fabstrip
 bing.com###mfa_root.b_fabexp.fabcolapse
+bing.com##.b_pag_lets_chat
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
