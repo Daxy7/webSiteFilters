@@ -70,6 +70,7 @@ imginn.*,wizstat.*##.block-sulvo
 /jquery.cookiesdirective.js
 /cookie-policy.js
 /complianz-gdpr
+||omegatheme.com/cookies-notification/*$script
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
 ||iubenda.com/cookie-solution
