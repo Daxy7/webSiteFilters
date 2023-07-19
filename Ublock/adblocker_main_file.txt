@@ -66,6 +66,7 @@ imginn.*,wizstat.*##.block-sulvo
 /cmpApiManager.bundle.js
 /complianz.min.js
 /cookie-widget
+/cookies_banner-*.
 /js.cookie.js
 /jquery.cookiesdirective.js
 /cookie-policy.js
