@@ -638,3 +638,4 @@ youtube.com###reaction-control-panel.yt-reaction-control-panel-overlay-view-mode
 youtube.com##.yt-reaction-control-panel-button-view-model.style-scope
 youtube.com##.yt-reaction-control-panel-overlay-view-model.style-scope
 google.*##.dwHDvd:has-text(How helpful were the results on Google Search?)
+yandex.com##.Favicon-Icon
