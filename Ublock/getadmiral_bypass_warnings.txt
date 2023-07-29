@@ -14,6 +14,7 @@
 220.234.149.34.bc.googleusercontent.com
 224.46.149.34.bc.googleusercontent.com
 34.110.189.112
+34.149.234.220
 34.160.63.134
 34.160.169.226
 35.244.133.240
@@ -1634,6 +1635,7 @@ venusgloria.com
 verdantanswer.com
 verifyvegetable.com
 verseballs.com
+victoriousrequest.com
 violetreading.com
 virgoplato.com
 vivaciousveil.com
