@@ -4,4 +4,3 @@
 [attr]adb   linguist-detectable linguist-language=AdBlock
 # change if too broad
 *.txt adb
-hosts linguist-detectable linguist-language=hosts
