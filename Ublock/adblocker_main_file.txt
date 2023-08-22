@@ -26,9 +26,7 @@ convertbox.com$3p
 !ads/ads.js
 ##.adthrive-placeholder-video
 ##.ads-playwire-container-250h
-imginn.*,wizstat.*##.media-wrap-sulvo
-imginn.*,wizstat.*##.media-wrap-h12
-imginn.*,wizstat.*##.block-sulvo
+##.media-wrap-h12
 
 ||consent.*
 ||cdn.cookielaw.org
