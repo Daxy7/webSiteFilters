@@ -654,9 +654,14 @@ mumsnet.com##.my-10
 /ad5.$badfilter
 ||genius.com/*/apple_music_player$subdocument
 ||images.rapgenius.com/$image
-bitter/*$font$domain=~google.*
-montserrat/*$font$domain=~google.*
-publicsans/*$font$domain=~google.*
+bitter/*$font
+bitter/*$domain=~google.*
+montserrat/*$font
+montserrat/*$domain=~google.*
+publicsans/*$font
+publicsans/*$domain=~google.*
+/dotesports.$font
+/dotesports.$font$domain=~google.*
 inv.zzls.xyz##div.h-box:nth-of-type(2):has-text(password)
 /*_background$domain=gametracker.com
 /vultr$domain=gametracker.com
