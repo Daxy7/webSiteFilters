@@ -660,3 +660,5 @@ bitter/*$font$domain=~google.*
 montserrat/*$font$domain=~google.*
 publicsans/*$font$domain=~google.*
 inv.zzls.xyz##div.h-box:nth-of-type(2):has-text(password)
+/*_background$domain=gametracker.com
+/vultr$domain=gametracker.com
