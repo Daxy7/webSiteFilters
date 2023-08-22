@@ -16,6 +16,7 @@ getadmiral.com$3p
 getsitecontrol.com$3p
 addtoany.com$3p
 sharethis.com$3p
+convertbox.com$3p
 /wp-content/*/fonts/Outfit-Variable.woff2
 /clippy.js
 !/prebid-ads.js
@@ -35,6 +36,7 @@ imginn.*,wizstat.*##.block-sulvo
 ! *##+js(acis, la-bars, la-times)
 ! *##+js(acis, vc_active, slideToggle, click)
 
+||consent.*
 ||cdn.cookielaw.org
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
 /cookieconsent.min.js
@@ -68,6 +70,7 @@ imginn.*,wizstat.*##.block-sulvo
 /*-cookie-consent.js
 /cookie-compliance-*
 /ajax_cookie_value
+/gdpr_changes.*.js
 /cookies_bar_js.min.js
 /cmpApiManager.bundle.js
 /complianz.min.js
@@ -640,3 +643,20 @@ youtube.com##.yt-reaction-control-panel-button-view-model.style-scope
 youtube.com##.yt-reaction-control-panel-overlay-view-model.style-scope
 google.*##.dwHDvd:has-text(How helpful were the results on Google Search?)
 yandex.com##.Favicon-Icon
+##.adsbygoogle
+###buy-me-coffee
+searchenginejournal.com##.sss2_sllo_o2
+searchenginejournal.com##.sej-widget-box
+mumsnet.com##.min-w-\[300px\]
+mumsnet.com##.my-10
+||bestlittlesites.com^$third-party
+||blsnet.com^$third-party
+/ad7.$badfilter
+/ad6.$badfilter
+/ad5.$badfilter
+||genius.com/*/apple_music_player$subdocument
+||images.rapgenius.com/$image
+bitter/*$font$domain=~google.*
+montserrat/*$font$domain=~google.*
+publicsans/*$font$domain=~google.*
+inv.zzls.xyz##div.h-box:nth-of-type(2):has-text(password)

@@ -16,6 +16,7 @@ getadmiral.com$3p
 getsitecontrol.com$3p
 addtoany.com$3p
 sharethis.com$3p
+convertbox.com$3p
 /wp-content/*/fonts/Outfit-Variable.woff2
 /clippy.js
 !/prebid-ads.js
@@ -29,6 +30,7 @@ imginn.*,wizstat.*##.media-wrap-sulvo
 imginn.*,wizstat.*##.media-wrap-h12
 imginn.*,wizstat.*##.block-sulvo
 
+||consent.*
 ||cdn.cookielaw.org
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
 /cookieconsent.min.js
@@ -62,6 +64,7 @@ imginn.*,wizstat.*##.block-sulvo
 /*-cookie-consent.js
 /cookie-compliance-*
 /ajax_cookie_value
+/gdpr_changes.*.js
 /cookies_bar_js.min.js
 /cmpApiManager.bundle.js
 /complianz.min.js
