@@ -665,3 +665,4 @@ publicsans/*$domain=~google.*
 inv.zzls.xyz##div.h-box:nth-of-type(2):has-text(password)
 /*_background$domain=gametracker.com
 /vultr$domain=gametracker.com
+##[href^="https://www.quora.com/_/cli"]
