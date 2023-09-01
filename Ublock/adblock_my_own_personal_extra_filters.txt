@@ -668,4 +668,4 @@ inv.zzls.xyz##div.h-box:nth-of-type(2):has-text(password)
 mail.google.com##[href^="https://www.quora.com/_/cli"]
 @@||*.reddit.com^$ghide
 @@||*.redd.it^$ghide
-@@||*.gametracker.com^$ghide
+google.*##.qSQKQd
