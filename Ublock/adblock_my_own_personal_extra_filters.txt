@@ -612,8 +612,10 @@ youtube.com##.branding-img-container
 ##.ytp-info-panel-preview
 microsoft.com##.prrColumnWrapper
 yandex.com##.Tooltip
-google.com##.g div.yuRUbf a > h3 + div > .H9lube, .g div.yuRUbf a > h3 + div > div > span, .g div.yuRUbf a + div > div > span, .g div.yuRUbf a + div > div > div > span
-google.com##.g div.yuRUbf a > h3, .g div.yuRUbf a + div > div:style(margin-top: 0px !important;)
+google.*#@#.g div.yuRUbf a > h3 + div > .H9lube, .g div.yuRUbf a > h3 + div > div > span, .g div.yuRUbf a + div > div > span, .g div.yuRUbf a + div > div > div > span
+google.*##.H9lube
+google.*##.VuuXrf
+google.*#@#.g div.yuRUbf a > h3, .g div.yuRUbf a + div > div:style(margin-top: 0px !important;)
 yandex.com##[id^="viewer_rim_direct"]
 yandex.com##.ContentLoader_skin_light
 google.*###customize-your-topics-tooltip-id
@@ -668,4 +670,3 @@ inv.zzls.xyz##div.h-box > h3
 mail.google.com##[href^="https://www.quora.com/_/cli"]
 @@||*.reddit.com^$ghide
 @@||*.redd.it^$ghide
-google.*##.DDKf1c
