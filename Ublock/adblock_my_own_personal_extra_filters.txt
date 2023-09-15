@@ -629,7 +629,7 @@ google.*##.lOKM4d:has-text(Safer with Google)
 yandex.com##.Polaroid, Polaroid_animated, SerpPolaroid, SerpListPolaroid
 youtube.com###related
 ##.ytp-title-beacon
-##.ytp-pause-overlay
+##.ytp-pause-overlay-container
 ##.ytp-more-videos-view
 vendors-*.bundle.js$domain=kemono.party
 !web.skype.com##.reactxp-ignore-pointer-events
