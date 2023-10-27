@@ -362,6 +362,7 @@ watchpeopledie.*###awards-container
 watchpeopledie.*###banner-link
 watchpeopledie.*###sidebar-link
 watchpeopledie.*##.animate-spin
+watchpeopledie.*##.fog-effect
 ||watchpeopledie.*/assets/js/fart.js$script,1p
 youtube.com###clarify-box
 rule34.xxx##div.horizontalFlexWithMargins
