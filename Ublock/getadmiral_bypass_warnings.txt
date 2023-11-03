@@ -22,6 +22,7 @@
 34.149.46.224
 34.160.169.226
 34.160.63.134
+35.186.219.42
 35.244.133.240
 68.240.110.34.bc.googleusercontent.com
 ! 2022
@@ -886,7 +887,6 @@ jamexistence.com
 joblessdrum.com
 joyfulharbor.com
 joyoussurprise.com
-jsnct17-cacs.sx-ws3.space
 jubilanthush.com
 justicejudo.com
 k54nw.pw
@@ -1044,7 +1044,6 @@ nervoussummer.com
 niftyhospital.com
 niftyjelly.com
 nightwound.com
-nogginbox-jun2022-tests.crispdev.com
 noiselessplough.com
 nonchalantnerve.com
 nondescriptcrowd.com
@@ -1068,9 +1067,6 @@ observantice.com
 oldfashionedoffer.com
 omniscientfeeling.com
 omniscientspark.com
-openam-mut-0324fdfd2a.validation.forgeblocks.com
-openam-upg-mut-2ef6365c53.forgeblocks.com
-openam-upg-mut-c42d0e8b8b.validation.forgeblocks.com
 operationchicken.com
 operationkettle.com
 opinionsurprise.com
@@ -1169,7 +1165,6 @@ powderjourney.com
 powderprofit.com
 powerfulcopper.com
 practicetoothpaste.com
-pratik-tc5-12.stg.splunkcloud.com
 preciouseffect.com
 preciousyoke.com
 predictplate.com
@@ -1399,7 +1394,6 @@ shallowsmile.com
 shamerain.com
 shapecomb.com
 sharppatch.com
-shc1.pratik-tc5-12.stg.splunkcloud.com
 sheltercellar.com
 shesubscriptions.com
 shinesavage.com
@@ -1844,7 +1838,6 @@ wrongpotato.com
 wryfinger.com
 wtaccesscontrol.com
 xovq5nemr.com
-xwljsurpwhagqnyduxoo.gtr.ing.gke.certsbridge.com
 yamstamp.com
 yieldingwoman.com
 youngmarble.com
@@ -1863,34 +1856,24 @@ cbmiocw.com
 ccmiocw.com
 cdmiocw.com
 cwchmb.com
-ec2-3-232-110-36.compute-1.amazonaws.com
-external-api.camshq.info
 lcwfabt1.com
 lcwfabt2.com
 lcwfabt3.com
-secure.shore-612a34.evergreen.space
 
 ! 216.21.13.15
-xymhdmqrjxwl.com
-zeofnuvzsh.com
-lhztipda.com
-ryeqnyvbncdvg.com
-ojqbnqdwycws.com
-hfazsyfdvlfa.com
-jscjnbvk.com
-dengndbwnxcgo.com
-riboxklhrkvpif.com
-nszvoukwmesjow.com
-bigzdqecdfsxj.com
-azogqooa.com
-yqszaqtw.com
-nqmanxtemqvlne.com
-owkuwquf.com
-rozsnxbpbf.com
-logitxaequk.com
-cipeqrwzk.com
-aodnfrbopii.com
-lttxwrvhyzb.com
+sjwxsxgfszkxtq.com
+oelqiuutvvlcta.com
+wlwnefdkuc.com
+zyzukjopdyphx.com
+koyzyodhnd.com
+vrhgfvztgmcl.com
+zqmmtbwqymhrru.com
+pacijwarnfrtq.com
+zjniwmsdrv.com
+qblqaiveg.com
+qtxpafkflf.com
+iivzdmqgyyiw.com
+lmqowtvu.com
 
 ! 3.85.252.251
 beepinfluence.com
@@ -1898,7 +1881,6 @@ betngamble.com
 bxuxnjzk.com
 clickbang.org
 contrariancapitalist.com
-deywhlcquuyvfosklusf.gtr.ing.gke.certsbridge.com
 foofooagency.com
 gonow2022.com
 habbimobile.com
