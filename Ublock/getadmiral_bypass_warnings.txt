@@ -86,7 +86,6 @@ actuallysnake.com
 actuallything.com
 addictedattention.com
 additionant.com
-admin.auth.touchbase.dev
 admiral.pub
 adorableanger.com
 adorableattention.com
@@ -1234,7 +1233,6 @@ rangecake.com
 rangeplayground.com
 rapidkittens.com
 raresummer.com
-rd-geo.dev
 readingguilt.com
 readingopera.com
 readymoon.com
