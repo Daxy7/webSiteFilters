@@ -388,6 +388,7 @@ google.*##.wgwAc
 google.*##.match-mod-horizontal-padding
 google.*##[id^="eob"]
 google.*##.QlcHMc:has-text(See translations)
+google.*#.oPfux
 support.google.*##.inline-feedback__track
 getpocket.com##.syndication-ad
 youtube.com##.ytd-inline-survey-renderer

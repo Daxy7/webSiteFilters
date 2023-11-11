@@ -673,3 +673,4 @@ inv.zzls.xyz##div.h-box > h3
 mail.google.com##[href^="https://www.quora.com/_/cli"]
 @@||*.reddit.com^$ghide
 @@||*.redd.it^$ghide
+google.*#.oPfux
