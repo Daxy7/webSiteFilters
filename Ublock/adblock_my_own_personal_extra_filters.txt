@@ -382,6 +382,7 @@ youtube.com##.ytp-paid-content-overlay
 duplichecker.com##.mb5
 duplichecker.com###cookie_directive_container
 duplichecker.com##.set-anchor
+duplichecker.com##.plkane
 livegore.com###notice_visitor
 *##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
 *##*:style(border-radius:0px !important;)

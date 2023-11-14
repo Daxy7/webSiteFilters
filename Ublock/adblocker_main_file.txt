@@ -367,6 +367,7 @@ youtube.com##.ytp-paid-content-overlay
 duplichecker.com##.mb5
 duplichecker.com###cookie_directive_container
 duplichecker.com##.set-anchor
+duplichecker.com##.plkane
 *##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
 music.youtube.com##.ytmusic-like-button-renderer.style-scope.dislike
 urbandictionary.com##.leaderboard-250\:h-\[250px\]
