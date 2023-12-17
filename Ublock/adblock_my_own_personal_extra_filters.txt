@@ -675,3 +675,13 @@ mail.google.com##[href^="https://www.quora.com/_/cli"]
 @@||*.reddit.com^$ghide
 @@||*.redd.it^$ghide
 google.*#.oPfux
+||ezodn.com^$important
+cpstest.org##.stdadd-class
+||anyclip.com^$important
+web.skype.com##.r-13awgt0.css-1dbjc4n > div > .reactxp-ignore-pointer-events
+duplichecker.com##.plkane
+sh.reddit.com##shreddit-loading
+||kemono.su/api/v1/tryagain$xhr,1p
+||edge.ads.twitch.tv^
+||www.adsensecustomsearchads.com^
+discord.com##.animation__19784
