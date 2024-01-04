@@ -685,3 +685,4 @@ sh.reddit.com##shreddit-loading
 ||edge.ads.twitch.tv^
 ||www.adsensecustomsearchads.com^
 discord.com##.animation__19784
+duplichecker.com##.jetdew
