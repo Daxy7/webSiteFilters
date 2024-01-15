@@ -6,7 +6,10 @@
 ! GitHub issues: https://github.com/Daxy7/webSiteFilters/issues
 ! GitHub pull requests: https://github.com/Daxy7/webSiteFilters/pulls
 
-! 2023
+!! fetched: virustotal.com/gui/ip-address/ipgoeshere/relations
+!! not for bc
+
+! 2024
 112.189.110.34.bc.googleusercontent.com
 148.179.110.34.bc.googleusercontent.com
 20.178.149.34.bc.googleusercontent.com
@@ -24,6 +27,7 @@
 34.160.63.134
 35.244.133.240
 68.240.110.34.bc.googleusercontent.com
+! 2023
 ! 2022
 16.46.160.34.bc.googleusercontent.com
 219.71.160.34.bc.googleusercontent.com
@@ -43,6 +47,7 @@
 42.219.186.35.bc.googleusercontent.com
 50.58.190.35.bc.googleusercontent.com
 64.98.201.35.bc.googleusercontent.com
+! 2020
 
 2znp09oa.com
 4jnzhl0d0.com
@@ -156,6 +161,7 @@ aspiringapples.com
 aspiringattempt.com
 aspiringtoy.com
 astonishingair.com
+astrallullaby.com
 attractionapples.com
 attractionbanana.com
 attractiveafternoon.com
@@ -329,6 +335,7 @@ cautiouscredit.com
 cavecurtain.com
 ceciliavenus.com
 celestialspectra.com
+ceruleanchime.com
 chaireggnog.com
 chairscrack.com
 chairsdonkey.com
@@ -585,8 +592,10 @@ elderlyscissors.com
 elderlytown.com
 elegantboulevard.com
 elephantqueue.com
+elysiantraverse.com
 embellishedmeadow.com
 embermosaic.com
+emberwhisper.com
 eminentbubble.com
 eminentend.com
 emptyescort.com
@@ -594,6 +603,7 @@ enchantedjudge.com
 enchantedskyline.com
 enchantedtop.com
 enchantingbear.com
+enchantingmystique.com
 enchantingvalley.com
 encourageidea.com
 encourageshock.com
@@ -608,6 +618,8 @@ energeticexample.com
 energeticladybug.com
 engineergrape.com
 engineertrick.com
+enigmaticcanyon.com
+enigmaticvoyage.com
 enormousearth.com
 enormousfoot.com
 entertainingeyes.com
@@ -617,9 +629,13 @@ enthusiasticring.com
 enthusiastictemper.com
 enviousshape.com
 enviousthread.com
+ephemeralharbor.com
+ephemeraloverture.com
 equablekettle.com
 erraticreaction.com
+etherealbamboo.com
 ethereallagoon.com
+etherealpinnacle.com
 etherealripple.com
 evaluateend.com
 evaluatestream.com
@@ -801,6 +817,8 @@ gullibleguitar.com
 gustygrandmother.com
 h78xb.pw
 habitualhumor.com
+halcyoncanyon.com
+halcyonsculpture.com
 hallowedinvention.com
 haltingbadge.com
 haltingdivision.com
@@ -821,6 +839,7 @@ happenhistory.com
 harborcaption.com
 harborcub.com
 hardtofindmilk.com
+harmonicbamboo.com
 harmonywing.com
 hatefulrequest.com
 hauntlist.com
@@ -910,6 +929,8 @@ inventtango.com
 investigatepin.com
 inviterabbits.com
 invitesugar.com
+iridescentdusk.com
+iridescentvista.com
 irritatingfog.com
 ivykiosk.com
 j93557g.com
@@ -976,9 +997,11 @@ lp3tdqle.com
 ludicrousarch.com
 lumberamount.com
 lumberrule.com
+luminoussculptor.com
 lumpyleaf.com
 lumpylumber.com
 lunchroomlock.com
+lustroushaven.com
 lzhsign.com$third-party
 magicaljoin.com
 magicalmonth.com
@@ -1071,7 +1094,10 @@ naivestatement.com
 nappyattack.com
 nappyneck.com
 neatshade.com
+nebulacrescent.com
+nebulajubilee.com
 nebulousamusement.com
+nebulousripple.com
 necessarywax.com
 needlessnorth.com
 needyneedle.com
@@ -1081,6 +1107,8 @@ nervoussummer.com
 niftyhospital.com
 niftyjelly.com
 nightwound.com
+nocturnalloom.com
+nocturnalmystique.com
 noiselessplough.com
 nonchalantnerve.com
 nondescriptcrowd.com
@@ -1111,6 +1139,7 @@ opinionsurprise.com
 oppositeoperation.com
 oppositeparcel.com
 optimallimit.com
+opulentsylvan.com
 orangeoperation.com
 organizationdogs.com
 orientedargument.com
@@ -1165,9 +1194,11 @@ pietexture.com
 pigspie.com
 pinchsquirrel.com
 pinpointpotato.com
+piquantmeadow.com
 piquantpigs.com
 piquantprice.com
 piquantstove.com
+piquantvortex.com
 pizzasnut.com
 placeframe.com
 placidactivity.com
@@ -1265,6 +1296,7 @@ quizzicalzephyr.com
 rabbitbreath.com
 rabbitrifle.com
 radiantcanopy.com
+radiantlullaby.com
 radiateprose.com
 railwaygiraffe.com
 railwayrainstorm.com
@@ -1321,6 +1353,7 @@ resolutekey.com
 resonantbrush.com
 resonantrock.com
 respectrain.com
+resplendentecho.com
 restrainstorm.com
 restructureinvention.com
 retrievemint.com
@@ -1434,8 +1467,11 @@ separateshow.com
 separatesilver.com
 separatesort.com
 seraphichorizon.com
+seraphicjewel.com
+seraphicjubilee.com
 serendipityecho.com
 serenecascade.com
+serenezephyr.com
 serioussuit.com
 serpentshampoo.com
 settleshoes.com
@@ -1668,6 +1704,7 @@ stupidscene.com
 stupidsnake.com
 sturdysnail.com
 subletyoke.com
+sublimequartz.com
 subsequentsand.com
 subsequentstew.com
 subsequentswim.com
@@ -1844,15 +1881,19 @@ usedexample.com
 uttermosthobbies.com
 vanishmemory.com
 velvetnova.com
+velvetquasar.com
 vengefulgrass.com
 venusgloria.com
 verdantanswer.com
+verdantcrescent.com
 verdantlabyrinth.com
+verdantloom.com
 verifyvegetable.com
 verseballs.com
 vibranthaven.com
 vibrantskyline.com
 vibrantsundown.com
+vibranttalisman.com
 victoriousrequest.com
 violetreading.com
 virgoplato.com
@@ -1888,6 +1929,7 @@ whirlwealth.com
 whiskyqueue.com
 whisperingbadge.com
 whisperingcrib.com
+whisperingquasar.com
 whisperingsummit.com
 whispermeeting.com
 wigglygeese.com
@@ -1919,6 +1961,8 @@ youngmarble.com
 youthfulnoise.com
 zbwp6ghm.com
 zealousfield.com
+zephyrcatalyst.com
+zephyrlabyrinth.com
 zestycrime.com
 zestywire.com
 zipperxray.com
