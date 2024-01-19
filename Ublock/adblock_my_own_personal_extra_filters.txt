@@ -691,3 +691,5 @@ orteil.dashnet.org###ascendMeterContainer
 www.dictionary.com##[class^="AdHorizontal"]
 www.reddit.com##.promoted-tag
 @@||fonts.gstatic.com^
+www.twitch.tv##.ffz--inline:nth-of-type(-n+512):nth-of-type(n+6)
+www.twitch.tv##.text-fragment:nth-of-type(-n+512):nth-of-type(n+6)
