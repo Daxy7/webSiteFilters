@@ -17,6 +17,7 @@ getsitecontrol.com$3p
 addtoany.com$3p
 sharethis.com$3p
 convertbox.com$3p
+userway.org$3p
 /wp-content/*/fonts/Outfit-Variable.woff2
 /clippy.js
 !/prebid-ads.js
@@ -147,11 +148,13 @@ list-manage.com$3p
 ||carecart.io^$3p
 ||metizapps.com^$3p
 widget.reviews.*$3p
+reviewwave.com$3p
 convertkit.com$3p
 ###toaster
 
 chatbot.com$3p
 chatbot.aisera.cloud
+echobot.ai$3p
 boldchat.com$3p
 /31aug26paidd20_free_final_51.js
 chatra.io$3p
