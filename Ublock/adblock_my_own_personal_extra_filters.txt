@@ -165,6 +165,7 @@ echobot.ai$3p
 boldchat.com$3p
 /31aug26paidd20_free_final_51.js
 chatra.io$3p
+caresoft.*$3p
 livechatinc.com$3p
 mylivechat.com$3p
 smartsuppchat.com$script
