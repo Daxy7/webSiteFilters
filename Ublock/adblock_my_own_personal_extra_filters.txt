@@ -700,3 +700,23 @@ www.twitch.tv##.ffz--inline:nth-of-type(-n+512):nth-of-type(n+6)
 www.twitch.tv##.ffz--pointer-events:nth-of-type(-n+512):nth-of-type(n+6)
 www.twitch.tv##.text-fragment:nth-of-type(-n+512):nth-of-type(n+6)
 www.twitch.tv##.twitch-emote:nth-of-type(-n+512):nth-of-type(n+6)
+amortizationcalc.org,amortizationschedule.org,autofinancecalculator.org,bcalculator.com,bestpennystocks.org,convert-online.org,fuelcostcalculator.org,gps-coordinates.org,heloccalculator.net,homeequityloancalculator.org,loan-calculators.org,mortgage-calculator.us,mortgagecal.net,payment-calculator.net,payment-calculator.org,penny-stock.org,recastcalculator.com,recastingcalculator.com,refinance-calculator.org,refinancecalculators.org,rentcalculator.org,stock-scanner.org,stock-screener.org,usernamegenerator.org##[style^="height:200px"]
+autofinancecalculator.org,bestpennystocks.org,convert-online.org,findaword.org,gps-coordinates.org,mortgage-calculator.net,multiplication-chart.com,multiplication-chart.org,my-location.org,online-calculator.org,online-clock.org,passwords-generator.org,penny-stock.org,time-calculator.org,toppennystocks.org,usdeur.org,where-am-i.org##[style^="min-height:280px"]
+alarm-clock.org,autofinancecalculator.org,cashoutrefinancecalculator.org,convert-online.org,findaword.org,heloccalculator.org,hourscalculator.org,multiplication-chart.com,multiplication-chart.org,multiplying.info,online-calculator.org,online-calculator.org,online-clock.org,optionscalculator.net,passwords-generator.org,stocksunder1.org,stocksunder5.org,stopwatchonline.org,swing-trading.org,time-calculator.org,timerminute.com,tvmcalculator.com,usdeur.org##[style^="height:300px"]
+autoloan-calculator.com,cd-calculator.com,convert-online.org,toppennystocks.org##[style^="height:500px"]
+mortgage-calculator.net,online-calculator.org##[style^="min-height:90px"]
+online-calculator.org##[style^="width:336px"]
+bestpennystocks.org,caloriedeficitcalculator.org,fuelcostcalculator.org,optionscalculator.net,penny-stock.org,stock-scanner.org,stock-screener.org##a[target="_blank"]
+stock-scanner.org,stock-screener.org##.tablestyle > tbody > tr > td > table
+stock-screener.org,stocksunder1.org,toppennystocks.org##[src*="/candlestick-ebook.jpg"]
+/candlestick-ebook.jpg$domain=stock-screener.org|stocksunder1.org|toppennystocks.org
+stocksunder1.org##.side > table
+toppennystocks.org##.col-sm-4 > table
+/bioep.min.js$script,first-party,domain=stock-screener.org
+||stocksunder1.org/js/bioep.min.js
+gametracker.com##[style^="width:980px;"]
+gametracker.com##[href="https://www.gameservers.com/game_servers/"]
+gametracker.com##[href="https://www.gameservers.com/ventrilo_servers/"]
+gametracker.com#?#td > b:-abp-contains(SPONSORS)
+datetimego.com##[class^="dtg"]
+||accounts.google.com/gsi/client$script,domain=~google.*|youtube.com
