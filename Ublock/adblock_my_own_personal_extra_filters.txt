@@ -203,6 +203,7 @@ driftt.com$3p
 frontapp.com$3p
 sprinklr.com$3p
 zopim.com$3p
+zdassets.com$3p
 crisp.chat$3p
 crisp.im$3p
 theb.ai$3p
