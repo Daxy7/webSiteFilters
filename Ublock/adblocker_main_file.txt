@@ -473,6 +473,19 @@ bing.com###fabstrip.b_fabstrip
 bing.com###mfa_root.b_fabexp.fabcolapse
 bing.com##.b_pag_lets_chat
 bing.com##.l_ecrd_rrct-div
+bing.com##.wpt_bc_container
+bing.com##.rs_chat
+bing.com##.df_dn_content
+bing.com##.df_alaskcarousel
+bing.com###b-scopeListItem-conv
+bing.com##.bordertop
+bing.com##.sa_sg_chaticon_blue:upward(2)
+bing.com##.batg
+bing.com##.bats
+bing.com###chat_upsell_bubble_icon
+bing.com##.b_phead_chat_link
+bing.com##.cdxConv
+bing.com###codex.scope
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
