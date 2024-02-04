@@ -322,7 +322,7 @@ youtube.com##.ytd-rich-section-renderer:has-text(/Breaking News|Top news/i)
 youtube.com###voice-search-button
 youtube.com###redirect-backto-safety-button
 tampermonkey.net##.advent_head
-*##a.ytp-menuitem
+youtube.com##a.ytp-menuitem
 reddit.com##.cookie-infobar
 *##.cookie-choices-info
 *###cookieDialog
@@ -631,7 +631,7 @@ youtube.com##.branding-img-container
 4archive.*,deepgoretube.site##+js(aopw, _pop)
 4archive.*,deepgoretube.site##^script[data-cfasync]:has-text(h=decodeURIComponent)
 *$script,3p,denyallow=cloudflare.com,domain=4archive.org|deepgoretube.site
-##.ytp-info-panel-preview
+youtube.com##.ytp-info-panel-preview
 microsoft.com##.prrColumnWrapper
 yandex.com##.Tooltip
 google.*#@#.g div.yuRUbf a > h3 + div > .H9lube, .g div.yuRUbf a > h3 + div > div > span, .g div.yuRUbf a + div > div > span, .g div.yuRUbf a + div > div > div > span
@@ -650,9 +650,9 @@ web.skype.com##.r-13awgt0.css-1dbjc4n > .r-13awgt0.css-1dbjc4n > div > div > div
 google.*##.lOKM4d:has-text(Safer with Google)
 yandex.com##.Polaroid, Polaroid_animated, SerpPolaroid, SerpListPolaroid
 youtube.com###related
-##.ytp-title-beacon
-##.ytp-pause-overlay-container
-##.ytp-more-videos-view
+youtube.com##.ytp-title-beacon
+youtube.com##.ytp-pause-overlay-container
+youtube.com##.ytp-more-videos-view
 vendors-*.bundle.js$domain=kemono.party
 !web.skype.com##.reactxp-ignore-pointer-events
 web.skype.com##.r-6koalj.r-y7d2au.r-rs99b7.r-fnigne.r-42olwf.r-ndvcnb.r-14lw9ot.css-1dbjc4n:has-text(Second line for calls)

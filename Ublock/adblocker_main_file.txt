@@ -325,9 +325,9 @@ youtube.com###redirect-backto-safety-button
 youtube.com##.opened
 youtube.com###fade
 youtube.com###scrim
-##.ytp-title-beacon
+youtube.com##.ytp-title-beacon
 tampermonkey.net##.advent_head
-*##a.ytp-menuitem
+youtube.com##a.ytp-menuitem
 reddit.com##.cookie-infobar
 *##.cookie-choices-info
 *###cookieDialog
@@ -344,7 +344,7 @@ reddit.com##.buffering-controls
 youtube.com##.ytp-button.ytp-remote-button
 youtube.com###clarify-box
 youtube.com##ytd-info-panel-container-renderer:has-text(Context)
-##.ytp-info-panel-preview
+youtube.com##.ytp-info-panel-preview
 youtube.com##.ryd-tooltip
 youtube.com##.ytp-promotooltip-wrapper
 yandex.com##div.incut
