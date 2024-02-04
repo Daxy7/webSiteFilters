@@ -735,3 +735,5 @@ gametracker.com#?#td > b:-abp-contains(SPONSORS)
 datetimego.com##[class^="dtg"]
 ||accounts.google.com/gsi/client$script,domain=~google.*|youtube.com
 chromewebstore.google.com##[aria-labelledby="promo-header"]
+youtube.com###lower-bumper
+youtube.com###author-photo

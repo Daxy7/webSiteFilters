@@ -326,6 +326,8 @@ youtube.com##.opened
 youtube.com###fade
 youtube.com###scrim
 youtube.com##.ytp-title-beacon
+youtube.com###lower-bumper
+youtube.com###author-photo
 tampermonkey.net##.advent_head
 youtube.com##a.ytp-menuitem
 reddit.com##.cookie-infobar
