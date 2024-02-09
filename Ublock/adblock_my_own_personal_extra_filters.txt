@@ -695,7 +695,7 @@ cpstest.org##.stdadd-class
 ||anyclip.com^$important
 web.skype.com##.r-13awgt0.css-1dbjc4n > div > .reactxp-ignore-pointer-events
 duplichecker.com##.plkane
-sh.reddit.com##shreddit-loading
+reddit.com##shreddit-loading
 ||kemono.su/api/v1/tryagain$xhr,1p
 ||edge.ads.twitch.tv^
 ||www.adsensecustomsearchads.com^
@@ -730,7 +730,7 @@ gametracker.com##[href="https://www.gameservers.com/game_servers/"]
 gametracker.com##[href="https://www.gameservers.com/ventrilo_servers/"]
 gametracker.com#?#td > b:-abp-contains(SPONSORS)
 datetimego.com##[class^="dtg"]
-||accounts.google.com/gsi/client$script,domain=~google.*|youtube.com
+||accounts.google.com/gsi/status?client_id=*
 chromewebstore.google.com##[aria-labelledby="promo-header"]
 youtube.com###lower-bumper
 youtube.com###author-photo
