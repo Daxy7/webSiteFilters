@@ -734,3 +734,4 @@ datetimego.com##[class^="dtg"]
 chromewebstore.google.com##[aria-labelledby="promo-header"]
 youtube.com###lower-bumper
 youtube.com###author-photo
+@@||github.com/openedx/event-tracking/*
