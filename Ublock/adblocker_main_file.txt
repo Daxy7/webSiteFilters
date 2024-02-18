@@ -87,6 +87,7 @@ userway.org$3p
 /kaspersky-cookies-notification
 shopifycloud/privacy-banner
 ||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
+/blog-plugins/wordads-classes/js/cmp/v2/*
 ###privacy-consent
 ###onetrust-consent-sdk
 ###cookie_consent_message
