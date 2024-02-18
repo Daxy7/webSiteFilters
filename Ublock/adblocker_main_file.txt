@@ -132,6 +132,7 @@ complianz.io$3p,important
 cdn.iubenda.com$3p,important
 didomi.io$3p,important
 piwik.pro$3p,important
+ketchcdn.com$3p,important
 quantcast.com$3p
 @@||quantcast.com^$domain=manchestereveningnews.co.uk|mirror.co.uk
 nexus.ensighten.com$3p,important
