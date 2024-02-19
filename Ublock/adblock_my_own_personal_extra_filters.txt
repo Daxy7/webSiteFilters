@@ -714,6 +714,7 @@ www.twitch.tv##.ffz--inline:nth-of-type(-n+512):nth-of-type(n+6)
 www.twitch.tv##.ffz--pointer-events:nth-of-type(-n+512):nth-of-type(n+6)
 www.twitch.tv##.text-fragment:nth-of-type(-n+512):nth-of-type(n+6)
 www.twitch.tv##.twitch-emote:nth-of-type(-n+512):nth-of-type(n+6)
+kick.com##span:nth-of-type(-n+512):nth-of-type(n+8)
 amortizationcalc.org,amortizationschedule.org,autofinancecalculator.org,bcalculator.com,bestpennystocks.org,convert-online.org,fuelcostcalculator.org,gps-coordinates.org,heloccalculator.net,homeequityloancalculator.org,loan-calculators.org,mortgage-calculator.us,mortgagecal.net,payment-calculator.net,payment-calculator.org,penny-stock.org,recastcalculator.com,recastingcalculator.com,refinance-calculator.org,refinancecalculators.org,rentcalculator.org,stock-scanner.org,stock-screener.org,usernamegenerator.org##[style^="height:200px"]
 autofinancecalculator.org,bestpennystocks.org,convert-online.org,findaword.org,gps-coordinates.org,mortgage-calculator.net,multiplication-chart.com,multiplication-chart.org,my-location.org,online-calculator.org,online-clock.org,passwords-generator.org,penny-stock.org,time-calculator.org,toppennystocks.org,usdeur.org,where-am-i.org##[style^="min-height:280px"]
 alarm-clock.org,autofinancecalculator.org,cashoutrefinancecalculator.org,convert-online.org,findaword.org,heloccalculator.org,hourscalculator.org,multiplication-chart.com,multiplication-chart.org,multiplying.info,online-calculator.org,online-calculator.org,online-clock.org,optionscalculator.net,passwords-generator.org,stocksunder1.org,stocksunder5.org,stopwatchonline.org,swing-trading.org,time-calculator.org,timerminute.com,tvmcalculator.com,usdeur.org##[style^="height:300px"]
@@ -737,4 +738,3 @@ datetimego.com##[class^="dtg"]
 chromewebstore.google.com##[aria-labelledby="promo-header"]
 youtube.com###lower-bumper
 youtube.com###author-photo
-@@||github.com/openedx/event-tracking/*

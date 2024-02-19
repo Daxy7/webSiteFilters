@@ -506,7 +506,6 @@ google.*#@#.g div.yuRUbf a > h3 + div > .H9lube, .g div.yuRUbf a > h3 + div > di
 google.*##.H9lube
 google.*##.VuuXrf
 google.*#@#.g div.yuRUbf a > h3, .g div.yuRUbf a + div > div:style(margin-top: 0px !important;)
-@@||github.com/openedx/event-tracking/*
 yandex.com##.Favicon-Icon
 ! The filter below needs improvement (randomly generated cosmetic ids)
 ! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
