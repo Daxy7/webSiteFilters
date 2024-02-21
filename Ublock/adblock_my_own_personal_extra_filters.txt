@@ -280,7 +280,7 @@ urbandictionary.com##.h-\[600px\].justify-center.items-center.lg\:flex.hidden.mb
 moddb.com##.new
 healthline.com###iPopFrame_sw
 knowyourmeme.com##.top_comments
-tineye.com##.collection.match-row.row
+tineye.com##.matches:has-text(SPONSORED)
 quizony.com##.fEy1Z2XT
 canyoublockit.com##.wpd-avatar
 partitionwizard.com##.promotions-banner-wrap
