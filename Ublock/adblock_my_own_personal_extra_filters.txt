@@ -500,6 +500,7 @@ bing.com###chat_upsell_bubble_icon
 bing.com##.b_phead_chat_link
 bing.com##.cdxConv
 bing.com###codex.scope
+bing.com###b_sydTigerCont
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
