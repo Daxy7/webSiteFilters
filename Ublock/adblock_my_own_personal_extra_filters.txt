@@ -372,6 +372,7 @@ watchpeopledie.*###sidebar-link
 watchpeopledie.*##.animate-spin
 watchpeopledie.*##.fog-effect
 ||watchpeopledie.*/assets/js/fart.js$script,1p
+watchpeopledie.*##[src*="https://i.watchpeopledie.tv/e/marsey"]
 youtube.com###clarify-box
 rule34.xxx##div.horizontalFlexWithMargins
 youtube.com##.ryd-tooltip
