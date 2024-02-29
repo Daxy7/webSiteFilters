@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+[attr]adb   linguist-detectable linguist-language=AdBlock
+# change if too broad
+*.txt adb
