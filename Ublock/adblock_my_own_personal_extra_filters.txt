@@ -79,6 +79,7 @@ userway.org$3p
 /jquery.cookiesdirective.js
 /cookie-policy.js
 /complianz-gdpr
+/cookie-consent-v2/*
 ||omegatheme.com/cookies-notification/*$script
 ||freeprivacypolicy.com/public/cookie-consent
 ||yastatic.net/s3/gdpr/popup
