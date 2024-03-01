@@ -714,7 +714,7 @@ www.reddit.com##.promoted-tag
 www.twitch.tv##.ffz-emoji:nth-of-type(-n+512):nth-of-type(n+6)
 www.twitch.tv##.ffz--inline:nth-of-type(-n+512):nth-of-type(n+6)
 www.twitch.tv##.ffz--pointer-events:nth-of-type(-n+512):nth-of-type(n+6)
-www.twitch.tv##.text-fragment:nth-of-type(-n+512):nth-of-type(n+6)
+!www.twitch.tv##.text-fragment:nth-of-type(-n+512):nth-of-type(n+6)
 www.twitch.tv##.twitch-emote:nth-of-type(-n+512):nth-of-type(n+6)
 kick.com##span:nth-of-type(-n+512):nth-of-type(n+8)
 amortizationcalc.org,amortizationschedule.org,autofinancecalculator.org,bcalculator.com,bestpennystocks.org,convert-online.org,fuelcostcalculator.org,gps-coordinates.org,heloccalculator.net,homeequityloancalculator.org,loan-calculators.org,mortgage-calculator.us,mortgagecal.net,payment-calculator.net,payment-calculator.org,penny-stock.org,recastcalculator.com,recastingcalculator.com,refinance-calculator.org,refinancecalculators.org,rentcalculator.org,stock-scanner.org,stock-screener.org,usernamegenerator.org##[style^="height:200px"]
