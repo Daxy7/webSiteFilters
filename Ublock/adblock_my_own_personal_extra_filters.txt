@@ -649,7 +649,6 @@ shazam.com##.footerstatic
 !search.sapti.me###suggestions
 !search.sapti.me##.dialog-error
 google.com##.Sth6v
-web.skype.com##.r-13awgt0.css-1dbjc4n > .r-13awgt0.css-1dbjc4n > div > div > div > div:has-text(Try Microsoft Edge)
 google.*##.lOKM4d:has-text(Safer with Google)
 yandex.com##.Polaroid, Polaroid_animated, SerpPolaroid, SerpListPolaroid
 youtube.com###related
@@ -657,8 +656,6 @@ youtube.com##.ytp-title-beacon
 youtube.com##.ytp-pause-overlay-container
 youtube.com##.ytp-more-videos-view
 vendors-*.bundle.js$domain=kemono.party
-!web.skype.com##.reactxp-ignore-pointer-events
-web.skype.com##.r-6koalj.r-y7d2au.r-rs99b7.r-fnigne.r-42olwf.r-ndvcnb.r-14lw9ot.css-1dbjc4n:has-text(Second line for calls)
 youtube.com###expanded-buttons.yt-reaction-control-panel-view-model.style-scope
 youtube.com###fab-container.yt-reaction-control-panel-view-model.style-scope
 youtube.com###hover-area.yt-reaction-control-panel-view-model.style-scope
@@ -699,6 +696,8 @@ google.*#.oPfux
 ||ezodn.com^$important
 cpstest.org##.stdadd-class
 ||anyclip.com^$important
+web.skype.com##[style="position: relative; display: flex; flex-direction: column; flex-grow: 0; flex-shrink: 0; overflow: hidden; align-items: stretch; align-self: stretch; background-color: rgba(241, 241, 244, 0.5); border-color: rgb(255, 255, 255); border-width: 2px; border-style: solid;"]
+web.skype.com##.css-1dbjc4n.r-14lw9ot.r-13awgt0
 web.skype.com##.r-13awgt0.css-1dbjc4n > div > .reactxp-ignore-pointer-events
 duplichecker.com##.plkane
 reddit.com##shreddit-loading

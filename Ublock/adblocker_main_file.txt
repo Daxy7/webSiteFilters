@@ -502,9 +502,9 @@ microsoft.com##.RailBanner
 microsoft.com##.ucsUhfContainer
 microsoft.com##.teachingCalloutPopover:has-text(Sign in with)
 microsoft.com##.prrColumnWrapper
-web.skype.com##.r-6koalj.r-y7d2au.r-rs99b7.r-fnigne.r-42olwf.r-ndvcnb.r-14lw9ot.css-1dbjc4n:has-text(Second line for calls)
-web.skype.com##.r-13awgt0.css-1dbjc4n > .r-13awgt0.css-1dbjc4n > div > div > div > div:has-text(Try Microsoft Edge)
-google.*#@#.g div.yuRUbf a > h3 + div > .H9lube, .g div.yuRUbf a > h3 + div > div > span, .g div.yuRUbf a + div > div > span, .g div.yuRUbf a + div > div > div > span
+web.skype.com##[style="position: relative; display: flex; flex-direction: column; flex-grow: 0; flex-shrink: 0; overflow: hidden; align-items: stretch; align-self: stretch; background-color: rgba(241, 241, 244, 0.5); border-color: rgb(255, 255, 255); border-width: 2px; border-style: solid;"]
+web.skype.com##.css-1dbjc4n.r-14lw9ot.r-13awgt0
+web.skype.com##.r-13awgt0.css-1dbjc4n > div > .reactxp-ignore-pointer-eventsgoogle.*#@#.g div.yuRUbf a > h3 + div > .H9lube, .g div.yuRUbf a > h3 + div > div > span, .g div.yuRUbf a + div > div > span, .g div.yuRUbf a + div > div > div > span
 google.*##.H9lube
 google.*##.VuuXrf
 google.*#@#.g div.yuRUbf a > h3, .g div.yuRUbf a + div > div:style(margin-top: 0px !important;)
