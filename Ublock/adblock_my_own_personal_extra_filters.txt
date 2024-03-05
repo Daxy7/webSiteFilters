@@ -164,6 +164,7 @@ pico.tools$3p
 
 chatbot.com$3p
 chatbot.aisera.cloud
+computer.com$3p
 echobot.ai$3p
 boldchat.com$3p
 /31aug26paidd20_free_final_51.js
