@@ -335,7 +335,7 @@ youtube.com###lower-bumper
 youtube.com###author-photo
 tampermonkey.net##.advent_head
 youtube.com##a.ytp-menuitem
-reddit.com##.cookie-infobar
+reddit.com##[class="infobar-toaster-container"]
 *##.cookie-choices-info
 *###cookieDialog
 ##.js-consent-banner
@@ -371,7 +371,7 @@ the-sun.*##.article__footer:has-text(YOU MIGHT LIKE)
 the-sun.*###list-10:has-text(MORE FOR YOU)
 the-sun.*###list-11:has-text(RECOMMENDED FOR YOU)
 shazam.com##.footerstatic
-reddit.com##.premium-banner-outer
+reddit.com##[href="/premium"]
 reddit.com###redesign-beta-optin-btn
 ||contributions.guardianapis.com/modules/v3/banners/*$script
 mcdonalds.com###cookie-banner.cmp-embed
@@ -494,6 +494,7 @@ bing.com##.b_phead_chat_link
 bing.com##.cdxConv
 bing.com###codex.scope
 bing.com###b_sydTigerCont
+bing.com##li.b_mop.b_ans
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil

@@ -504,6 +504,7 @@ bing.com##.b_phead_chat_link
 bing.com##.cdxConv
 bing.com###codex.scope
 bing.com###b_sydTigerCont
+bing.com##li.b_mop.b_ans
 ! Reduce animation on Bing
 ! vvvvvvvvvvvvvvvvvvvvvv
 bing.com###ntf_newtabfil
@@ -741,3 +742,11 @@ datetimego.com##[class^="dtg"]
 chromewebstore.google.com##[aria-labelledby="promo-header"]
 youtube.com###lower-bumper
 youtube.com###author-photo
+reddit.com#@#.cookie-infobar
+reddit.com#@#.flair
+reddit.com#@#.premium-banner-outer
+reddit.com#@#.RESUserTagImage
+reddit.com##[class="RESUserTag"]
+reddit.com##[class="infobar-toaster-container"]
+reddit.com##[class^="flair"]
+reddit.com##[href="/premium"]
