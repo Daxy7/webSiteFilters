@@ -248,7 +248,7 @@ mumsnet.com##.relative.lg\:w-billboard.lg\:h-billboard.overflow-hidden.mx-auto.j
 healthline.com###iPopFrame_sw
 healthline.com##.css-11k39sg
 venturebeat.com##div.tude-cw-wrap
-tineye.com##.matches:has-text(SPONSORED)
+tineye.com##.collection:has-text(SPONSORED)
 partitionwizard.com##.promotions-banner-wrap
 web.archive.org##.caroufredsel_wrapper
 imgur.com##.GalleryVote-accoladesAnimate
