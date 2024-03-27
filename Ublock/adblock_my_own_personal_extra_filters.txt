@@ -743,10 +743,10 @@ chromewebstore.google.com##[aria-labelledby="promo-header"]
 youtube.com###lower-bumper
 youtube.com###author-photo
 reddit.com#@#.cookie-infobar
-reddit.com#@#.flair
+reddit.com##.flair
 reddit.com#@#.premium-banner-outer
 reddit.com#@#.RESUserTagImage
 reddit.com##[class="RESUserTag"]
 reddit.com##[class="infobar-toaster-container"]
-reddit.com##[class^="flair"]
+!reddit.com##[class^="flair"]
 reddit.com##[href="/premium"]
