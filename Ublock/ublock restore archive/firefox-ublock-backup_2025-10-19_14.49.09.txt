@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1760881209994,
+  "timeStamp": 1760881749211,
   "version": "1.66.4",
   "userSettings": {
     "advancedUserEnabled": true,
@@ -30,7 +30,8 @@
     "easyprivacy",
     "urlhaus-1",
     "plowe-0",
-    "ublock-annoyances"
+    "ublock-annoyances",
+    "https://raw.githubusercontent.com/Daxy7/webSiteFilters/main/Ublock/getadmiral_bypass_warnings.txt"
   ],
   "hiddenSettings": {
     "userResourcesLocation": "https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/master/video-swap-new/video-swap-new-ublock-origin.js"
