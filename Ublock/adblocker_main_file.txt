@@ -6,530 +6,203 @@
 ! GitHub issues: https://github.com/Daxy7/webSiteFilters/issues
 ! GitHub pull requests: https://github.com/Daxy7/webSiteFilters/pulls
 
-followlike.net$3p
-mochiads.com$3p
-facebook.com$3p
-facebook.net$3p
-quora.com$3p
-cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js
-getadmiral.com$3p
-getsitecontrol.com$3p
-addtoany.com$3p
-sharethis.com$3p
-convertbox.com$3p
-userway.org$3p
-/wp-content/*/fonts/Outfit-Variable.woff2
-/clippy.js
-!/prebid-ads.js
-!/ads-prebid.js
-!/ad-detection/ads.js
-!/javascript/ads.js
-!ads/ads.js
-##.adthrive-placeholder-video
-##.ads-playwire-container-250h
-##.media-wrap-h12
-
-||consent.*
-||cdn.cookielaw.org
-||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
-/cookieconsent.min.js
-/cookie-consent.js
-/biscuits.js
-/CookieInfo.min.js
-/eu_cookie_compliance.min.js
-/cookies-enabler.js
-/wcp-consent.js
-/consent-bundle
-/privacy/notice.js
-/cookie-policy.json
-/*-gdpr-min.js
-/*-gdpr-min.css
-/v1/privacy-managers
-/cookie/styles
-/java/cookie-accept.js
-/privacy_controller
-/handle/consent
-/js/cookie-notice.min.js
-/cookieControl
-/cookie-notice
-! /wrapperMessagingWithoutDetection.js
-/cookies/api
-/cookiebubble.min.js
-/cookieConsent.js
-/request-consent
-/consent-banner
-/iframe/consent
-/cookiebanner.js
-/*-cookie-consent.js
-/cookie-compliance-*
-/ajax_cookie_value
-/gdpr_changes.*.js
-/cookies_bar_js.min.js
-/cmpApiManager.bundle.js
-/complianz.min.js
-/cookie-widget
-/cookies_banner-*.
-/js.cookie.js
-/jquery.cookiesdirective.js
-/cookie-policy.js
-/complianz-gdpr
-/cookie-consent-v2/*
-||omegatheme.com/cookies-notification/*$script
-||freeprivacypolicy.com/public/cookie-consent
-||yastatic.net/s3/gdpr/popup
-||iubenda.com/cookie-solution
-||cdn.ampproject.org/v0/amp-consent
-||static.assetlab.io/consent/*$script
-||e33087.b.akamaiedge.net^$script
-/cookie-law-info
-/CookieNotice
-/gdpr-cookie-compliance
-/onetrust-vmware-mu
-/kaspersky-cookies-notification
-shopifycloud/privacy-banner
-||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
-/blog-plugins/wordads-classes/js/cmp/v2/*
-###privacy-consent
-###onetrust-consent-sdk
-###cookie_consent_message
+###cliSettingsPopup
 ###cookie-law-info-again
 ###cookie-law-info-bar
-###cliSettingsPopup
+###cookie_consent_message
+###onetrust-consent-sdk
+###privacy-consent
 ##.s-notice__danger
-cookieconsent.com$3p,important
-cookiebot.com$3p,important
-cookiepro.com$3p,important
+/*-cookie-consent.js
+/*-gdpr-min.css
+/*-gdpr-min.js
+/CookieInfo.min.js
+/CookieNotice
+/ajax_cookie_value
+/biscuits.js
+/cmpApiManager.bundle.js
+/complianz-gdpr
+/complianz.min.js
+/consent-banner
+/consent-bundle
+/cookie-compliance-*
+/cookie-consent.js
+/cookie-law-info
+/cookie-policy.js
+/cookie-policy.json
+/cookie-widget
+/cookie/styles
+/cookieConsent.js
+/cookieControl
+/cookiebanner.js
+/cookiebubble.min.js
+/cookieconsent.min.js
+/cookies-enabler.js
+/cookies/api
+/cookies_bar_js.min.js
+/eu_cookie_compliance.min.js
+/gdpr-cookie-compliance
+/handle/consent
+/iframe/consent
+/java/cookie-accept.js
+/jquery.cookiesdirective.js
+/js.cookie.js
+/js/cookie-notice.min.js
+/kaspersky-cookies-notification
+/onetrust-vmware-mu
+/privacy/notice.js
+/privacy_controller
+/request-consent
+/v1/privacy-managers
+/wcp-consent.js
+@@||quantcast.com^$domain=manchestereveningnews.co.uk|mirror.co.uk
+cassiecloud.com$3p,important
 cdn-cookieyes.com$3p,important
-cookieyes.com$3p,important
-cookiehub.net$3p,important
-cookieinformation.com$3p,important
-script.wikia.nocookie.net$3p,important
-cookie-script.com$3p,important
-cookiefirst.com$3p,important
+cdn.iubenda.com$3p,important
+cmp.dmgmediaprivacy.*
+cmp.springernature.com
+complianz.io$3p,important
 consensu.org$3p,important
 consentframework.com$3p,important
 consentmanager.net$3p,important
-cmp.springernature.com
-cmp.dmgmediaprivacy.*
-setupcmp.com$3p,important
-cassiecloud.com$3p,important
+cookie-script.com$3p,important
+cookiebot.com$3p,important
+cookieconsent.com$3p,important
+cookiefirst.com$3p,important
+cookiehub.net$3p,important
+cookieinformation.com$3p,important
+cookiepro.com$3p,important
+cookieyes.com$3p,important
+datagrail.io$3p,important
+didomi.io$3p,important
+efilli.com$3p,important
 evidon.com$3p,important
+gdpr-tcfv2.sp-prod.net$3p,important
+js.hs-banner.com$3p,important
+medicalnewstoday.com##.css-1hu1ip
+medicalnewstoday.com,healthline.com,psychcentral.com###modal-host
+medicalnewstoday.com,healthline.com,psychcentral.com##body:style(overflow:auto!important)
+nexus.ensighten.com$3p,important
+osano.com$3p,important
+piwik.pro$3p,important
+privacy-center.org$3p,important
+privacymanager.io$3p,important
+quantcast.com$3p
+script.wikia.nocookie.net$3p,important
+secureprivacy.ai$3p,important
+setupcmp.com$3p,important
+shopifycloud/privacy-banner
 trustarc.com$3p,important
 truste.com$3p,important
 usercentrics.*$3p,important
-efilli.com$3p,important
-! ##.ez_modal
-medicalnewstoday.com,healthline.com,psychcentral.com###modal-host
-medicalnewstoday.com,healthline.com,psychcentral.com##body:style(overflow:auto!important)
-medicalnewstoday.com##.css-1hu1ip
-! ezodn.com$3p
-secureprivacy.ai$3p,important
-! privacy-mgmt.com$3p
-! @@||privacy-mgmt.com^$domain=ladbible.com
-privacy-center.org$3p,important
-privacymanager.io$3p,important
-datagrail.io$3p,important
-gdpr-tcfv2.sp-prod.net$3p,important
-complianz.io$3p,important
-cdn.iubenda.com$3p,important
-didomi.io$3p,important
-piwik.pro$3p,important
-ketchcdn.com$3p,important
-quantcast.com$3p
-@@||quantcast.com^$domain=manchestereveningnews.co.uk|mirror.co.uk
-nexus.ensighten.com$3p,important
-osano.com$3p,important
-js.hs-banner.com$3p,important
+||cdn.ampproject.org/v0/amp-consent
+||cdn.cookielaw.org$important
+||cdnjs.cloudflare.com/ajax/libs/cookieconsent2
+||e33087.b.akamaiedge.net^$script
+||freeprivacypolicy.com/public/cookie-consent
+||iubenda.com/cookie-solution
+||s0.wp.com/wp-content/blog-plugins/wordads-classes/js/notice.bundle.js
+||yastatic.net/s3/gdpr/popup
 
+@@*.pusher.com
 browser-update.org$3p
 cdn.onesignal.com$3p
-||cdnjs.cloudflare.com/ajax/libs/video.js/
-pusher.com$3p
-@@*.pusher.com
-tinypass.com$3p
-list-manage.com$3p
-||carecart.io^$3p
-||metizapps.com^$3p
-widget.reviews.*$3p
-reviewwave.com$3p
 convertkit.com$3p
-###toaster
+list-manage.com$3p
+pico.tools$3p
+pusher.com$3p
+tinypass.com$3p
+widget.reviews.*$3p
+||carecart.io^$3p
+||cdnjs.cloudflare.com/ajax/libs/video.js/
+||metizapps.com^$3p
 
-chatbot.com$3p
-chatbot.aisera.cloud
-computer.com$3p
-echobot.ai$3p
-boldchat.com$3p
-/31aug26paidd20_free_final_51.js
-chatra.io$3p
-caresoft.*$3p
-livechatinc.com$3p
-mylivechat.com$3p
-smartsuppchat.com$script
-shopify-chat.shopifycloud.com
-###sy-whatshelp
-###shopify-chat
 ###dummy-chat-button-iframe
+###shopify-chat
 ##.livechat-container
-###msChatContainer
-##.snapInChatButton_XVNiknOskP
-##.embeddedServiceHelpButton
-##.floating-button-container
-socialintents.com$3p
-||storage.googleapis.com/code.snapengage.com/*$3p
-salesforceliveagent.com$3p
-gorgias.chat$3p
 ada.support$3p
-tidio.co$3p
-intercom.io$3p
-certainly.io$3p
-tawk.to$3p
-engage.wixapps.net$3p
-liveperson.net$3p
-justanswer.com$3p
-usemessages.com$3p
-nice-incontact.com$3p
-gis.goinstore.com$3p
-js.qualified.com$3p
-superlemon.xyz$3p
-freshbots.ai$3p
-inbenta.io$3p
-joonbot.com$3p
+boldchat.com$3p
 botsrv2.com$3p
-frontapp.com$3p
-sprinklr.com$3p
-driftt.com$3p
-zopim.com$3p
-!zdassets.com$3p
-!@@zdassets.com$css,image
+certainly.io$3p
+chatbot.aisera.cloud
+chatbot.com$3p
+chatra.io$3p
 crisp.chat$3p
 crisp.im$3p
+driftt.com$3p
+engage.wixapps.net$3p
+freshbots.ai$3p
+frontapp.com$3p
+gis.goinstore.com$3p
+gorgias.chat$3p
+inbenta.io$3p
+intercom.io$3p
+joonbot.com$3p
+js.qualified.com$3p
+justanswer.com$3p
+livechatinc.com$3p
+liveperson.net$3p
+mylivechat.com$3p
+nice-incontact.com$3p
+salesforceliveagent.com$3p
+shopify-chat.shopifycloud.com
+smartsuppchat.com$script
+sprinklr.com$3p
+tawk.to$3p
 theb.ai$3p
+tidio.co$3p
+usemessages.com$3p
+zopim.com$3p
 
-instiengage.com$3p
 apester.com
 inline.healthline.com
+instiengage.com$3p
 maven.io$3p
 typeform.com$3p
-zonos.com$3p
 zoho.com$3p
+zonos.com$3p
 
 foresee.com$3p
 medallia.com$3p
 
-imglarger.com##.tingle-modal--visible.custom-class-2.custom-class-1.tingle-modal--noOverlayClose.tingle-modal
-imglarger.com##body:style(overflow:auto!important)
-deepl.com##.focus-visible-light-container
-twitter.com##.r-1upvrn0.r-l5o3uw.css-1dbjc4n
-twitter.com##.r-16wqof.r-1dqxon3.r-16y2uox.r-kemksi.css-1dbjc4n
-twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n > .r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbjc4n
-twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n
-! twitter.com##body:style(overflow: auto !important;)
-! twitter.com##html->body:style(overflow:visible !important;)
-! twitter.com##html:style(overflow:visible !important;)
-twitter.com##.r-tvv088.r-1e081e0.r-1777fci.r-16y2uox.r-1awozwy.css-1dbjc4n
-thewordfinder.com##.container > .col-md-12
-subtitlebee.com##.width100.discount-offer
-turnoffthelights.com###materialModalYouTube
-github.com##.Popover
-websiteplanet.com###ctrl-d-popup
-websiteplanet.com##.atf.ads-container
-duckduckgo.com##.js-badge-link
-tvtropes.org###adblockModal-hidden
-tvtropes.org##.square_fad
-twitch.tv###twilight-sticky-footer-root
-scp-wiki.wikidot.com##.interwiki-stylable.scpnet-interwiki-wrapper
-wikipedia.*##.cn-fundraising
-deepl.com###headlessui-portal-root
-urbandictionary.com##.h-\[600px\].justify-center.items-center.lg\:flex.hidden.mb-4
-mumsnet.com##.lg\:block.hidden.bg-gray-200.lg\:min-h-\[578px\].min-h-\[434px\].pb-14.pt-1.my-10
-mumsnet.com##.lg\:flex-col.lg\:flex.lg\:min-w-\[300px\].lg\:col-span-4.col-span-12 > div.lg\:block.hidden.lg\:mt-8
-mumsnet.com##.relative.lg\:w-billboard.lg\:h-billboard.overflow-hidden.mx-auto.justify-center.flex-col.flex
-healthline.com###iPopFrame_sw
-healthline.com##.css-11k39sg
-venturebeat.com##div.tude-cw-wrap
-tineye.com##.collection:has-text(SPONSORED)
-partitionwizard.com##.promotions-banner-wrap
-web.archive.org##.caroufredsel_wrapper
-imgur.com##.GalleryVote-accoladesAnimate
-google.*###OotqVd
-google.*##div.OBMEnb:nth-of-type(2):has-text(People also search for)
-google.*##div.OBMEnb:has-text(People also search for)
-! google.*###taw
-! google.*##.Pm5mre
-! google.*##.ULSxyf:has-text(results below)
-discord.com##.animationAndSparklesContainer-7Fwx3i
-discord.com##.animation-1GAstp
-discord.com##.caretBottomCenter-4XccL3:has-text(Connect Xbox to Discord)
-discord.com##.notice-1x8lm-:has-text(account)
-discord.com##.notice-2HEN-u:has-text(Nitro)
-reddit.com##.listingsignupbar.infobar
-wp-content/themes/motherjones/js/ads.min.js
-socialblade.com##.socialblade-heartbeat:has-text(adblock whitelist)
-gamespot.com###contrib_rec.forum_google
-tumblr.com###glass-container:has-text(You need clearance)
-tumblr.com##body:style(overflow:auto!important)
-tumblr.com##.TopeC:has-text(Sign me up)
-tumblr.com##.tmblr-iframe--follow-teaser
-/async-login-wall*$domain=tumblr.com
-vk.com##.PageBottomBanner--bg-blue:has-text(Read only the most interesting posts)
-vk.com###box_layer_wrap
-vk.com###box_layer_bg
-vk.com##body:style(overflow:auto!important)
-youtube.com###premium-upsell-link
-washingtonpost.com##body:style(overflow:auto!important)
-washingtonpost.com##.purchase-paywall-overlay
-wired.com##.persistent-bottom
-wsj.com###cx-articlecover
-washingtonpost.com##.overflow-hidden:has-text(Stay informed)
-wired.com##.persistent-bottom
-wired.com##.consumer-marketing-unit--paywall-bar-call-to-action
-||telegraph.co.uk/martech/js/TGT-1002--paywall-meters-profile/
-||telegraph.co.uk/martech/js/TGT-390--martech-paywall/
-||telegraph.co.uk/martech/js/TGT-309--newsletter-units/
-||meter-svc.nytimes.com
-nytimes.com##.MAG_web_all_Monthly-Sale-dock_1:has-text(Thanks for reading)
-||coordinator.cm.bloomberg.com/coordination$xhr
-||accounts.google.com/gsi/status?client_id=*
-||ogs.google.com/u/0/widget/callout/sid
-abbott,abogado,ac,academy,accountant,accountants,active,actor,ad,ads,adult,ae,aero,af,afl,ag,agency,ai,airforce,al,allfinanz,alsace,am,amsterdam,an,android,ao,apartments,aq,aquarelle,ar,archi,army,arpa,as,asia,associates,at,attorney,au,auction,audio,autos,aw,ax,axa,az,ba,band,bank,bar,barclaycard,barclays,bargains,bauhaus,bayern,bb,bbc,bd,be,beer,berlin,best,bf,bg,bh,bi,bid,bike,bingo,bio,biz,bj,bl,black,blackfriday,bloomberg,blue,bm,bmw,bn,bnpparibas,bo,boats,bond,boo,boutique,bq,br,brussels,bs,bt,budapest,build,builders,business,buzz,bv,bw,by,bz,bzh,ca,cab,cafe,cal,camera,camp,cancerresearch,canon,capetown,capital,caravan,cards,care,career,careers,cartier,casa,cash,casino,cat,catering,cbn,cc,cd,center,ceo,cern,cf,cfd,cg,ch,channel,chat,cheap,chloe,christmas,chrome,church,ci,citic,city,ck,cl,claims,cleaning,click,clinic,clothing,club,cm,cn,co,coach,codes,coffee,college,cologne,com,community,company,computer,condos,construction,consulting,contractors,cooking,cool,coop,country,courses,cr,credit,creditcard,cricket,crs,cruises,cu,cuisinella,cv,cw,cx,cy,cymru,cyou,cz,dabur,dad,dance,date,dating,datsun,day,dclk,de,deals,degree,delivery,democrat,dental,dentist,desi,design,dev,diamonds,diet,digital,direct,directory,discount,dj,dk,dm,dnp,do,docs,doha,domains,doosan,download,durban,dvag,dz,eat,ec,edu,education,ee,eg,eh,email,emerck,energy,engineer,engineering,enterprises,epson,equipment,er,erni,es,esq,estate,et,eu,eurovision,eus,events,everbank,exchange,expert,exposed,express,fail,faith,fan,fans,farm,fashion,feedback,fi,film,finance,financial,firmdale,fish,fishing,fit,fitness,fj,fk,flights,florist,flowers,flsmidth,fly,fm,fo,foo,football,forex,forsale,foundation,fr,frl,frogans,fund,furniture,futbol,ga,gal,gallery,garden,gb,gbiz,gd,gdn,ge,gent,gf,gg,ggee,gh,gi,gift,gifts,gives,gl,glass,gle,global,globo,gm,gmail,gmo,gmx,gn,gold,goldpoint,golf,goo,goog,google,gop,gov,gp,gq,gr,graphics,gratis,green,gripe,gs,gt,gu,guge,guide,guitars,guru,gw,gy,hamburg,hangout,haus,healthcare,help,here,hermes,hiphop,hiv,hk,hm,hn,holdings,holiday,homes,horse,host,hosting,house,how,hr,ht,hu,ibm,id,ie,ifm,il,im,immo,immobilien,in,industries,infiniti,info,ing,ink,institute,insure,int,international,investments,io,iq,ir,irish,is,it,iwc,java,jcb,je,jetzt,jm,jo,jobs,joburg,jp,juegos,kaufen,kddi,ke,kg,kh,ki,kim,kitchen,kiwi,km,kn,koeln,komatsu,kp,kr,krd,kred,kw,ky,kyoto,kz,la,lacaixa,land,lat,latrobe,lawyer,lb,lc,lds,lease,leclerc,legal,lgbt,li,lidl,life,lighting,limited,limo,link,lk,loan,loans,london,lotte,lotto,love,lr,ls,lt,ltda,lu,luxe,luxury,lv,ly,ma,madrid,maif,maison,management,mango,market,marketing,markets,marriott,mc,md,me,media,meet,melbourne,meme,memorial,menu,mf,mg,mh,miami,mil,mini,mk,ml,mm,mma,mn,mo,mobi,moda,moe,monash,money,mormon,mortgage,moscow,motorcycles,mov,movie,mp,mq,mr,ms,mt,mtn,mtpc,mu,museum,mv,mw,mx,my,mz,na,nagoya,name,navy,nc,ne,net,network,neustar,new,news,nexus,nf,ng,ngo,nhk,ni,nico,ninja,nissan,nl,no,np,nr,nra,nrw,ntt,nu,nyc,nz,okinawa,om,one,ong,onl,online,ooo,org,organic,osaka,otsuka,ovh,pa,page,panerai,paris,partners,parts,party,pe,pf,pg,ph,pharmacy,photo,photography,photos,physio,piaget,pics,pictet,pictures,pink,pizza,pk,pl,place,plumbing,plus,pm,pn,pohl,poker,porn,post,pr,praxi,press,pro,prod,productions,prof,properties,property,ps,pt,pub,pw,py,qa,qpon,quebec,racing,re,realtor,recipes,red,redstone,rehab,reise,reisen,reit,ren,rentals,repair,report,republican,rest,restaurant,review,reviews,rich,rio,rip,ro,rocks,rodeo,rs,rsvp,ru,ruhr,rw,ryukyu,sa,saarland,sale,samsung,sap,sarl,saxo,sb,sc,sca,scb,schmidt,scholarships,school,schule,schwarz,science,scot,sd,se,services,sew,sexy,sg,sh,shiksha,shoes,shriram,si,singles,site,sj,sk,sky,sl,sm,sn,so,social,software,sohu,solar,solutions,soy,space,spiegel,spreadbetting,sr,ss,st,study,style,su,sucks,supplies,supply,support,surf,surgery,suzuki,sv,sx,sy,sydney,systems,sz,taipei,tatar,tattoo,tax,tc,td,tech,technology,tel,temasek,tennis,tf,tg,th,tickets,tienda,tips,tires,tirol,tj,tk,tl,tm,tn,to,today,tokyo,tools,top,toshiba,tours,town,toys,tp,tr,trade,trading,training,travel,trust,tt,tui,tv,tw,tz,ua,ug,uk,um,university,uno,uol,us,uy,uz,va,vacations,vc,ve,vegas,ventures,vermögensberater,vermögensberatung,versicherung,vet,vg,vi,viajes,video,villas,vision,vlaanderen,vn,vodka,vote,voting,voto,voyage,vu,wales,wang,watch,webcam,website,wed,wedding,wf,whoswho,wien,wiki,williamhill,win,wme,work,works,world,ws,wtc,wtf,xin,xxx,xyz,yachts,yandex,ye,yodobashi,yoga,yokohama,youtube,yt,za,zip,zm,zone,zuerich,zw,δοκιμή,бел,дети,испытание,мкд,мон,москва,онлайн,орг,рус,рф,сайт,срб,укр,қаз,հայ,טעסט,آزمایشی,إختبار,الاردن,الجزائر,السعودية,المغرب,امارات,ایران,بازار,بھارت,تونس,سودان,سورية,شبكة,عراق,عمان,فلسطين,قطر,مصر,مليسيا,موقع,پاکستان,परीक्षा,भारत,संगठन,বাংলা,ভারত,ਭਾਰਤ,ભારત,இந்தியா,இலங்கை,சிங்கப்பூர்,பரிட்சை,భారత్,ලංකා,ไทย,გე,みんな,グーグル,テスト,世界,中信,中国,中國,中文网,企业,佛山,信息,健康,八卦,公司,公益,台湾,台灣,商城,商店,商标,在线,广东,慈善,我爱你,手机,政务,政府,新加坡,时尚,机构,测试,淡马锡,測試,游戏,移动,组织机构,网址,网店,网络,谷歌,集团,飞利浦,香港,삼성,테스트,한국##.grecaptcha-badge
-com,org.net##.exit-intent__background.exit-intent
-com,org,net##.l-inline.m-detail--feature-container
-com,org,net##.l-inline.mm-video--landscape.m-video
-mywot.com##.cEVnBL
-mywot.com##.fnqDza
-mywot.com##.kxzBLN
-mywot.com##.gLFpuF
-mywot.com##.elyHWL
-gstatic.com/youtube/img/promos/growth/*
-youtube.com###big-yoodle
-youtube.com###donation-shelf
-youtube.com##.branding-img-container
-||archive.org/includes/build/js/donation-banner.min.js
-archive.org##.js-donate-banner.row
-google.*##+js(set, rwt, noopFunc)
-reddit.com##.commentsignupbar.infobar
-5gradar.com,anandtech.com,androidcentral.com,broadcastingcable.com,cinemablend.com,electronicmusician.com,gamesradar.com,guitarplayer.com,guitarworld.com,laptopmag.com,livescience.com,maclife.com,marieclaire.com,maximumpc.com,multichannelnews.com,musicradar.com,newsarama.com,pcgamer.com,techradar.com,tomsguide.com,tomshardware.com,ustelecomdaily.com,windowscentral.com##.related-articles-block
-5gradar.com,anandtech.com,androidcentral.com,broadcastingcable.com,cinemablend.com,electronicmusician.com,gamesradar.com,guitarplayer.com,guitarworld.com,laptopmag.com,livescience.com,maclife.com,marieclaire.com,maximumpc.com,multichannelnews.com,musicradar.com,newsarama.com,pcgamer.com,techradar.com,tomsguide.com,tomshardware.com,ustelecomdaily.com,windowscentral.com##.hawk-processed.hawk-nest
-! yandex.com##.popup2
-yandex.com##.i-bem.serp-item_card.serp-item
-yandex.com##.DistrPopup-Content
-yandex.com##.main__distr-popup
-yandex.com##body:style(overflow:auto!important)
-youtube.com##ytd-video-preview
-youtube.com##ytd-thumbnail-overlay-loading-preview-renderer
-youtube.com##ytd-thumbnail-overlay-time-status-renderer:style(display: inline-flex !important;)
-youtube.com##.ytd-thumbnail-overlay-inline-unplayable-renderer
-youtube.com##ytd-shelf-renderer:has(span:has-text(/Related to your search|From related searches|People also watched|For you|New for you|Watch again|Previously watched|Latest from/i))
-youtube.com##.ytd-rich-section-renderer:has-text(/Breaking News|Top news/i)
-youtube.com##ytd-rich-section-renderer:has-text(Shorts)
-youtube.com##ytd-reel-shelf-renderer:has-text(Shorts)
-youtube.com##.ytd-item-section-renderer:has-text(Trending Shorts)
-youtube.com###voice-search-button
-youtube.com###redirect-backto-safety-button
-youtube.com##.opened
-youtube.com###fade
-youtube.com###scrim
-youtube.com##.ytp-title-beacon
-youtube.com###lower-bumper
-youtube.com###author-photo
-tampermonkey.net##.advent_head
-youtube.com##a.ytp-menuitem
-reddit.com##[class="infobar-toaster-container"]
-*##.cookie-choices-info
-*###cookieDialog
-##.js-consent-banner
-yandex.com##.ImagesViewerApp-FooterContent
-yandex.com##.MediaViewer-LayoutFooter
-yandex.com##[id^="viewer_rim_direct"]
-yandex.com##.ContentLoader_skin_light
-express.co.uk##.ad-slot-article
-youtube.com###product-picker
-youtube.com###comment-teaser
-reddit.com##.reddit-video-controller-root.show-only-when-pinned.pinned-controls
-reddit.com##.buffering-controls
-youtube.com##.ytp-button.ytp-remote-button
-youtube.com###clarify-box
-youtube.com##ytd-info-panel-container-renderer:has-text(Context)
-youtube.com##.ytp-info-panel-preview
-youtube.com##.ryd-tooltip
-youtube.com##.ytp-promotooltip-wrapper
-yandex.com##div.incut
-yandex.com##div.JustifierRowLayout-Incut
-yandex.com##.MMImage-Origin
-yandex.com##.spin2
-yandex.com##.Tooltip
-translate.yandex.com##.state-fadeaway.tooltip_promo
-dailymail.co.uk##.horizontal-1eH9F.container-3zJLP
-dailymail.co.uk##.shareComment
-dailymail.co.uk##.vertical-2XJd5.container-3zJLP
-dailymail.co.uk##.linkro-wocc.link-bogr2
-dailymail.co.uk##.cleared.puff
-thesun.*##.article__footer
-thesun.*##div.widget-height
-the-sun.*##.article__footer:has-text(YOU MIGHT LIKE)
-the-sun.*###list-10:has-text(MORE FOR YOU)
-the-sun.*###list-11:has-text(RECOMMENDED FOR YOU)
-shazam.com##.footerstatic
-reddit.com##[href="/premium"]
-reddit.com###redesign-beta-optin-btn
-||contributions.guardianapis.com/modules/v3/banners/*$script
-mcdonalds.com###cookie-banner.cmp-embed
-youtube.com##.ytp-paid-content-overlay
-duplichecker.com##.mb5
-duplichecker.com###cookie_directive_container
-duplichecker.com##.set-anchor
-duplichecker.com##.plkane
-duplichecker.com##.jetdew
-*##*:style(animation-timing-function: step-start !important;transition-timing-function: step-start !important;)
-music.youtube.com##.ytmusic-like-button-renderer.style-scope.dislike
-urbandictionary.com##.leaderboard-250\:h-\[250px\]
-google.com##.irmCpc
-google.com##.Qq9jLd
-! google.com##.commercial-unit-desktop-top
-! google.com##.cu-container
-google.com##.gVqDn
-lens.google.*##.KUcdrd:has-text(Did you find these results)
-google.*###jW4n4:has-text(Please help us improve Google)
-google.*##.PnU5cd:has-text(Please help us improve)
-google.*##.Ryrdad:has-text(Please help us improve)
-google.*##.dwHDvd:has-text(How helpful were the results on Google Search?)
-google.*###customize-your-topics-tooltip-id
-google.*##.ff0Boe
-!google.*###topstuff
-google.*##.v5jHUb
-google.*##.wgwAc
-google.*##.match-mod-horizontal-padding
-google.*##[id^="eob"]
-google.*##.QlcHMc:has-text(See translations)
-google.*#.oPfux
-support.google.*##.inline-feedback__track
-getpocket.com##.syndication-ad
-youtube.com##.ytd-inline-survey-renderer
-youtube.com##.yt-live-chat-viewer-engagement-message-renderer
-twitch.tv##.consent-banner
-youtube.com##ytd-merch-shelf-renderer
-bing.com##.b_op_flyout
-bing.com##.b_floatrt.siz23.scs_exp.nowrap.b_secondaryText.b_suffix
-bing.com###df_load
-bing.com##.teal
-bing.com###bepfo
-||bing.com/rewardsapp/flyout
-bing.com##.popup
-bing.com##.bnp_fly_hp
-bing.com###l_ecrd_blk_5_Poll
-bing.com###fbpgbt
-bing.com##.recommendationsTableFeedback
-bing.com##.l_ecrd_tud
-bing.com###tob_rail_container
-bing.com###textDeeplinksWidgetContainer
-!bing.com###b_context > .b_ans:has-text(Related searches)
-bing.com###b_notificationContainer_bop
-bing.com##.msnpeek.hp_special_experience
-bing.com##.b_rc_gb_bottom_cover
-bing.com##.tpcn > .tilk
-bing.com##.tptt
-! Makes bing look more like google
-! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-bing.com###b_dynRail
-bing.com##.slide-in.b_widgetContainer
-! bing.com##.tab-container
-bing.com###b_pole
-bing.com##.qpbold.qpluscrs:has-text(Explore)
-bing.com##.b_rc_gb_wrc_carousel_container:has-text(Also mentioned)
-bing.com##.scs_txt.scs_t:has-text(See this)
-bing.com##.scs_t:has-text(See this)
-bing.com###b_othersqli:has-text(Suggested searches)
-bing.com##li.b_ans:has-text(Did you know?)
-bing.com##.b_explans:has-text(Explore)
-bing.com##.l_ecrd_simgset
-bing.com##.b_firstResultPadding:has-text(See results)
-bing.com###l_ecrd_blk_9_Poll.lite-entcard-blk
-bing.com###relatedSearchesLGWContainer
-bing.com##.b_topborder.b_top.b_ans:has-text(COVID-19)
-bing.com##.b-conclfb-wrapper:has-text(Is this answer helpful)
-bing.com##.spl_ugcpoll
-bing.com###LGPopDomainsContainer
-bing.com##.b_fpl_icon
-bing.com###b_opalpers
-bing.com##.tr_nh.va_tt.vsb_tr_c:has-text(TikTok short videos)
-bing.com##.b_imgsmall:has-text(Images of)
-bing.com###qs_searchBoxOuter
-bing.com##.rc_vlHorizontalImage:has-text(TRENDING CONTENT)
-!bing.com##.idp-refresh-page-bottom-page:has-text(Related searches)
-bing.com##.idp-refresh-page-bottom-page
-bing.com##.inline_blk:has-text(Explore more)
-bing.com##.inline_blk:has-text(People interested)
-bing.com##.b_title.btitle:has-text(Videos of)
-bing.com##.HeroTab.tab-head
-bing.com##.fbtopblue
-bing.com##.toolTip.id_button
-bing.com##.prnzt
-bing.com###healthTaskpane_container
-bing.com##.b_recents
-bing.com##.lgw-slide-in
-bing.com##.cdxPrompt
-bing.com##.fullsize.vrh_clc.popout.vrhc
-bing.com###waitListDefault
-bing.com##.inline
-bing.com##.rsbctr
-bing.com##.secure_icon
-bing.com###mfa_srch
-bing.com###fabas_2.b_fabli
-bing.com###fabstrip.b_fabstrip
-bing.com###mfa_root.b_fabexp.fabcolapse
-bing.com##.b_pag_lets_chat
-bing.com##.l_ecrd_rrct-div
-bing.com##.wpt_bc_container
-bing.com##.rs_chat
-bing.com##.df_dn_content
-bing.com##.df_alaskcarousel
-bing.com###b-scopeListItem-conv
-bing.com##.bordertop
-bing.com##.sa_sg_chaticon_blue:upward(2)
-bing.com##.batg
-bing.com##.bats
-bing.com###chat_upsell_bubble_icon
-bing.com##.b_phead_chat_link
-bing.com##.cdxConv
-bing.com###codex.scope
-bing.com###b_sydTigerCont
-bing.com##li.b_mop.b_ans
-! Reduce animation on Bing
-! vvvvvvvvvvvvvvvvvvvvvv
-bing.com###ntf_newtabfil
-bing.com##.bw-shopgif
-||assets.msn.com/bundles/v1/bingHomepage/*$script
-microsoft.com##.RailBanner
-microsoft.com##.ucsUhfContainer
-microsoft.com##.teachingCalloutPopover:has-text(Sign in with)
-microsoft.com##.prrColumnWrapper
-web.skype.com##[style="position: relative; display: flex; flex-direction: column; flex-grow: 0; flex-shrink: 0; overflow: hidden; align-items: stretch; align-self: stretch; background-color: rgba(241, 241, 244, 0.5); border-color: rgb(255, 255, 255); border-width: 2px; border-style: solid;"]
-web.skype.com##.css-1dbjc4n.r-14lw9ot.r-13awgt0
-web.skype.com##.r-13awgt0.css-1dbjc4n > div > .reactxp-ignore-pointer-eventsgoogle.*#@#.g div.yuRUbf a > h3 + div > .H9lube, .g div.yuRUbf a > h3 + div > div > span, .g div.yuRUbf a + div > div > span, .g div.yuRUbf a + div > div > div > span
-google.*##.H9lube
-google.*##.VuuXrf
-google.*#@#.g div.yuRUbf a > h3, .g div.yuRUbf a + div > div:style(margin-top: 0px !important;)
-yandex.com##.Favicon-Icon
-! The filter below needs improvement (randomly generated cosmetic ids)
-! vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-! *##div.l:has-text(To make Medium work,)
-youtube.com###dismissible > .ytd-statement-banner-renderer
-youtube,fandom.com##.sitenotice--visible
-fandom.com##.marketing-notifications
-google.*##.QlcHMc:has-text(Filter definitions by topic)
-google.*##.bQX4Yc:has-text(Do more with lyrics)
-google.*##.lOKM4d:has-text(Safer with Google)
-youtube.com##.ytd-popup-container:has-text(/Changes to YouTube’s Terms of Service|Check out your new Library|Get access to exclusive perks|Get YouTube without the ads|How is your experience|How is YouTube today|Our Terms of Service have been updated|Rate your ads|Try the YouTube Kids app|What is your biggest complaint|Which problems are you experiencing|signed out of YouTube|Now you can share posts|Renew your Channel Membership/i)
-youtube.com##.ytd-popup-container:has-text(/Choose what to play next|Join this channel and unlock|New emotes/i)
-youtube.com##tp-yt-iron-dropdown:has-text(/When you send a message|Try gifting|New emotes/i)
-youtube.com##.yt-tooltip-renderer:has-text(/Subscribe so you never miss/i)
-youtube.com##ytd-metadata-row-container-renderer:has-text(No mature content)
-youtube.com##.paper-toast-open
-! music.youtube.com##.ytmusic-popup-container
-music.youtube.com##tp-yt-paper-dialog
-youtube.com##ytd-popup-container:has(#content.yt-tooltip-renderer yt-formatted-string.yt-tooltip-renderer:has-text(/member/))
-youtube.com###endpoint[href="/premium"]
-youtube.com##.ytlr-overlay-toast-renderer
-youtube.com##.ytd-recognition-shelf-renderer
+rdrama.net###banner-link
+rdrama.net###cursormarsey
+rdrama.net###scrollmarsey
+rdrama.net##.hat
+rdrama.net##.list-inline
+rdrama.net##.ml-2:has-text(post)
+rdrama.net##.mr-1
+rdrama.net##.patron-img,.house-img,.fa-badge-check
+rdrama.net##.profile-pic-30-wrapper
+rdrama.net##.pronouns
+rdrama.net##.sidebar-img
+rdrama.net##.srd
+rdrama.net##marquee
 
+*$script,3p,denyallow=gstatic.com|recaptcha.net|storage.googleapis.com,domain=virustotal.com
+*$script,3p,domain=totaljerkface.com
+/fluidplayer.js$from=rule34.xxx
+/fluidplayer.min.js$from=rule34.xxx
+@@||ttvnw.net/v1/playlist$xhr,3p,replace=/#EXT-X-DATERANGE:ID="(stitched-ad|maf-ad|source|trigger)"\S+\n|#EXT-X-DATERANGE:ID=\S+?CLASS="twitch-(?:stream-source|trigger|maf-ad)"\S+\n|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(#EXT-X-DATERANGE|$))|(\n#EXT-X-DISCONTINUITY\s|#EXT-X-TWITCH-PREFETCH\S+)//gs
+genius.com##.sc-8f7a798d-0
+genius.com##.sc-a1c52130-0
+imginn.com##.load-more
+imginn.com##div.comment:nth-of-type(-n+512):nth-of-type(n+17)
+twitch.tv###twilight-sticky-footer-root
+twitch.tv##+js(twitch-videoad)
+twitch.tv##div.player-overlay-background--darkness-3
+web.archive.org##.caroufredsel_wrapper
+www.gtainside.de##.ad.box_grey:upward(1)
+www.gtainside.de##.ads
+www.gtainside.de##div.bar_container:has-text(Advertising)
+www.twitch.tv#@#:matches-path(/^\/[0-9_a-z]+$/) .top-bar--pointer-enabled > div > .tw-media-card-stat
+www.twitch.tv#@#:matches-path(/^\/[0-9_a-z]+$/) .video-player__overlay > .follow-panel-overlay.tw-transition[aria-hidden="false"]
+www.twitch.tv#@#:matches-path(/^\/[0-9_a-z]+$/) [data-a-target="video-ref"]:has(.video-player__overlay > .follow-panel-overlay.tw-transition[aria-hidden="false"]) + div[class^="Layout-sc-"][hidden=""]:style(display:block !important;)
+www.twitch.tv#@#:matches-path(/^\/[0-9_a-z]+$/) div.video-player__overlay > div[class*="InjectLayout-sc-"] > div.player-overlay-background--darkness-3
+www.twitch.tv#@#[data-a-target="video-ad-countdown"]
+www.twitch.tv#@#[data-a-target="video-ad-label"]
+www.twitch.tv#@#button[aria-label="Leave feedback for this Ad"]
+youtube.com##[is-in-first-column]:remove-attr(is-in-first-column)
+youtube.com##ytd-rich-item-renderer[rendered-from-rich-grid][is-in-first-column]:style(margin-left: calc(var(--ytd-rich-grid-item-margin)/2) !important;)
+||web-static.archive.org/_static/waybackjs/screenshots/wm_*$image,domain=web.archive.org
+||www.youtube.com/youtubei/v1/updated_metadata?prettyPrint=false$xhr

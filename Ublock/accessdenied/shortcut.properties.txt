@@ -1,0 +1,1 @@
++set r_xassetnum xmodel=2300 material=4096 image=4000 loaded_sound=2400 weapon=256 +exec server.cfg +set fs_game mods/accessdenied

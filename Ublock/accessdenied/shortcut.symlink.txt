@@ -1,1 +1,0 @@
-+set r_xassetnum xmodel=2300 material=4096 image=4000 weapon=170 com_hunkmegs 512 +set fs_game mods/accessdenied +exec server.cfg
