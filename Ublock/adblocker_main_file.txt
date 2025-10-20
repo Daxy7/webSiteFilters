@@ -166,6 +166,8 @@ foresee.com$3p
 medallia.com$3p
 
 *$script,3p,denyallow=gstatic.com|recaptcha.net|storage.googleapis.com,domain=virustotal.com
+genius.com##.sc-8f7a798d-0
+genius.com##.sc-a1c52130-0
 web.archive.org##.caroufredsel_wrapper
 youtube.com##[is-in-first-column]:remove-attr(is-in-first-column)
 youtube.com##ytd-rich-item-renderer[rendered-from-rich-grid][is-in-first-column]:style(margin-left: calc(var(--ytd-rich-grid-item-margin)/2) !important;)

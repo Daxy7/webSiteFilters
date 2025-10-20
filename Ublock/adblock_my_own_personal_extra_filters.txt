@@ -165,8 +165,10 @@ zonos.com$3p
 foresee.com$3p
 medallia.com$3p
 
+rdrama.net###banner-homoween-svg
 rdrama.net###banner-link
 rdrama.net###cursormarsey
+rdrama.net###event-song-section
 rdrama.net###scrollmarsey
 rdrama.net##.hat
 rdrama.net##.list-inline
@@ -178,6 +180,7 @@ rdrama.net##.pronouns
 rdrama.net##.sidebar-img
 rdrama.net##.srd
 rdrama.net##marquee
+||rdrama.net/assets/events/homoween/
 
 watchpeoplelive.tv###banner-homoween-svg
 watchpeoplelive.tv###banner-link
