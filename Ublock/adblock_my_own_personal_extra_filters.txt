@@ -282,9 +282,9 @@ youtube.com##ytd-rich-item-renderer[rendered-from-rich-grid][is-in-first-column]
 ||ceros.com^$important
 ||cnevids.com^$important
 ||condenast.io^$important
-!||discord.com^$important
+||discord.com^$3p
 ||fuck2hard.com^$important
-!||imgur.com^$important
+!||imgur.com^$3p
 ||inmobi.com^$important
 ||jwpsrv.com^$important
 ||ketchcdn.com^$important
