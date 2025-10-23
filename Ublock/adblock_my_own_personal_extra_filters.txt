@@ -250,15 +250,16 @@ watchpeopledie.tv##span.mr-1
 @@||ttvnw.net/v1/playlist$xhr,3p,replace=/#EXT-X-DATERANGE:ID="(stitched-ad|maf-ad|source|trigger)"\S+\n|#EXT-X-DATERANGE:ID=\S+?CLASS="twitch-(?:stream-source|trigger|maf-ad)"\S+\n|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(#EXT-X-DATERANGE|$))|(\n#EXT-X-DISCONTINUITY\s|#EXT-X-TWITCH-PREFETCH\S+)//gs
 genius.com##.sc-8f7a798d-0
 genius.com##.sc-a1c52130-0
-imginn.com##.load-more
-imginn.com##div.comment:nth-of-type(-n+512):nth-of-type(n+17)
-twitch.tv###twilight-sticky-footer-root
-twitch.tv##+js(twitch-videoad)
-twitch.tv##div.player-overlay-background--darkness-3
-web.archive.org##.caroufredsel_wrapper
 gtainside.de##.ad.box_grey:upward(1)
 gtainside.de##.ads
 gtainside.de##div.bar_container:has-text(Advertising)
+imginn.com##.load-more
+imginn.com##div.comment:nth-of-type(-n+512):nth-of-type(n+17)
+imgsli.com##.banner
+imgsli.com##[href*="bit.ly/"]
+twitch.tv###twilight-sticky-footer-root
+twitch.tv##+js(twitch-videoad)
+twitch.tv##div.player-overlay-background--darkness-3
 twitch.tv#@#:matches-path(/^\/[0-9_a-z]+$/) .top-bar--pointer-enabled > div > .tw-media-card-stat
 twitch.tv#@#:matches-path(/^\/[0-9_a-z]+$/) .video-player__overlay > .follow-panel-overlay.tw-transition[aria-hidden="false"]
 twitch.tv#@#:matches-path(/^\/[0-9_a-z]+$/) [data-a-target="video-ref"]:has(.video-player__overlay > .follow-panel-overlay.tw-transition[aria-hidden="false"]) + div[class^="Layout-sc-"][hidden=""]:style(display:block !important;)
@@ -266,6 +267,7 @@ twitch.tv#@#:matches-path(/^\/[0-9_a-z]+$/) div.video-player__overlay > div[clas
 twitch.tv#@#[data-a-target="video-ad-countdown"]
 twitch.tv#@#[data-a-target="video-ad-label"]
 twitch.tv#@#button[aria-label="Leave feedback for this Ad"]
+web.archive.org##.caroufredsel_wrapper
 youtube.com##[is-in-first-column]:remove-attr(is-in-first-column)
 youtube.com##ytd-rich-item-renderer[rendered-from-rich-grid][is-in-first-column]:style(margin-left: calc(var(--ytd-rich-grid-item-margin)/2) !important;)
 ||web-static.archive.org/_static/waybackjs/screenshots/wm_*$image,domain=web.archive.org
