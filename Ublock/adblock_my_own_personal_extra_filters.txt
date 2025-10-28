@@ -248,11 +248,14 @@ watchpeopledie.tv##span.mr-1
 /fluidplayer.js$from=rule34.xxx
 /fluidplayer.min.js$from=rule34.xxx
 @@||ttvnw.net/v1/playlist$xhr,3p,replace=/#EXT-X-DATERANGE:ID="(stitched-ad|maf-ad|source|trigger)"\S+\n|#EXT-X-DATERANGE:ID=\S+?CLASS="twitch-(?:stream-source|trigger|maf-ad)"\S+\n|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(#EXT-X-DATERANGE|$))|(\n#EXT-X-DISCONTINUITY\s|#EXT-X-TWITCH-PREFETCH\S+)//gs
+amazon.*###magnifierLens
+dictionary.com,thesaurus.com###dcoHeader-container
 genius.com##.sc-8f7a798d-0
 genius.com##.sc-a1c52130-0
 gtainside.de##.ad.box_grey:upward(1)
 gtainside.de##.ads
 gtainside.de##div.bar_container:has-text(Advertising)
+imginn.com##.block-sulvo
 imginn.com##.load-more
 imginn.com##div.comment:nth-of-type(-n+512):nth-of-type(n+17)
 imgsli.com##.banner
@@ -285,6 +288,9 @@ youtube.com##ytd-rich-item-renderer[rendered-from-rich-grid][is-in-first-column]
 ||cnevids.com^$important
 ||condenast.io^$important
 ||discord.com^$3p
+||discordapp.com^$3p
+||facebook.com^$3p
+||facebook.net^$3p
 ||fuck2hard.com^$important
 !||imgur.com^$3p
 ||inmobi.com^$important
